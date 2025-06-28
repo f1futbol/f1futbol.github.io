@@ -188,6 +188,7 @@
       <button onclick="filtrar('river')">River</button>
       <button onclick="filtrar('boca')">Boca</button>
       <button onclick="filtrar('argentina')">Argentina</button>
+      <button onclick="filtrar('medidas')">Medidas</button>
     </div>
   </div>
 
@@ -197,6 +198,17 @@
     <a class="prev" onclick="cambiarImagen(-1)">&#10094;</a>
     <img id="modal-img" src="">
     <a class="next" onclick="cambiarImagen(1)">&#10095;</a>
+  </div>
+
+  <div id="medidas" class="hidden" style="background: #fff; padding: 40px 20px;">
+    <h2 style="text-align:center; color: #c00;">Guía de Talles</h2>
+    <div class="galeria">
+      <img src="catalogo/medidas/version hincha.png" alt="Medidas Versión Hincha" loading="lazy">
+      <img src="catalogo/medidas/medidas player.png" alt="Medidas Versión Jugador" loading="lazy">
+      <img src="catalogo/medidas/version mujer.png" alt="Medidas Versión Mujer" loading="lazy">
+      <img src="catalogo/medidas/f1.png" alt="Medidas F1" loading="lazy">
+      <img src="catalogo/medidas/niño.png" alt="Medidas Kit de Niño" loading="lazy">
+    </div>
   </div>
 
   <div class="producto river">
@@ -405,29 +417,40 @@
     }
 
     // Filtro por equipo
-  function filtrar(equipo) {
+function filtrar(equipo) {
   const productos = document.querySelectorAll(".producto");
   const bienvenida = document.getElementById("bienvenida");
   const logoFixed = document.getElementById("logo-fixed");
+  const titulo = document.getElementById("titulo");
+  const medidas = document.getElementById("medidas");
 
   productos.forEach(p => {
     if (equipo === "todos") {
       p.classList.remove("hidden");
-      bienvenida.style.display = "none";
-      logoFixed.style.display = "block";
-  document.getElementById("titulo").classList.add("titulo-chico");
-    } else if (equipo === "ninguno") {
+    } else if (equipo === "ninguno" || equipo === "medidas") {
       p.classList.add("hidden");
-      bienvenida.style.display = "block";
-      logoFixed.style.display = "none";
-  document.getElementById("titulo").classList.remove("titulo-chico");
     } else {
       p.classList.toggle("hidden", !p.classList.contains(equipo));
-      bienvenida.style.display = "none";
-      logoFixed.style.display = "block";
-  document.getElementById("titulo").classList.add("titulo-chico");
     }
-    });
+  });
+
+  // Mostrar u ocultar bienvenida y logo
+  if (equipo === "ninguno") {
+    bienvenida.style.display = "block";
+    logoFixed.style.display = "none";
+    titulo.classList.remove("titulo-chico");
+    medidas.classList.add("hidden");
+  } else if (equipo === "medidas") {
+    bienvenida.style.display = "none";
+    logoFixed.style.display = "block";
+    titulo.classList.add("titulo-chico");
+    medidas.classList.remove("hidden");
+  } else {
+    bienvenida.style.display = "none";
+    logoFixed.style.display = "block";
+    titulo.classList.add("titulo-chico");
+    medidas.classList.add("hidden");
+    }
   }
   window.onload = () => {
     filtrar("ninguno");
