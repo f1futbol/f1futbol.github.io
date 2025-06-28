@@ -146,7 +146,31 @@
      display: none;
     }
     
-  </style>
+  
+@media (max-width: 768px) {
+  #bienvenida {
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+  }
+
+  h1 {
+    font-size: 48px;
+    margin-top: 20px;
+  }
+
+  .logo {
+    width: 80px;
+    top: 10px;
+    left: 10px;
+  }
+}
+
+.titulo-chico {
+  font-size: 32px !important;
+}
+
+</style>
 </head>
 <body>
 
@@ -155,7 +179,7 @@
     <img src="catalogo/logo1.jpg" alt="F1Futbol Store Logo" class="logo">
   </a>
 
-  <h1>Catálogo F1Futbol Store</h1>
+  <h1 id="titulo">Catálogo F1Futbol Store</h1>
   <div id="bienvenida">
     <div class="nav">
       <button onclick="filtrar('todos')">Todos</button>
@@ -385,14 +409,17 @@
       p.classList.remove("hidden");
       bienvenida.style.display = "none";
       logoFixed.style.display = "block";
+  document.getElementById("titulo").classList.add("titulo-chico");
     } else if (equipo === "ninguno") {
       p.classList.add("hidden");
       bienvenida.style.display = "block";
       logoFixed.style.display = "none";
+  document.getElementById("titulo").classList.remove("titulo-chico");
     } else {
       p.classList.toggle("hidden", !p.classList.contains(equipo));
       bienvenida.style.display = "none";
       logoFixed.style.display = "block";
+  document.getElementById("titulo").classList.add("titulo-chico");
     }
     });
   }
