@@ -63,9 +63,9 @@
     }
     .galeria img {
       width: 200px;
-      height: 200px; /* 🔧 fija altura */
+      height: 200px;
       border-radius: 8px;
-      object-fit: cover; /* ✂️ recorta y centra la imagen */
+      object-fit: cover; 
       box-shadow: 0 0 5px rgba(0,0,0,0.2);
       cursor: pointer;
       transition: transform 0.2s;
@@ -90,10 +90,6 @@
       height: 100%;
       overflow: hidden;
       background-color: rgba(0,0,0,0.8);
-      /*ultima mod*/
-      display: flex;
-      align-items: center; 
-      justify-content: center;
     }
     #modal img {
       margin: 50px auto;
@@ -146,12 +142,6 @@
     
   
 @media (max-width: 768px) {
-  /*ultima mod*/
-  .nav button {
-    margin: 10px; 
-    padding: 12px 20px; 
-    font-size: 18px;
-  }
 
   #bienvenida {
     background-size: cover;
