@@ -24,41 +24,46 @@ let galeriaActual = [];
       imagenActual = (imagenActual + direccion + galeriaActual.length) % galeriaActual.length;
       document.getElementById("modal-img").src = galeriaActual[imagenActual].src;
     }
-
+  
+  function toggleVersiones() {
+    const submenu = document.getElementById("submenu-version");
+    submenu.classList.toggle("hidden");
+  }
     // Filtro por equipo
-function filtrar(equipo) {
-  const productos = document.querySelectorAll(".producto");
-  const bienvenida = document.getElementById("bienvenida");
-  const logoFixed = document.getElementById("logo-fixed");
-  const titulo = document.getElementById("titulo");
-  const medidas = document.getElementById("medidas");
+  function filtrar(categoria) {
+    const productos = document.querySelectorAll(".producto");
+    const bienvenida = document.getElementById("bienvenida");
+    const logoFixed = document.getElementById("logo-fixed");
+    const titulo = document.getElementById("titulo");
+    const medidas = document.getElementById("medidas");
+    const submenu = document.getElementById("submenu-version");
 
-  productos.forEach(p => {
-    if (equipo === "todos") {
-      p.classList.remove("hidden");
-    } else if (equipo === "ninguno" || equipo === "medidas") {
-      p.classList.add("hidden");
+    // Cierra el menú de versiones si está abierto
+    submenu.classList.add("hidden");
+
+    productos.forEach(p => {
+      if (categoria === "ninguno" || categoria === "medidas") {
+        p.classList.add("hidden");
+      } else {
+        p.classList.toggle("hidden", !p.classList.contains(categoria));
+      }
+    });
+
+    if (categoria === "ninguno") {
+      bienvenida.style.display = "block";
+      logoFixed.style.display = "none";
+      titulo.classList.remove("titulo-chico");
+      medidas.classList.add("hidden");
+    } else if (categoria === "medidas") {
+      bienvenida.style.display = "none";
+      logoFixed.style.display = "block";
+      titulo.classList.add("titulo-chico");
+      medidas.classList.remove("hidden");
     } else {
-      p.classList.toggle("hidden", !p.classList.contains(equipo));
-    }
-  });
-
-  // Mostrar u ocultar bienvenida y logo
-  if (equipo === "ninguno") {
-    bienvenida.style.display = "block";
-    logoFixed.style.display = "none";
-    titulo.classList.remove("titulo-chico");
-    medidas.classList.add("hidden");
-  } else if (equipo === "medidas") {
-    bienvenida.style.display = "none";
-    logoFixed.style.display = "block";
-    titulo.classList.add("titulo-chico");
-    medidas.classList.remove("hidden");
-  } else {
-    bienvenida.style.display = "none";
-    logoFixed.style.display = "block";
-    titulo.classList.add("titulo-chico");
-    medidas.classList.add("hidden");
+      bienvenida.style.display = "none";
+      logoFixed.style.display = "block";
+      titulo.classList.add("titulo-chico");
+      medidas.classList.add("hidden");
     }
   }
   window.onload = () => {
