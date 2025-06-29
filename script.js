@@ -27,7 +27,9 @@ let galeriaActual = [];
   
   function toggleVersiones() {
     const submenu = document.getElementById("submenu-version");
-    submenu.classList.toggle("hidden");
+    if (submenu) {
+      submenu.classList.toggle("hidden");
+    }
   }
     // Filtro por equipo
   function filtrar(categoria) {
