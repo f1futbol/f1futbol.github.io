@@ -151,43 +151,37 @@
   
 @media (max-width: 768px) {
 
-  #bienvenida {
-    background-size: cover;
-    background-position: center;
-    height: 60vh;
-  }
-
-  h1 {
-    font-size: 48px;
-    margin-top: 20px;
-  }
-
-  .logo {
-    width: 80px;
-    top: 10px;
-    left: 10px;
-  }
-
-  .galeria img {
-    width: 100px;
-    height: 100px;
-  }
-
-  .galeria {
-    gap: 8px;
-  }
-  .prev,
-  .next {
-      font-size: 30px;
-      padding: 5px;
-  }
-  .close {
-    font-size: 30px;
-    top: 10px;
-    right: 15px;
-  }
-}
-
-.titulo-chico {
-  font-size: 24px !important;
-}
+      #bienvenida {
+      background-size: cover;
+      background-position: center;
+      height: 60vh;
+      }
+      
+      h1 {
+      font-size: 48px;
+      margin-top: 20px;
+      }
+      
+      .logo {
+      width: 80px;
+      top: 10px;
+      left: 10px;
+      }
+      
+      .galeria img {
+      width: 100px;
+      height: 100px;
+      }
+      
+      .galeria {
+      gap: 8px;
+      }
+      .prev {
+      left: 10px;
+      }
+      .next {
+      right: 10px;
+      }
+      .titulo-chico {
+      font-size: 24px !important;
+      }
