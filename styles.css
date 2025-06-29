@@ -88,16 +88,14 @@
       top: 0;
       width: 100%;
       height: 100%;
-      overflow: auto; /* permite scroll si es necesario */
+      overflow: hidden;
       background-color: rgba(0,0,0,0.8);
-      display: flex;
-      align-items: center; /* centra verticalmente */
-      justify-content: center; /* centra horizontalmente */
     }
-
     #modal img {
+      margin: 50px auto;
+      display: block;
       max-width: 90%;
-      max-height: 90vh;
+      max-height: 80%;
       border-radius: 10px;
     }
     .close, .prev, .next {
@@ -160,68 +158,13 @@
     top: 10px;
     left: 10px;
   }
+
   .galeria img {
     width: 100px;
     height: 100px;
   }
 
   .galeria {
-    gap: 8px;
-  }
-
-}
-
-.titulo-chico {
-  font-size: 24px !important;
-}
-#modal {
-  display: none; /* Asegura que el modal esté oculto al cargar la página */
-  position: fixed;
-  z-index: 9999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto; /* permite scroll si es necesario */
-  background-color: rgba(0,0,0,0.8);
-  display: flex;
-  align-items: center; /* centra verticalmente */
-  justify-content: center; /* centra horizontalmente */
-}
-
-#modal img {
-  max-width: 90%;
-  max-height: 90vh;
-  border-radius: 10px;
-}
-
-@media (max-width: 768px) {
-  #bienvenida {
-    background-size: cover;
-    background-position: center;
-    height: 60vh;
-  }
-
-  h1 {
-    font-size: 48px;
-    margin-top: 20px;
-  }
-
-  .logo {
-    width: 80px;
-    top: 10px;
-    left: 10px;
-  }
-
-  /* Ajuste de las imágenes de la galería en móvil */
-  .galeria img {
-    width: 100px;
-    height: 100px;
-  }
-
-  .galeria {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Organiza las imágenes en filas */
     gap: 8px;
   }
 }
