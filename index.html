@@ -17,10 +17,19 @@
   <h1 id="titulo">Catálogo F1Futbol Store</h1>
   <div id="bienvenida">
     <div class="nav">
-      <button onclick="filtrar('todos')">Todos</button>
       <button onclick="filtrar('river')">River</button>
       <button onclick="filtrar('boca')">Boca</button>
       <button onclick="filtrar('argentina')">Argentina</button>
+      
+      <div style="display: inline-block; position: relative;">
+      <button onclick="toggleVersiones()">Versión</button>
+        <div id="submenu-version" class="hidden" style="position: absolute; top: 100%; left: 0; background-color: #c00; border-radius: 5px; padding: 5px;">
+          <button onclick="filtrar('hincha')">Hincha</button>
+          <button onclick="filtrar('jugador')">Jugador</button>
+          <button onclick="filtrar('retro')">Retro</button>
+        </div>
+      </div>
+
       <button onclick="filtrar('medidas')">Guía de talles</button>
     </div>
   </div>
@@ -45,7 +54,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river hincha">
     <h2>River Suplente Fan 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_suplente_1.jpg" alt="Frente sin sponsor">
@@ -65,7 +74,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river jugador">
     <h2>River Suplente Player 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_suplente_player_1.jpg" alt="Frente con sponsor">
@@ -86,7 +95,7 @@
     </div>
   </div>
   
-  <div class="producto river">
+  <div class="producto river hincha">
     <h2>River Titular Fan 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_titular_1.jpg" alt="Frente sin sponsor">
@@ -106,7 +115,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river jugador">
     <h2>River Titular Player 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_titular_player_1.png" alt="Frente sin sponsor">
@@ -127,7 +136,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river hincha">
     <h2>River Alternativa Fan 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_alternativa_1.jpg" alt="Frente">
@@ -146,7 +155,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river jugador">
     <h2>River Alternativa Player 25/26</h2>
     <div class="galeria">
       <img src="catalogo/river/river_alternativa_player_1.jpg" alt="Frente">
@@ -166,7 +175,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river hicha">
     <h2>River Titular Fan 24/25</h2>
     <div class="galeria">
       <img src="catalogo/river/river_titu_24.1.jpg" alt="Frente">
@@ -185,7 +194,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river jugador">
     <h2>River Titular Player 24/25</h2>
     <div class="galeria">
       <img src="catalogo/river/river_titu_player_24.1.jpg" alt="Frente">
@@ -204,7 +213,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river hincha">
     <h2>River Suplente Fan 24/25</h2>
     <div class="galeria">
       <img src="catalogo/river/river_sup_24.1.jpg" alt="Frente">
@@ -223,7 +232,7 @@
     </div>
   </div>
 
-  <div class="producto river">
+  <div class="producto river jugador">
     <h2>River Suplente Player 24/25</h2>
     <div class="galeria">
       <img src="catalogo/river/river_sup_player_24.1.jpg" alt="Frente">
@@ -244,7 +253,7 @@
   </div>
 
 
-  <div class="producto boca">
+  <div class="producto boca hincha">
     <h2>Boca Titular Fan 25/26</h2>
     <div class="galeria">
       <img src="catalogo/boca/boca_titular_1.jpg" alt="Frente">
@@ -263,7 +272,7 @@
     </div>
   </div>
   
-  <div class="producto boca">
+  <div class="producto boca jugador">
     <h2>Boca Titular Player 25/26</h2>
     <div class="galeria">
       <img src="catalogo/boca/boca_titular_player_1.jpg" alt="Frente">
@@ -282,7 +291,7 @@
     </div>
   </div>
   
-  <div class="producto boca">
+  <div class="producto boca hincha">
     <h2>Boca Suplente Fan 25/26</h2>
     <div class="galeria">
       <img src="catalogo/boca/boca_suplente_1.jpg" alt="Frente">
@@ -301,7 +310,7 @@
     </div>
   </div>
 
-<div class="producto boca">
+<div class="producto boca jugador">
     <h2>Boca Suplente Player 25/26</h2>
     <div class="galeria">
       <img src="catalogo/boca/boca_suplente_player_1.jpg" alt="Frente">
@@ -320,7 +329,7 @@
     </div>
   </div>
   
-    <div class="producto boca">
+    <div class="producto boca hincha">
     <h2>Boca Titular Fan 24/25</h2>
     <div class="galeria">
       <img src="catalogo/boca/titu_24.1.jpg" alt="Frente">
@@ -339,7 +348,7 @@
     </div>
   </div>
 
-  <div class="producto boca">
+  <div class="producto boca jugador">
     <h2>Boca Titular Player 24/25</h2>
     <div class="galeria">
       <img src="catalogo/boca/titu_player_24.1.jpg" alt="Frente">
@@ -359,7 +368,7 @@
     </div>
   </div>
 
-  <div class="producto boca">
+  <div class="producto boca hincha">
     <h2>Boca Suplente Fan 24/25</h2>
     <div class="galeria">
       <img src="catalogo/boca/sup_24.1.jpg" alt="Frente">
@@ -378,7 +387,7 @@
     </div>
   </div>
 
-  <div class="producto boca">
+  <div class="producto boca jugador">
     <h2>Boca Suplente Player 24/25</h2>
     <div class="galeria">
       <img src="catalogo/boca/sup_player_24.1.jpg" alt="Frente">
@@ -398,7 +407,7 @@
   </div>
 
 
-  <div class="producto argentina">
+  <div class="producto argentina hincha">
     <h2>Argentina 50 aniversario</h2>
     <div class="galeria">
       <img src="catalogo/argentina/arg_50_1.jpg" alt="Frente">
