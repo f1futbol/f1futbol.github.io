@@ -178,8 +178,12 @@
       }
       .prev {
       left: 20px;
+      font-size: 30px;
+      padding: 5px;
       }
       .next {
+      font-size: 30px;
+      padding: 5px;
       right: 20px;
       }
       .titulo-chico {
