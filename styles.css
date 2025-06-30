@@ -186,8 +186,18 @@
       padding: 5px;
       right: 20px;
       }
+      .nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px; /* separa vertical y horizontalmente */
+      }
+
       .nav button {
-      font-size: 10px  
+      flex: 1 1 40%;  /* hace que ocupen 40% del ancho con posibilidad de ajuste */
+      padding: 8px 10px;
+      font-size: 14px;
+      min-width: 120px;  /* opcional: evita que se achiquen demasiado */
       }
       .titulo-chico {
       font-size: 24px !important;
