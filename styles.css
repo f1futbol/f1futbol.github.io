@@ -172,7 +172,7 @@
       width: 100px;
       height: 100px;
       }
-      
+
       .galeria {
       gap: 8px;
       }
@@ -185,6 +185,9 @@
       font-size: 30px;
       padding: 5px;
       right: 20px;
+      }
+      .nav button {
+            padding: 6px  
       }
       .titulo-chico {
       font-size: 24px !important;
