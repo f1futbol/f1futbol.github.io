@@ -1,3 +1,4 @@
+
 let galeriaActual = [];
 let imagenActual = 0;
 
@@ -44,12 +45,6 @@ function filtrar(categoria) {
 
   // Oculta o muestra productos según la categoría
   productos.forEach(p => {
-    // Resetear expansión
-    p.classList.remove("expandido");
-    p.querySelectorAll(".galeria img").forEach((img, i) => {
-      img.style.display = i === 0 ? "inline-block" : "none";
-    });
-
     if (categoria === "ninguno" || categoria === "medidas") {
       p.classList.add("hidden");
     } else {
@@ -77,24 +72,6 @@ function filtrar(categoria) {
 
 window.onload = () => {
   filtrar("ninguno");
-
-  // Expansión de productos al hacer clic en primera imagen
-  document.querySelectorAll(".producto .galeria img:first-child").forEach(img => {
-    img.addEventListener("click", e => {
-      const producto = img.closest(".producto");
-      const yaExpandido = producto.classList.contains("expandido");
-
-      if (yaExpandido) return; // Ya está expandido, no hacer nada
-
-      producto.classList.add("expandido");
-
-      // Mostrar todas las imágenes
-      producto.querySelectorAll(".galeria img").forEach(im => {
-        im.style.display = "inline-block";
-      });
-
-      // Prevenir que se abra el modal con el primer clic
-      e.stopPropagation();
-    });
-  });
 };
+
+
