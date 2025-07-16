@@ -79,22 +79,22 @@ window.onload = () => {
   filtrar("ninguno");
 
   // Expansión de productos al hacer clic en primera imagen
-  document.querySelectorAll(".producto .galeria img:first-child").forEach(img => {
-    img.addEventListener("click", e => {
-      const producto = img.closest(".producto");
-      const yaExpandido = producto.classList.contains("expandido");
+  document.querySelectorAll(".galeria").forEach(galeria => {
+    const imagenes = Array.from(galeria.querySelectorAll("img"));
+    const esMedidas = galeria.classList.contains("medidas-galeria");
 
-      if (yaExpandido) return; // Ya está expandido, no hacer nada
+  imagenes.forEach((img, index) => {
+    // Solo ocultar imágenes si NO es la galería de medidas
+    if (!esMedidas && index > 0) {
+      img.style.display = "none";
+    }
 
-      producto.classList.add("expandido");
-
-      // Mostrar todas las imágenes
-      producto.querySelectorAll(".galeria img").forEach(im => {
-        im.style.display = "inline-block";
-      });
-
-      // Prevenir que se abra el modal con el primer clic
-      e.stopPropagation();
+    // Si se hace click, se abre el modal igual en ambos casos
+    img.addEventListener("click", () => {
+      galeriaActual = imagenes;
+      imagenActual = index;
+      document.getElementById("modal-img").src = galeriaActual[imagenActual].src;
+      document.getElementById("modal").style.display = "block";
     });
   });
-};
+});
