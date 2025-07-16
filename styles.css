@@ -147,6 +147,14 @@
     #logo-fixed {
      display: none;
     }
+      
+      .expandido .galeria img {
+        display: inline-block !important;
+      }
+      
+      .galeria img:not(:first-child) {
+        display: none;
+      }
     
   
 @media (max-width: 768px) {
