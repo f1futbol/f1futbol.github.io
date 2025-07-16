@@ -148,12 +148,11 @@
      display: none;
     }
       
-      .expandido .galeria img {
-        display: inline-block !important;
+      .expandido .galeria img {      
+            display: inline-block !important;
       }
-      
-      .galeria img:not(:first-child) {
-        display: none;
+      :not(.medidas) .galeria img:not(:first-child) {
+            display: none;
       }
     
   
