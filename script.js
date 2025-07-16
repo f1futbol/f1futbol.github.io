@@ -4,8 +4,21 @@ let imagenActual = 0;
 // Abre imagen en modal
 document.querySelectorAll(".galeria").forEach(galeria => {
   const imagenes = Array.from(galeria.querySelectorAll("img"));
+  const esMedidas = galeria.classList.contains("medidas-galeria");
+
   imagenes.forEach((img, index) => {
+    // Solo ocultar imágenes si NO es la galería de medidas
+    if (!esMedidas && index > 0) {
+      img.style.display = "none";
+    }
+
     img.addEventListener("click", () => {
+      // Si es galería de medidas, no hacer nada especial
+      if (esMedidas) return;
+
+      // Mostrar todas las imágenes de esta galería
+      imagenes.forEach(im => im.style.display = "inline-block");
+
       galeriaActual = imagenes;
       imagenActual = index;
       document.getElementById("modal-img").src = galeriaActual[imagenActual].src;
@@ -44,12 +57,6 @@ function filtrar(categoria) {
 
   // Oculta o muestra productos según la categoría
   productos.forEach(p => {
-    // Resetear expansión
-    p.classList.remove("expandido");
-    p.querySelectorAll(".galeria img").forEach((img, i) => {
-      img.style.display = i === 0 ? "inline-block" : "none";
-    });
-
     if (categoria === "ninguno" || categoria === "medidas") {
       p.classList.add("hidden");
     } else {
@@ -77,24 +84,4 @@ function filtrar(categoria) {
 
 window.onload = () => {
   filtrar("ninguno");
-
-  // Expansión de productos al hacer clic en primera imagen
-  document.querySelectorAll(".galeria").forEach(galeria => {
-    const imagenes = Array.from(galeria.querySelectorAll("img"));
-    const esMedidas = galeria.classList.contains("medidas-galeria");
-
-  imagenes.forEach((img, index) => {
-    // Solo ocultar imágenes si NO es la galería de medidas
-    if (!esMedidas && index > 0) {
-      img.style.display = "none";
-    }
-
-    // Si se hace click, se abre el modal igual en ambos casos
-    img.addEventListener("click", () => {
-      galeriaActual = imagenes;
-      imagenActual = index;
-      document.getElementById("modal-img").src = galeriaActual[imagenActual].src;
-      document.getElementById("modal").style.display = "block";
-    });
-  });
-});
+};
