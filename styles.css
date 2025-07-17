@@ -180,39 +180,62 @@ display: none;
     
   
 @media (max-width: 768px) {
-      #bienvenida {
-      background-size: cover;
-      background-position: center;
-      height: 60vh;
-      }
-      
-      h1 {
-      font-size: 48px;
-      margin-top: 20px;
-      }
-      
-      .logo {
-      width: 80px;
-      top: 10px;
-      left: 10px;
-      }
-      
-      .galeria img {
-      width: 200px;
-      height: 200px;
-      }
-      
-      .galeria {
-      gap: 8px;
-      }
-      .prev {
-      left: 20px;
-      font-size: 30px;
-      padding: 5px;
-      }
-      .next {
-      font-size: 30px;
-      padding: 5px;
-      right: 20px;
-      }
+  #bienvenida {
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+  }
+
+  h1 {
+    font-size: 48px;
+    margin-top: 20px;
+  }
+
+  #logo-fixed {
+    position: static !important;
+    display: flex !important;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .logo {
+    width: 80px;
+    height: auto;
+  }
+
+  .nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 15px; /* espacio entre botones */
+    margin: 10px 20px;
+  }
+
+  .nav button {
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 6px;
+  }
+
+  .galeria img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .galeria {
+    gap: 8px;
+  }
+
+  .prev {
+    left: 20px;
+    font-size: 30px;
+    padding: 5px;
+  }
+
+  .next {
+    font-size: 30px;
+    padding: 5px;
+    right: 20px;
+  }
 }
