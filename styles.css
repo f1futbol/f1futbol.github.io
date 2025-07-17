@@ -42,7 +42,12 @@
     .nav button:hover {
       background-color: #900;
     }
-
+      .productos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+      }
     .producto {
       background: #fff;
       border-radius: 10px;
