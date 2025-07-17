@@ -191,6 +191,14 @@ display: none;
     margin-top: 20px;
   }
 
+  /* MANTENER la clase .logo como estaba antes */
+  .logo {
+    width: 80px;
+    top: 10px;
+    left: 10px;
+  }
+
+  /* ESTO ES LO NUEVO QUE TE GUSTÓ: */
   .nav {
     display: flex;
     flex-wrap: wrap;
