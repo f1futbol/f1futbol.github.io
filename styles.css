@@ -58,6 +58,9 @@
     }
     .producto h2 {
       color: #c00;
+      font-size: 20px; 
+      margin-bottom: 10px; 
+      }
     }
     .galeria {
       display: flex;
@@ -173,6 +176,9 @@
       h1 {
       font-size: 48px;
       margin-top: 20px;
+      }
+      .producto h2 {
+      font-size: 16px;
       }
       
       .logo {
