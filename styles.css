@@ -181,8 +181,10 @@ display: none;
   
 @media (max-width: 768px) {
   #bienvenida {
-    background-size: cover;
+    background: url("catalogo/logo1.jpg") no-repeat center center;
+    background-size: contain;
     background-position: center;
+    background-color: #000;
     height: 60vh;
   }
 
@@ -191,19 +193,17 @@ display: none;
     margin-top: 20px;
   }
 
-  /* MANTENER la clase .logo como estaba antes */
   .logo {
     width: 50px;
     top: 10px;
     left: 10px;
   }
 
-  /* ESTO ES LO NUEVO QUE TE GUSTÓ: */
   .nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px 15px; /* espacio entre botones */
+    gap: 10px 15px;
     margin: 10px 20px;
   }
 
