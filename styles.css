@@ -180,13 +180,17 @@ display: none;
     
   
 @media (max-width: 768px) {
+  html, body {
+    height: 100%;
+    overflow: hidden; /* Evita scroll */
+  }
   #bienvenida {
     background: url("catalogo/logo1.jpg") no-repeat center center;
     background-size: contain;
     background-position: center;
     background-color: #000;
     height: 60vh;
-    margin-top: 40px;
+    margin-top: 120px;
   }
 
   h1 {
