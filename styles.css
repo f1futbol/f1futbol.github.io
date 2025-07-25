@@ -185,9 +185,14 @@ display: none;
     background-size: contain;
     background-position: center;
     background-color: #000;
-    height: 60vh;
-    margin-top: 120px;
-    overflow: hidden;
+    height: 100vh;          /* Ocupa toda la pantalla */
+    overflow: hidden;       /* Evita scroll en esta sección */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra verticalmente */
+    align-items: center;     /* Centra horizontalmente */
+    padding-top: 60px;       /* Opcional: baja un poco el logo */
+    margin: 0;               /* Sin margen externo */
   }
 
   h1 {
