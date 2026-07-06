@@ -35,6 +35,177 @@
     ]
   },
   {
+    "id": "river-retro-trico2006-1783374625198",
+    "team": "river",
+    "version": "retro",
+    "title": "River tricolor 2006",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/trico2006_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/equipos/river/trico2006_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/trico2006_3.webp",
+        "alt": "cuello"
+      },
+      {
+        "src": "catalogo/equipos/river/trico2006_4.webp",
+        "alt": "escudo y manga"
+      },
+      {
+        "src": "catalogo/equipos/river/trico2006_5.webp",
+        "alt": "etiqueta"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-96-1783374625198",
+    "team": "river",
+    "version": "retro",
+    "title": "River titular 1996",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/96_1.webp",
+        "alt": "frente escudo1"
+      },
+      {
+        "src": "catalogo/equipos/river/96_2.webp",
+        "alt": "escudo1"
+      },
+      {
+        "src": "catalogo/equipos/river/96_3.webp",
+        "alt": "frente escudo2"
+      },
+      {
+        "src": "catalogo/equipos/river/96_4.webp",
+        "alt": "escudo2"
+      },
+      {
+        "src": "catalogo/equipos/river/96_5.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/96_6.webp",
+        "alt": "manga"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-sup95-1783374625198",
+    "team": "river",
+    "version": "retro",
+    "title": "River suplente 1995",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/sup95_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/equipos/river/sup95_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/sup95_3.webp",
+        "alt": "escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-92-1783374625198",
+    "team": "river",
+    "version": "retro",
+    "title": "River suplente 1992",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/92_1.webp",
+        "alt": "frente manga larga"
+      },
+      {
+        "src": "catalogo/equipos/river/92_2.webp",
+        "alt": "frente manga corta"
+      },
+      {
+        "src": "catalogo/equipos/river/92_3.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/92_4.webp",
+        "alt": "cuello"
+      },
+      {
+        "src": "catalogo/equipos/river/92_5.webp",
+        "alt": "escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-86-1783374625198",
+    "team": "river",
+    "version": "retro",
+    "title": "River titular 1986",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/86_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/equipos/river/86_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/86_3.webp",
+        "alt": "dorsal"
+      },
+      {
+        "src": "catalogo/equipos/river/86_4.webp",
+        "alt": "escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
     "id": "river-hincha-0",
     "team": "river",
     "version": "hincha",
