@@ -32,7 +32,7 @@ function App() {
                 scrollToTop();
               }}
             >
-              <img src="/catalogo/logo1.jpg" alt="F1Futbol Store" className="h-10 w-10 rounded-full group-hover:scale-105 transition-transform" />
+              <img src="/catalogo/logo1.webp" alt="F1Futbol Store" className="h-10 w-10 rounded-full group-hover:scale-105 transition-transform" />
               <span className="text-white font-black italic text-xl tracking-tight">
                 <span className="text-accent">F1</span>Futbol
               </span>

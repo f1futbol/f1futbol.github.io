@@ -1,5 +1,40 @@
 [
   {
+    "id": "river-jugador-125-1783369440476",
+    "team": "river",
+    "version": "jugador",
+    "title": "River 125 Aniversario",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/equipos/river/river125_1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/equipos/river/river125_2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/equipos/river/river125_3.webp",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/equipos/river/river125_4.webp",
+        "alt": "Logo"
+      },
+      {
+        "src": "catalogo/equipos/river/river125_5.webp",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
     "id": "river-hincha-0",
     "team": "river",
     "version": "hincha",
@@ -7,31 +42,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/river_suplente_1.jpg",
+        "src": "catalogo/equipos/river/river_suplente_1.webp",
         "alt": "Frente sin sponsor"
       },
       {
-        "src": "catalogo/river/river_suplente_2.jpg",
+        "src": "catalogo/equipos/river/river_suplente_2.webp",
         "alt": "Frente con sponsor"
       },
       {
-        "src": "catalogo/river/river_suplente_3.jpg",
+        "src": "catalogo/equipos/river/river_suplente_3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_suplente_4.jpg",
+        "src": "catalogo/equipos/river/river_suplente_4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_suplente_5.jpg",
+        "src": "catalogo/equipos/river/river_suplente_5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_suplente_6.jpg",
+        "src": "catalogo/equipos/river/river_suplente_6.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_suplente_7.jpg",
+        "src": "catalogo/equipos/river/river_suplente_7.webp",
         "alt": "Tela interior"
       }
     ],
@@ -41,12 +76,12 @@
         "value": "+$5.000"
       },
       {
-        "label": "Betano",
+        "label": "Parches",
         "value": "+$2.500"
       },
       {
-        "label": "Parches",
-        "value": "+$2.500 c/u"
+        "label": "Sponsor",
+        "value": "+$2.500"
       }
     ]
   },
@@ -58,39 +93,39 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/river_suplente_player_1.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_1.webp",
         "alt": "Frente con sponsor"
       },
       {
-        "src": "catalogo/river/river_suplente_player_2.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_suplente_player_3.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_suplente_player_4.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_suplente_player_5.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_suplente_player_6.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_suplente_player_7.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/river_suplente_player_8.jpg",
+        "src": "catalogo/equipos/river/river_suplente_player_8.webp",
         "alt": "Escudo"
       },
       {
-        "src": "catalogo/river/river_suplente_player_larga.webp",
+        "src": "catalogo/equipos/river/river_suplente_player_larga.webp",
         "alt": "Manga larga"
       }
     ],
@@ -100,16 +135,16 @@
         "value": "+$5.000"
       },
       {
-        "label": "Betano",
-        "value": "+$2.500"
-      },
-      {
         "label": "Manga larga",
         "value": "+$5.000"
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
+      },
+      {
+        "label": "Sponsor",
+        "value": "+$2.500"
       }
     ]
   },
@@ -121,35 +156,35 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/river_titular_1.jpg",
+        "src": "catalogo/equipos/river/river_titular_1.webp",
         "alt": "Frente sin sponsor"
       },
       {
-        "src": "catalogo/river/river_titular_2.jpg",
+        "src": "catalogo/equipos/river/river_titular_2.webp",
         "alt": "Frente con sponsor"
       },
       {
-        "src": "catalogo/river/river_titular_3.jpg",
+        "src": "catalogo/equipos/river/river_titular_3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_titular_4.jpg",
+        "src": "catalogo/equipos/river/river_titular_4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_titular_5.jpg",
+        "src": "catalogo/equipos/river/river_titular_5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_titular_6.jpg",
+        "src": "catalogo/equipos/river/river_titular_6.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_titular_7.jpg",
+        "src": "catalogo/equipos/river/river_titular_7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/river_titular_8.png",
+        "src": "catalogo/equipos/river/river_titular_8.webp",
         "alt": "Frente manga larga"
       }
     ],
@@ -159,16 +194,16 @@
         "value": "+$5.000"
       },
       {
-        "label": "Betano",
-        "value": "+$2.500"
-      },
-      {
         "label": "Manga larga",
         "value": "+$5.000"
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
+      },
+      {
+        "label": "Sponsor",
+        "value": "+$2.500"
       }
     ]
   },
@@ -180,35 +215,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/river_titular_player_2.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_2.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_titular_player_3.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_titular_player_4.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_titular_player_5.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_titular_player_6.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_6.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_titular_player_7.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_7.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_titular_player_8.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_8.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/river_titular_player_1.jpg",
+        "src": "catalogo/equipos/river/river_titular_player_1.webp",
         "alt": "Frente manga larga"
       }
     ],
@@ -218,16 +253,16 @@
         "value": "+$5.000"
       },
       {
-        "label": "Betano",
-        "value": "+$2.500"
-      },
-      {
         "label": "Manga larga",
         "value": "+$5.000"
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
+      },
+      {
+        "label": "Sponsor",
+        "value": "+$2.500"
       }
     ]
   },
@@ -239,31 +274,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/river_alternativa_1.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_alternativa_2.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_alternativa_3.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_alternativa_4.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_alternativa_5.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_alternativa_6.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_alternativa_7.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_7.webp",
         "alt": "Pecho"
       }
     ],
@@ -274,7 +309,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -286,35 +321,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/river_alternativa_player_1.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_2.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_3.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_4.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_5.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_6.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_7.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/river_alternativa_player_8.jpg",
+        "src": "catalogo/equipos/river/river_alternativa_player_8.webp",
         "alt": "Escudo"
       }
     ],
@@ -325,7 +360,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -337,19 +372,19 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/ubp1.jpeg",
+        "src": "catalogo/equipos/river/ubp1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/ubp2.jpeg",
+        "src": "catalogo/equipos/river/ubp2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/ubp3.jpeg",
+        "src": "catalogo/equipos/river/ubp3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/ubp4.jpeg",
+        "src": "catalogo/equipos/river/ubp4.webp",
         "alt": "Escudo"
       }
     ],
@@ -363,35 +398,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/icons1.jpg",
+        "src": "catalogo/equipos/river/icons1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/icons2.jpg",
+        "src": "catalogo/equipos/river/icons2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/icons3.jpg",
+        "src": "catalogo/equipos/river/icons3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/icons4.jpg",
+        "src": "catalogo/equipos/river/icons4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/icons5.jpg",
+        "src": "catalogo/equipos/river/icons5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/icons6.jpg",
+        "src": "catalogo/equipos/river/icons6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/river/icons7.jpg",
+        "src": "catalogo/equipos/river/icons7.webp",
         "alt": "Etiqueta"
       },
       {
-        "src": "catalogo/river/icons8.jpg",
+        "src": "catalogo/equipos/river/icons8.webp",
         "alt": "Escudo"
       }
     ],
@@ -405,35 +440,35 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/mlb1.webp",
+        "src": "catalogo/equipos/river/mlb1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/mlb2.webp",
+        "src": "catalogo/equipos/river/mlb2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/mlb3.webp",
+        "src": "catalogo/equipos/river/mlb3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/mlb4.webp",
+        "src": "catalogo/equipos/river/mlb4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/mlb5.webp",
+        "src": "catalogo/equipos/river/mlb5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/mlb6.webp",
+        "src": "catalogo/equipos/river/mlb6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/river/mlb7.webp",
+        "src": "catalogo/equipos/river/mlb7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/mlb8.webp",
+        "src": "catalogo/equipos/river/mlb8.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -447,31 +482,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/river_titu_24.1.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_titu_24.2.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_titu_24.3.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_titu_24.4.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_titu_24.5.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_titu_24.6.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_titu_24.7.jpg",
+        "src": "catalogo/equipos/river/river_titu_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -482,7 +517,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -494,31 +529,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/river_titu_player_24.1.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.2.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.3.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.4.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.5.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.6.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_titu_player_24.7.jpg",
+        "src": "catalogo/equipos/river/river_titu_player_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -529,7 +564,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -541,31 +576,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/river_sup_24.1.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_sup_24.2.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_sup_24.3.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_sup_24.4.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_sup_24.5.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_sup_24.6.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_sup_24.7.jpg",
+        "src": "catalogo/equipos/river/river_sup_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -576,7 +611,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -588,35 +623,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/river_sup_player_24.1.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.2.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.3.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.4.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.5.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.6.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.7.jpg",
+        "src": "catalogo/equipos/river/river_sup_player_24.7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/river_sup_player_24.8.jpeg",
+        "src": "catalogo/equipos/river/river_sup_player_24.8.webp",
         "alt": "Escudo"
       }
     ],
@@ -627,7 +662,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -639,19 +674,19 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/river/alt_24.1.jpeg",
+        "src": "catalogo/equipos/river/alt_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/alt_24.2.jpeg",
+        "src": "catalogo/equipos/river/alt_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/alt_24.3.jpeg",
+        "src": "catalogo/equipos/river/alt_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/alt_24.4.jpeg",
+        "src": "catalogo/equipos/river/alt_24.4.webp",
         "alt": "Cuello trasero"
       }
     ],
@@ -662,7 +697,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -674,19 +709,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/2018.1.jpg",
+        "src": "catalogo/equipos/river/2018.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/2018.2.jpg",
+        "src": "catalogo/equipos/river/2018.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/2018.3.jpg",
+        "src": "catalogo/equipos/river/2018.3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/river/2018.4.jpg",
+        "src": "catalogo/equipos/river/2018.4.webp",
         "alt": "Cuello"
       }
     ],
@@ -697,7 +732,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -709,35 +744,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/titu_14.1.jpeg",
+        "src": "catalogo/equipos/river/titu_14.1.webp",
         "alt": "Frente manga larga"
       },
       {
-        "src": "catalogo/river/titu_14.2.jpeg",
+        "src": "catalogo/equipos/river/titu_14.2.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/titu_14.3.jpeg",
+        "src": "catalogo/equipos/river/titu_14.3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/titu_14.4.jpeg",
+        "src": "catalogo/equipos/river/titu_14.4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/titu_14.5.jpeg",
+        "src": "catalogo/equipos/river/titu_14.5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/titu_14.6.jpeg",
+        "src": "catalogo/equipos/river/titu_14.6.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/titu_14.7.jpeg",
+        "src": "catalogo/equipos/river/titu_14.7.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/river/titu_14.8.jpeg",
+        "src": "catalogo/equipos/river/titu_14.8.webp",
         "alt": "Escudo"
       }
     ],
@@ -760,27 +795,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/monu_14.1.jpg",
+        "src": "catalogo/equipos/river/monu_14.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/monu_14.2.jpg",
+        "src": "catalogo/equipos/river/monu_14.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/monu_14.3.jpg",
+        "src": "catalogo/equipos/river/monu_14.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/monu_14.4.jpg",
+        "src": "catalogo/equipos/river/monu_14.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/monu_14.5.jpg",
+        "src": "catalogo/equipos/river/monu_14.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/monu_14.6.jpg",
+        "src": "catalogo/equipos/river/monu_14.6.webp",
         "alt": "Pecho"
       }
     ],
@@ -799,27 +834,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/titu_06.1.jpeg",
+        "src": "catalogo/equipos/river/titu_06.1.webp",
         "alt": "Frente manga larga"
       },
       {
-        "src": "catalogo/river/titu_06.2.jpeg",
+        "src": "catalogo/equipos/river/titu_06.2.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/titu_06.3.jpeg",
+        "src": "catalogo/equipos/river/titu_06.3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/titu_06.4.jpeg",
+        "src": "catalogo/equipos/river/titu_06.4.webp",
         "alt": "Cuello"
       },
       {
-        "src": "catalogo/river/titu_06.5.jpeg",
+        "src": "catalogo/equipos/river/titu_06.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/titu_06.6.jpeg",
+        "src": "catalogo/equipos/river/titu_06.6.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -842,31 +877,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/bordo_05.1.jpg",
+        "src": "catalogo/equipos/river/bordo_05.1.webp",
         "alt": "Frente manga larga"
       },
       {
-        "src": "catalogo/river/bordo_05.2.jpg",
+        "src": "catalogo/equipos/river/bordo_05.2.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/bordo_05.3.jpg",
+        "src": "catalogo/equipos/river/bordo_05.3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/bordo_05.4.jpg",
+        "src": "catalogo/equipos/river/bordo_05.4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/bordo_05.5.jpg",
+        "src": "catalogo/equipos/river/bordo_05.5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/bordo_05.6.jpg",
+        "src": "catalogo/equipos/river/bordo_05.6.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/bordo_05.7.jpg",
+        "src": "catalogo/equipos/river/bordo_05.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -889,31 +924,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/trico_04.1.jpg",
+        "src": "catalogo/equipos/river/trico_04.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/trico_04.2.jpg",
+        "src": "catalogo/equipos/river/trico_04.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/trico_04.3.jpg",
+        "src": "catalogo/equipos/river/trico_04.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/trico_04.4.jpg",
+        "src": "catalogo/equipos/river/trico_04.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/trico_04.5.jpg",
+        "src": "catalogo/equipos/river/trico_04.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/trico_04.6.jpg",
+        "src": "catalogo/equipos/river/trico_04.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/trico_04.7.jpg",
+        "src": "catalogo/equipos/river/trico_04.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -932,31 +967,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/trico_02.1.jpeg",
+        "src": "catalogo/equipos/river/trico_02.1.webp",
         "alt": "Frente manga larga"
       },
       {
-        "src": "catalogo/river/trico_02.2.jpeg",
+        "src": "catalogo/equipos/river/trico_02.2.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/trico_02.3.jpeg",
+        "src": "catalogo/equipos/river/trico_02.3.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/trico_02.4.jpeg",
+        "src": "catalogo/equipos/river/trico_02.4.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/trico_02.5.jpeg",
+        "src": "catalogo/equipos/river/trico_02.5.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/trico_02.6.jpeg",
+        "src": "catalogo/equipos/river/trico_02.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/trico_02.7.jpeg",
+        "src": "catalogo/equipos/river/trico_02.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -979,31 +1014,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/titu_2001.1.jpg",
+        "src": "catalogo/equipos/river/titu_2001.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/titu_2001.2.jpg",
+        "src": "catalogo/equipos/river/titu_2001.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/titu_2001.3.jpg",
+        "src": "catalogo/equipos/river/titu_2001.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/titu_2001.4.jpg",
+        "src": "catalogo/equipos/river/titu_2001.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/titu_2001.5.jpg",
+        "src": "catalogo/equipos/river/titu_2001.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/titu_2001.6.jpg",
+        "src": "catalogo/equipos/river/titu_2001.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/titu_2001.7.jpg",
+        "src": "catalogo/equipos/river/titu_2001.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1022,31 +1057,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/sup_2001.1.jpg",
+        "src": "catalogo/equipos/river/sup_2001.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/sup_2001.2.jpg",
+        "src": "catalogo/equipos/river/sup_2001.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/sup_2001.3.jpg",
+        "src": "catalogo/equipos/river/sup_2001.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/sup_2001.4.jpg",
+        "src": "catalogo/equipos/river/sup_2001.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/sup_2001.5.jpg",
+        "src": "catalogo/equipos/river/sup_2001.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/sup_2001.6.jpg",
+        "src": "catalogo/equipos/river/sup_2001.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/sup_2001.7.jpg",
+        "src": "catalogo/equipos/river/sup_2001.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1065,31 +1100,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/trico_2001.1.jpg",
+        "src": "catalogo/equipos/river/trico_2001.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/trico_2001.2.jpg",
+        "src": "catalogo/equipos/river/trico_2001.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/trico_2001.3.jpg",
+        "src": "catalogo/equipos/river/trico_2001.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/trico_2001.4.jpg",
+        "src": "catalogo/equipos/river/trico_2001.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/trico_2001.5.jpg",
+        "src": "catalogo/equipos/river/trico_2001.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/trico_2001.6.jpg",
+        "src": "catalogo/equipos/river/trico_2001.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/trico_2001.7.jpg",
+        "src": "catalogo/equipos/river/trico_2001.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1108,31 +1143,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/trico_99.1.jpg",
+        "src": "catalogo/equipos/river/trico_99.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/trico_99.2.jpg",
+        "src": "catalogo/equipos/river/trico_99.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/trico_99.3.jpg",
+        "src": "catalogo/equipos/river/trico_99.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/trico_99.4.jpg",
+        "src": "catalogo/equipos/river/trico_99.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/trico_99.5.jpg",
+        "src": "catalogo/equipos/river/trico_99.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/trico_99.6.jpg",
+        "src": "catalogo/equipos/river/trico_99.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/river/trico_99.7.jpg",
+        "src": "catalogo/equipos/river/trico_99.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1151,19 +1186,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/bordo_96.1.jpg",
+        "src": "catalogo/equipos/river/bordo_96.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/bordo_96.2.jpg",
+        "src": "catalogo/equipos/river/bordo_96.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/bordo_96.3.jpg",
+        "src": "catalogo/equipos/river/bordo_96.3.webp",
         "alt": "Etiqueta"
       },
       {
-        "src": "catalogo/river/bordo_96.4.jpg",
+        "src": "catalogo/equipos/river/bordo_96.4.webp",
         "alt": "Cuello"
       }
     ],
@@ -1182,27 +1217,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/river/titu_95.1.jpg",
+        "src": "catalogo/equipos/river/titu_95.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/river/titu_95.2.jpg",
+        "src": "catalogo/equipos/river/titu_95.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/river/titu_95.3.jpg",
+        "src": "catalogo/equipos/river/titu_95.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/river/titu_95.4.jpg",
+        "src": "catalogo/equipos/river/titu_95.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/river/titu_95.5.jpg",
+        "src": "catalogo/equipos/river/titu_95.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/river/titu_95.6.jpg",
+        "src": "catalogo/equipos/river/titu_95.6.webp",
         "alt": "Escudo"
       }
     ],
@@ -1221,31 +1256,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/boca_titular_1.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/boca_titular_2.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/boca_titular_3.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/boca_titular_4.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/boca_titular_5.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/boca_titular_6.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_6.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/boca_titular_7.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_7.webp",
         "alt": "Escudo"
       }
     ],
@@ -1256,7 +1291,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1268,31 +1303,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/boca_titular_player_1.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_2.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_3.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_4.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_5.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_6.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_6.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/boca_titular_player_7.jpg",
+        "src": "catalogo/equipos/boca/boca_titular_player_7.webp",
         "alt": "Escudo"
       }
     ],
@@ -1303,7 +1338,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1315,31 +1350,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/boca_suplente_1.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/boca_suplente_2.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/boca_suplente_3.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/boca_suplente_4.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/boca_suplente_5.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/boca_suplente_6.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_6.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/boca_suplente_7.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_7.webp",
         "alt": "Tela interior"
       }
     ],
@@ -1350,7 +1385,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1362,31 +1397,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/boca_suplente_player_1.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_2.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_3.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_4.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_5.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_6.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_6.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/boca_suplente_player_7.jpg",
+        "src": "catalogo/equipos/boca/boca_suplente_player_7.webp",
         "alt": "Escudo"
       }
     ],
@@ -1397,7 +1432,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1409,31 +1444,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/icons1.webp",
+        "src": "catalogo/equipos/boca/icons1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/icons2.webp",
+        "src": "catalogo/equipos/boca/icons2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/icons3.webp",
+        "src": "catalogo/equipos/boca/icons3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/icons4.webp",
+        "src": "catalogo/equipos/boca/icons4.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/icons5.webp",
+        "src": "catalogo/equipos/boca/icons5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/icons6.webp",
+        "src": "catalogo/equipos/boca/icons6.webp",
         "alt": "Escudo"
       },
       {
-        "src": "catalogo/boca/icons7.webp",
+        "src": "catalogo/equipos/boca/icons7.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -1447,35 +1482,35 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/mlb_blanca1.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/mlb_blanca2.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/mlb_blanca3.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/mlb_blanca4.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca4.webp",
         "alt": "CABJ"
       },
       {
-        "src": "catalogo/boca/mlb_blanca5.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/mlb_blanca6.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/mlb_blanca7.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca7.webp",
         "alt": "Etiqueta"
       },
       {
-        "src": "catalogo/boca/mlb_blanca8.webp",
+        "src": "catalogo/equipos/boca/mlb_blanca8.webp",
         "alt": "Escudo"
       }
     ],
@@ -1489,23 +1524,23 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/mlb_azul1.webp",
+        "src": "catalogo/equipos/boca/mlb_azul1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/mlb_azul2.webp",
+        "src": "catalogo/equipos/boca/mlb_azul2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/mlb_azul3.webp",
+        "src": "catalogo/equipos/boca/mlb_azul3.webp",
         "alt": "CABJ"
       },
       {
-        "src": "catalogo/boca/mlb_azul4.webp",
+        "src": "catalogo/equipos/boca/mlb_azul4.webp",
         "alt": "Adidas"
       },
       {
-        "src": "catalogo/boca/mlb_azul5.webp",
+        "src": "catalogo/equipos/boca/mlb_azul5.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -1519,31 +1554,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/titu_24.1.jpg",
+        "src": "catalogo/equipos/boca/titu_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_24.2.jpg",
+        "src": "catalogo/equipos/boca/titu_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_24.3.jpg",
+        "src": "catalogo/equipos/boca/titu_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/titu_24.4.jpg",
+        "src": "catalogo/equipos/boca/titu_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/titu_24.5.jpg",
+        "src": "catalogo/equipos/boca/titu_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/titu_24.6.jpg",
+        "src": "catalogo/equipos/boca/titu_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/boca/titu_24.7.jpg",
+        "src": "catalogo/equipos/boca/titu_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1554,7 +1589,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1566,35 +1601,35 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_player_24.1.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_player_24.2.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_player_24.3.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/titu_player_24.4.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/titu_player_24.5.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/titu_player_24.6.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/boca/titu_player_24.7.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_player_24.8.jpg",
+        "src": "catalogo/equipos/boca/titu_player_24.8.webp",
         "alt": "Escudo"
       }
     ],
@@ -1605,7 +1640,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1617,31 +1652,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/sup_24.1.jpg",
+        "src": "catalogo/equipos/boca/sup_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_24.2.jpg",
+        "src": "catalogo/equipos/boca/sup_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_24.3.jpg",
+        "src": "catalogo/equipos/boca/sup_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/sup_24.4.jpg",
+        "src": "catalogo/equipos/boca/sup_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/sup_24.5.jpg",
+        "src": "catalogo/equipos/boca/sup_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/sup_24.6.jpg",
+        "src": "catalogo/equipos/boca/sup_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/boca/sup_24.7.jpg",
+        "src": "catalogo/equipos/boca/sup_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1652,7 +1687,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1664,31 +1699,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/sup_player_24.1.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_player_24.2.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_player_24.3.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/sup_player_24.4.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/sup_player_24.5.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/sup_player_24.6.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/boca/sup_player_24.7.jpg",
+        "src": "catalogo/equipos/boca/sup_player_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -1699,7 +1734,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1711,27 +1746,27 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/boca/suecia1.jpeg",
+        "src": "catalogo/equipos/boca/suecia1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/suecia2.jpeg",
+        "src": "catalogo/equipos/boca/suecia2.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/suecia3.jpeg",
+        "src": "catalogo/equipos/boca/suecia3.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/suecia4.jpeg",
+        "src": "catalogo/equipos/boca/suecia4.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/suecia5.jpeg",
+        "src": "catalogo/equipos/boca/suecia5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/suecia6.jpeg",
+        "src": "catalogo/equipos/boca/suecia6.webp",
         "alt": "Escudo"
       }
     ],
@@ -1742,7 +1777,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1754,19 +1789,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/suecia_player1.jpeg",
+        "src": "catalogo/equipos/boca/suecia_player1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/suecia_player2.jpeg",
+        "src": "catalogo/equipos/boca/suecia_player2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/suecia_player3.jpeg",
+        "src": "catalogo/equipos/boca/suecia_player3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/suecia_player4.jpeg",
+        "src": "catalogo/equipos/boca/suecia_player4.webp",
         "alt": "Escudo"
       }
     ],
@@ -1777,7 +1812,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -1789,31 +1824,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/rosa1.jpeg",
+        "src": "catalogo/equipos/boca/rosa1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/rosa2.jpeg",
+        "src": "catalogo/equipos/boca/rosa2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/rosa3.jpeg",
+        "src": "catalogo/equipos/boca/rosa3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/rosa4.jpeg",
+        "src": "catalogo/equipos/boca/rosa4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/rosa5.jpeg",
+        "src": "catalogo/equipos/boca/rosa5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/rosa5.jpeg",
+        "src": "catalogo/equipos/boca/rosa5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/rosa7.jpeg",
+        "src": "catalogo/equipos/boca/rosa7.webp",
         "alt": "Escudo"
       }
     ],
@@ -1832,31 +1867,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_11.1.jpg",
+        "src": "catalogo/equipos/boca/titu_11.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_11.2.jpg",
+        "src": "catalogo/equipos/boca/titu_11.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_11.3.jpg",
+        "src": "catalogo/equipos/boca/titu_11.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/titu_11.4.jpg",
+        "src": "catalogo/equipos/boca/titu_11.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/titu_11.5.jpg",
+        "src": "catalogo/equipos/boca/titu_11.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/titu_11.6.jpg",
+        "src": "catalogo/equipos/boca/titu_11.6.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_11.7.jpg",
+        "src": "catalogo/equipos/boca/titu_11.7.webp",
         "alt": "Escudo"
       }
     ],
@@ -1875,27 +1910,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_10.1.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_10.2.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_10.3.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.3.webp",
         "alt": "Cuello"
       },
       {
-        "src": "catalogo/boca/titu_10.4.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.4.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/titu_10.5.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/titu_10.6.jpeg",
+        "src": "catalogo/equipos/boca/titu_10.6.webp",
         "alt": "Escudo"
       }
     ],
@@ -1914,27 +1949,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_07.1.jpg",
+        "src": "catalogo/equipos/boca/titu_07.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_07.2.jpg",
+        "src": "catalogo/equipos/boca/titu_07.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_07.3.jpg",
+        "src": "catalogo/equipos/boca/titu_07.3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_07.4.jpg",
+        "src": "catalogo/equipos/boca/titu_07.4.webp",
         "alt": "Espalda"
       },
       {
-        "src": "catalogo/boca/titu_07.5.jpg",
+        "src": "catalogo/equipos/boca/titu_07.5.webp",
         "alt": "Manga der"
       },
       {
-        "src": "catalogo/boca/titu_07.6.jpg",
+        "src": "catalogo/equipos/boca/titu_07.6.webp",
         "alt": "Manga izq"
       }
     ],
@@ -1953,27 +1988,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/sup_07.1.jpg",
+        "src": "catalogo/equipos/boca/sup_07.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_07.2.jpg",
+        "src": "catalogo/equipos/boca/sup_07.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_07.3.jpg",
+        "src": "catalogo/equipos/boca/sup_07.3.webp",
         "alt": "Manga der"
       },
       {
-        "src": "catalogo/boca/sup_07.4.jpg",
+        "src": "catalogo/equipos/boca/sup_07.4.webp",
         "alt": "Manga izq"
       },
       {
-        "src": "catalogo/boca/sup_07.5.jpg",
+        "src": "catalogo/equipos/boca/sup_07.5.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/sup_07.6.jpg",
+        "src": "catalogo/equipos/boca/sup_07.6.webp",
         "alt": "Tela"
       }
     ],
@@ -1992,27 +2027,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_06.1.jpeg",
+        "src": "catalogo/equipos/boca/titu_06.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_06.2.jpg",
+        "src": "catalogo/equipos/boca/titu_06.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_06.3.jpg",
+        "src": "catalogo/equipos/boca/titu_06.3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_06.4.jpg",
+        "src": "catalogo/equipos/boca/titu_06.4.webp",
         "alt": "Escudo"
       },
       {
-        "src": "catalogo/boca/titu_06.5.jpg",
+        "src": "catalogo/equipos/boca/titu_06.5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/titu_06.6.jpg",
+        "src": "catalogo/equipos/boca/titu_06.6.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -2031,27 +2066,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/sup_06.1.jpg",
+        "src": "catalogo/equipos/boca/sup_06.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_06.2.jpg",
+        "src": "catalogo/equipos/boca/sup_06.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_06.3.jpg",
+        "src": "catalogo/equipos/boca/sup_06.3.webp",
         "alt": "Manga derecha"
       },
       {
-        "src": "catalogo/boca/sup_06.4.jpg",
+        "src": "catalogo/equipos/boca/sup_06.4.webp",
         "alt": "Manga izquierda"
       },
       {
-        "src": "catalogo/boca/sup_06.5.jpg",
+        "src": "catalogo/equipos/boca/sup_06.5.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/sup_06.6.jpg",
+        "src": "catalogo/equipos/boca/sup_06.6.webp",
         "alt": "Etiqueta"
       }
     ],
@@ -2070,19 +2105,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_02.1.jpg",
+        "src": "catalogo/equipos/boca/titu_02.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_02.2.jpg",
+        "src": "catalogo/equipos/boca/titu_02.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_02.3.jpg",
+        "src": "catalogo/equipos/boca/titu_02.3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_02.4.jpg",
+        "src": "catalogo/equipos/boca/titu_02.4.webp",
         "alt": "Manga"
       }
     ],
@@ -2101,19 +2136,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_94.1.jpg",
+        "src": "catalogo/equipos/boca/titu_94.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_94.2.jpg",
+        "src": "catalogo/equipos/boca/titu_94.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_94.3.jpg",
+        "src": "catalogo/equipos/boca/titu_94.3.webp",
         "alt": "Manga izq"
       },
       {
-        "src": "catalogo/boca/titu_94.4.jpg",
+        "src": "catalogo/equipos/boca/titu_94.4.webp",
         "alt": "Manga der"
       }
     ],
@@ -2132,19 +2167,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_95.1.jpeg",
+        "src": "catalogo/equipos/boca/titu_95.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_95.2.jpeg",
+        "src": "catalogo/equipos/boca/titu_95.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_95.3.jpeg",
+        "src": "catalogo/equipos/boca/titu_95.3.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/boca/titu_95.4.jpeg",
+        "src": "catalogo/equipos/boca/titu_95.4.webp",
         "alt": "Tela"
       }
     ],
@@ -2163,31 +2198,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/sup_95.1.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_95.2.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_95.3.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/sup_95.4.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/sup_95.5.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/sup_95.6.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/sup_95.7.jpeg",
+        "src": "catalogo/equipos/boca/sup_95.7.webp",
         "alt": "Escudo"
       }
     ],
@@ -2206,31 +2241,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/titu_96.1.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/titu_96.2.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/titu_96.3.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/boca/titu_96.4.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/titu_96.5.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/titu_96.6.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/boca/titu_96.7.jpeg",
+        "src": "catalogo/equipos/boca/titu_96.7.webp",
         "alt": "Escudo"
       }
     ],
@@ -2249,27 +2284,27 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/boca/sup_96.1.jpg",
+        "src": "catalogo/equipos/boca/sup_96.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/boca/sup_96.2.jpg",
+        "src": "catalogo/equipos/boca/sup_96.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/boca/sup_96.3.jpg",
+        "src": "catalogo/equipos/boca/sup_96.3.webp",
         "alt": "Cuelo delantero"
       },
       {
-        "src": "catalogo/boca/sup_96.4.jpg",
+        "src": "catalogo/equipos/boca/sup_96.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/boca/sup_96.5.jpg",
+        "src": "catalogo/equipos/boca/sup_96.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/boca/sup_96.6.jpg",
+        "src": "catalogo/equipos/boca/sup_96.6.webp",
         "alt": "Escudo"
       }
     ],
@@ -2288,31 +2323,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/titu_25.1.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.2.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.3.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.4.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.5.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.6.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.6.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/san lorenzo/titu_25.7.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_25.7.webp",
         "alt": "Escudo"
       }
     ],
@@ -2331,27 +2366,27 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/titu_24.1.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/titu_24.2.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/titu_24.3.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.3.webp",
         "alt": "Cuello"
       },
       {
-        "src": "catalogo/san lorenzo/titu_24.4.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.4.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/san lorenzo/titu_24.5.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/san lorenzo/titu_24.6.jpg",
+        "src": "catalogo/equipos/san lorenzo/titu_24.6.webp",
         "alt": "Pecho"
       }
     ],
@@ -2370,27 +2405,27 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/sup_24.1.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/sup_24.2.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/sup_24.3.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.3.webp",
         "alt": "Cuello"
       },
       {
-        "src": "catalogo/san lorenzo/sup_24.4.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.4.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/san lorenzo/sup_24.5.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.5.webp",
         "alt": "Tela"
       },
       {
-        "src": "catalogo/san lorenzo/sup_24.6.jpg",
+        "src": "catalogo/equipos/san lorenzo/sup_24.6.webp",
         "alt": "Pecho"
       }
     ],
@@ -2409,31 +2444,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/libertadores1.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores2.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores3.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores3.webp",
         "alt": "Pecho1"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores4.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores4.webp",
         "alt": "Escudo"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores5.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores5.webp",
         "alt": "Pecho2"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores6.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores6.webp",
         "alt": "Hombro"
       },
       {
-        "src": "catalogo/san lorenzo/libertadores7.jpg",
+        "src": "catalogo/equipos/san lorenzo/libertadores7.webp",
         "alt": "Cuello"
       }
     ],
@@ -2452,19 +2487,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/94-95.1.jpg",
+        "src": "catalogo/equipos/san lorenzo/94-95.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/94-95.2.jpg",
+        "src": "catalogo/equipos/san lorenzo/94-95.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/94-95.3.jpg",
+        "src": "catalogo/equipos/san lorenzo/94-95.3.webp",
         "alt": "Hombro izq"
       },
       {
-        "src": "catalogo/san lorenzo/94-95.4.jpg",
+        "src": "catalogo/equipos/san lorenzo/94-95.4.webp",
         "alt": "Hombro der"
       }
     ],
@@ -2483,19 +2518,19 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/san lorenzo/95-96.1.jpg",
+        "src": "catalogo/equipos/san lorenzo/95-96.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/san lorenzo/95-96.2.jpg",
+        "src": "catalogo/equipos/san lorenzo/95-96.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/san lorenzo/95-96.3.jpg",
+        "src": "catalogo/equipos/san lorenzo/95-96.3.webp",
         "alt": "Hombro izq"
       },
       {
-        "src": "catalogo/san lorenzo/95-96.4.jpg",
+        "src": "catalogo/equipos/san lorenzo/95-96.4.webp",
         "alt": "Hombro der"
       }
     ],
@@ -2514,31 +2549,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/argentina/arg_50_1.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/arg_50_2.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/arg_50_3.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_3.webp",
         "alt": "Cuello"
       },
       {
-        "src": "catalogo/argentina/arg_50_4.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_4.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/argentina/arg_50_5.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/argentina/arg_50_6.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/argentina/arg_50_7.jpg",
+        "src": "catalogo/selecciones/argentina/arg_50_7.webp",
         "alt": "Dorsal"
       }
     ],
@@ -2549,7 +2584,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -2561,23 +2596,23 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/argentina/copa_america_player.1.jpg",
+        "src": "catalogo/selecciones/argentina/copa_america_player.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/copa_america_player.2.jpg",
+        "src": "catalogo/selecciones/argentina/copa_america_player.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/copa_america_player.3.jpg",
+        "src": "catalogo/selecciones/argentina/copa_america_player.3.webp",
         "alt": "Parche1"
       },
       {
-        "src": "catalogo/argentina/copa_america_player.4.jpg",
+        "src": "catalogo/selecciones/argentina/copa_america_player.4.webp",
         "alt": "Parche2"
       },
       {
-        "src": "catalogo/argentina/copa_america_player.5.jpg",
+        "src": "catalogo/selecciones/argentina/copa_america_player.5.webp",
         "alt": "Pecho"
       }
     ],
@@ -2588,7 +2623,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -2600,31 +2635,31 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/argentina/hincha_24.1.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/hincha_24.2.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/hincha_24.3.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/argentina/hincha_24.4.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/argentina/hincha_24.5.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/argentina/hincha_24.6.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/argentina/hincha_24.7.jpg",
+        "src": "catalogo/selecciones/argentina/hincha_24.7.webp",
         "alt": "Dorsal"
       }
     ],
@@ -2635,7 +2670,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -2647,31 +2682,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/argentina/player_24.1.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/player_24.2.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/player_24.3.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/argentina/player_24.4.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/argentina/player_24.5.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.5.webp",
         "alt": "Parche mundial"
       },
       {
-        "src": "catalogo/argentina/player_24.6.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.6.webp",
         "alt": "Escudo"
       },
       {
-        "src": "catalogo/argentina/player_24.7.jpg",
+        "src": "catalogo/selecciones/argentina/player_24.7.webp",
         "alt": "Tela interior"
       }
     ],
@@ -2682,7 +2717,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -2694,35 +2729,35 @@
     "basePrice": 55000,
     "images": [
       {
-        "src": "catalogo/argentina/sup_24.1.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/sup_24.2.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/sup_24.3.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/argentina/sup_24.4.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/argentina/sup_24.5.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.5.webp",
         "alt": "Parche 1"
       },
       {
-        "src": "catalogo/argentina/sup_24.6.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.6.webp",
         "alt": "Parche 2"
       },
       {
-        "src": "catalogo/argentina/sup_24.7.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.7.webp",
         "alt": "Pecho"
       },
       {
-        "src": "catalogo/argentina/sup_24.8.jpg",
+        "src": "catalogo/selecciones/argentina/sup_24.8.webp",
         "alt": "Tela interior"
       }
     ],
@@ -2733,7 +2768,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },
@@ -2745,31 +2780,31 @@
     "basePrice": 60000,
     "images": [
       {
-        "src": "catalogo/argentina/sup_player_24.1.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.2.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.2.webp",
         "alt": "Dorso"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.3.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.3.webp",
         "alt": "Cuello delantero"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.4.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.4.webp",
         "alt": "Cuello trasero"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.5.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.5.webp",
         "alt": "Manga"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.6.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.6.webp",
         "alt": "Tela interior"
       },
       {
-        "src": "catalogo/argentina/sup_player_24.7.jpg",
+        "src": "catalogo/selecciones/argentina/sup_player_24.7.webp",
         "alt": "Pecho"
       }
     ],
@@ -2780,7 +2815,7 @@
       },
       {
         "label": "Parches",
-        "value": "+$2.500 c/u"
+        "value": "+$2.500"
       }
     ]
   },

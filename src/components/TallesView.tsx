@@ -5,14 +5,14 @@ export const TallesView = () => {
   const [selectedImageIdx, setSelectedImageIdx] = useState<number | null>(null);
 
   const tallesImages = [
-    { src: 'catalogo/medidas/hincha y retro.png', alt: 'Medidas Versión Hincha y Retro' },
-    { src: 'catalogo/medidas/medidas player.png', alt: 'Medidas Versión Jugador' },
-    { src: 'catalogo/medidas/version mujer.png', alt: 'Medidas Versión Mujer' },
-    { src: 'catalogo/medidas/f1.png', alt: 'Medidas F1' },
-    { src: 'catalogo/medidas/niño.png', alt: 'Medidas Kit de Niño' },
-    { src: 'catalogo/medidas/shorts.png', alt: 'Medidas Shorts' },
-    { src: 'catalogo/medidas/como medir camisetas.png', alt: 'Cómo medir camisetas' },
-    { src: 'catalogo/medidas/como medir shorts.png', alt: 'Cómo medir shorts' },
+    { src: 'catalogo/medidas/hincha y retro.webp', alt: 'Medidas Versión Hincha y Retro' },
+    { src: 'catalogo/medidas/medidas player.webp', alt: 'Medidas Versión Jugador' },
+    { src: 'catalogo/medidas/version mujer.webp', alt: 'Medidas Versión Mujer' },
+    { src: 'catalogo/medidas/f1.webp', alt: 'Medidas F1' },
+    { src: 'catalogo/medidas/niño.webp', alt: 'Medidas Kit de Niño' },
+    { src: 'catalogo/medidas/shorts.webp', alt: 'Medidas Shorts' },
+    { src: 'catalogo/medidas/como medir camisetas.webp', alt: 'Cómo medir camisetas' },
+    { src: 'catalogo/medidas/como medir shorts.webp', alt: 'Cómo medir shorts' },
   ];
 
   return (
