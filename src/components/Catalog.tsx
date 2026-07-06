@@ -31,18 +31,18 @@ export const Catalog: React.FC = () => {
   }, [products, selectedTeam, selectedVersion]);
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-32">
+
       <div className="text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-black text-white mb-4 tracking-tight italic">
-          <span className="text-accent">F1</span>Futbol Catálogo
+          <span className="text-accent">F1</span>Futbol - Catálogo
         </h1>
         <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-          Descubrí la mejor calidad en indumentaria deportiva. Versiones hincha, jugador y ediciones retro exclusivas.
+          Descubrí la mejor calidad en indumentaria deportiva.
         </p>
       </div>
 
-      <FilterBar 
+      <FilterBar
         teams={teams}
         versions={versions}
         selectedTeam={selectedTeam}
@@ -54,7 +54,7 @@ export const Catalog: React.FC = () => {
       {filteredProducts.length === 0 ? (
         <div className="text-center py-20 bg-card rounded-xl border border-gray-800">
           <p className="text-gray-400 text-lg">No hay productos que coincidan con estos filtros.</p>
-          <button 
+          <button
             onClick={() => { setSelectedTeam(null); setSelectedVersion(null); }}
             className="mt-4 text-accent hover:text-white transition-colors"
           >
@@ -62,7 +62,7 @@ export const Catalog: React.FC = () => {
           </button>
         </div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-6">
           {filteredProducts.map(product => (
             <ProductCard key={product.id} product={product} />
           ))}

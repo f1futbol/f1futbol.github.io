@@ -358,9 +358,9 @@
   {
     "id": "river-hincha-7",
     "team": "river",
-    "version": "hincha",
+    "version": "jugador",
     "title": "River Terrace Icons",
-    "basePrice": 55000,
+    "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/river/icons1.jpg",
@@ -1400,9 +1400,9 @@
   {
     "id": "boca-hincha-31",
     "team": "boca",
-    "version": "hincha",
+    "version": "jugador",
     "title": "Boca Terrace Icons",
-    "basePrice": 55000,
+    "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/boca/icons1.webp",

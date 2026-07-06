@@ -17,7 +17,7 @@ export const TallesView = () => {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
-      <h2 className="text-3xl font-black text-center text-accent mb-8 italic font-serif">Guía de Talles</h2>
+      <h2 className="text-4xl md:text-5xl font-black text-center text-white mb-8 tracking-tight italic">Tablas de Talles</h2>
       <div className="flex flex-col gap-8 items-center">
         {tallesImages.map((img, idx) => (
           <div 

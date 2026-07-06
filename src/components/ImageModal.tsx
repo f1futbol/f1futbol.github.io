@@ -15,6 +15,18 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
     setCurrentIndex(initialIndex);
   }, [initialIndex]);
 
+  // Lock body scroll when modal is open
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
+  }, [isOpen]);
+
   if (!isOpen) return null;
 
   const handlePrev = (e: React.MouseEvent) => {
@@ -29,11 +41,11 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
 
   return (
     <div 
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90 backdrop-blur-sm"
+      className="fixed inset-0 z-[100] flex items-center justify-center bg-black/95 backdrop-blur-md"
       onClick={onClose}
     >
       <button 
-        className="absolute top-4 right-6 text-4xl text-white hover:text-gray-300 transition-colors z-[60]"
+        className="absolute top-4 right-6 text-4xl text-white hover:text-gray-300 transition-colors z-[110]"
         onClick={onClose}
       >
         &times;
@@ -50,7 +62,7 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
 
       <div className="relative w-full max-w-4xl h-[80vh] flex items-center justify-center p-4">
         <img 
-          src={`/${images[currentIndex].src}`} 
+          src={`${import.meta.env.BASE_URL}${images[currentIndex].src}`} 
           alt={images[currentIndex].alt} 
           className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
           onClick={(e) => e.stopPropagation()} 
