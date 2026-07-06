@@ -1,0 +1,3231 @@
+[
+  {
+    "id": "river-hincha-0",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Suplente Fan 25/26",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/river_suplente_1.jpg",
+        "alt": "Frente sin sponsor"
+      },
+      {
+        "src": "catalogo/river/river_suplente_2.jpg",
+        "alt": "Frente con sponsor"
+      },
+      {
+        "src": "catalogo/river/river_suplente_3.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_suplente_4.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_suplente_5.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_suplente_6.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_suplente_7.jpg",
+        "alt": "Tela interior"
+      }
+    ],
+    "details": [
+      {
+        "label": "Betano",
+        "value": "+$2.000"
+      },
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-jugador-1",
+    "team": "river",
+    "version": "jugador",
+    "title": "River Suplente Player 25/26",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/river_suplente_player_1.jpg",
+        "alt": "Frente con sponsor"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_8.jpg",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/river/river_suplente_player_larga.webp",
+        "alt": "Manga larga"
+      }
+    ],
+    "details": [
+      {
+        "label": "Betano",
+        "value": "+$2.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-hincha-2",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Titular Fan 25/26",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/river_titular_1.jpg",
+        "alt": "Frente sin sponsor"
+      },
+      {
+        "src": "catalogo/river/river_titular_2.jpg",
+        "alt": "Frente con sponsor"
+      },
+      {
+        "src": "catalogo/river/river_titular_3.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_titular_4.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_titular_5.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_titular_6.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_titular_7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/river_titular_8.png",
+        "alt": "Frente manga larga"
+      }
+    ],
+    "details": [
+      {
+        "label": "Betano",
+        "value": "+$2.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-jugador-3",
+    "team": "river",
+    "version": "jugador",
+    "title": "River Titular Player 25/26",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/river_titular_player_2.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_3.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_4.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_5.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_6.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_7.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_8.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/river_titular_player_1.jpg",
+        "alt": "Frente manga larga"
+      }
+    ],
+    "details": [
+      {
+        "label": "Betano",
+        "value": "+$2.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-hincha-4",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Alternativa Fan 25/26",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/river_alternativa_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-jugador-5",
+    "team": "river",
+    "version": "jugador",
+    "title": "River Alternativa Player 25/26",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/river_alternativa_player_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/river_alternativa_player_8.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-hincha-6",
+    "team": "river",
+    "version": "hincha",
+    "title": "River UBP",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/ubp1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/ubp2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/ubp3.jpeg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/ubp4.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "river-hincha-7",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Terrace Icons",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/icons1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/icons2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/icons3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/icons4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/icons5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/icons6.jpg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/river/icons7.jpg",
+        "alt": "Etiqueta"
+      },
+      {
+        "src": "catalogo/river/icons8.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "river-hincha-8",
+    "team": "river",
+    "version": "hincha",
+    "title": "River MLB",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/mlb1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/mlb2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/mlb3.webp",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/mlb4.webp",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/mlb5.webp",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/mlb6.webp",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/river/mlb7.webp",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/mlb8.webp",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "river-hicha-9",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Titular Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/river_titu_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_titu_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-jugador-10",
+    "team": "river",
+    "version": "jugador",
+    "title": "River Titular Player 24/25",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/river_titu_player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_titu_player_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-hincha-11",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Suplente Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/river_sup_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_sup_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-jugador-12",
+    "team": "river",
+    "version": "jugador",
+    "title": "River Suplente Player 24/25",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/river_sup_player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/river_sup_player_24.8.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-hincha-13",
+    "team": "river",
+    "version": "hincha",
+    "title": "River Alternativa Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/river/alt_24.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/alt_24.2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/alt_24.3.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/alt_24.4.jpeg",
+        "alt": "Cuello trasero"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-14",
+    "team": "river",
+    "version": "retro",
+    "title": "River Copa Libertadores 2018",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/2018.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/2018.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/2018.3.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/river/2018.4.jpg",
+        "alt": "Cuello"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-15",
+    "team": "river",
+    "version": "retro",
+    "title": "River Titular 2014",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/titu_14.1.jpeg",
+        "alt": "Frente manga larga"
+      },
+      {
+        "src": "catalogo/river/titu_14.2.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/titu_14.3.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/titu_14.4.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/titu_14.5.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/titu_14.6.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/titu_14.7.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/river/titu_14.8.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-16",
+    "team": "river",
+    "version": "retro",
+    "title": "River Aniversario Monumental 2014",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/monu_14.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/monu_14.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/monu_14.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/monu_14.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/monu_14.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/monu_14.6.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-17",
+    "team": "river",
+    "version": "retro",
+    "title": "River Titular 2006",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/titu_06.1.jpeg",
+        "alt": "Frente manga larga"
+      },
+      {
+        "src": "catalogo/river/titu_06.2.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/titu_06.3.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/titu_06.4.jpeg",
+        "alt": "Cuello"
+      },
+      {
+        "src": "catalogo/river/titu_06.5.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/titu_06.6.jpeg",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-18",
+    "team": "river",
+    "version": "retro",
+    "title": "River Bordo 05/06",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/bordo_05.1.jpg",
+        "alt": "Frente manga larga"
+      },
+      {
+        "src": "catalogo/river/bordo_05.2.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/bordo_05.3.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/bordo_05.4.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/bordo_05.5.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/bordo_05.6.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/bordo_05.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-19",
+    "team": "river",
+    "version": "retro",
+    "title": "River Tricolor 04/05",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/trico_04.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/trico_04.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/trico_04.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/trico_04.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/trico_04.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/trico_04.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/trico_04.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-20",
+    "team": "river",
+    "version": "retro",
+    "title": "River Tricolor 2002",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/trico_02.1.jpeg",
+        "alt": "Frente manga larga"
+      },
+      {
+        "src": "catalogo/river/trico_02.2.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/trico_02.3.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/trico_02.4.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/trico_02.5.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/trico_02.6.jpeg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/trico_02.7.jpeg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-21",
+    "team": "river",
+    "version": "retro",
+    "title": "River Titular 2001",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/titu_2001.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/titu_2001.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/titu_2001.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/titu_2001.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/titu_2001.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/titu_2001.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/titu_2001.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-22",
+    "team": "river",
+    "version": "retro",
+    "title": "River Suplente 2001",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/sup_2001.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/sup_2001.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/sup_2001.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/sup_2001.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/sup_2001.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/sup_2001.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/sup_2001.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-23",
+    "team": "river",
+    "version": "retro",
+    "title": "River Tricolor 2001",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/trico_2001.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/trico_2001.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/trico_2001.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/trico_2001.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/trico_2001.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/trico_2001.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/trico_2001.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-24",
+    "team": "river",
+    "version": "retro",
+    "title": "River Tricolor 1999",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/trico_99.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/trico_99.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/trico_99.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/trico_99.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/trico_99.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/trico_99.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/river/trico_99.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-25",
+    "team": "river",
+    "version": "retro",
+    "title": "River Bordo 1996",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/bordo_96.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/bordo_96.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/bordo_96.3.jpg",
+        "alt": "Etiqueta"
+      },
+      {
+        "src": "catalogo/river/bordo_96.4.jpg",
+        "alt": "Cuello"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "river-retro-26",
+    "team": "river",
+    "version": "retro",
+    "title": "River Titular 1995",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/river/titu_95.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/river/titu_95.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/river/titu_95.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/river/titu_95.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/river/titu_95.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/river/titu_95.6.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-hincha-27",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Titular Fan 25/26",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/boca_titular_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_6.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_7.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-jugador-28",
+    "team": "boca",
+    "version": "jugador",
+    "title": "Boca Titular Player 25/26",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/boca_titular_player_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_6.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/boca_titular_player_7.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-hincha-29",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Suplente Fan 25/26",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/boca_suplente_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_6.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_7.jpg",
+        "alt": "Tela interior"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-jugador-30",
+    "team": "boca",
+    "version": "jugador",
+    "title": "Boca Suplente Player 25/26",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/boca_suplente_player_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_6.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/boca_suplente_player_7.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-hincha-31",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Terrace Icons",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/icons1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/icons2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/icons3.webp",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/icons4.webp",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/icons5.webp",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/icons6.webp",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/boca/icons7.webp",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "boca-hincha-32",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca MLB Blanca",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/mlb_blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca3.webp",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca4.webp",
+        "alt": "CABJ"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca5.webp",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca6.webp",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca7.webp",
+        "alt": "Etiqueta"
+      },
+      {
+        "src": "catalogo/boca/mlb_blanca8.webp",
+        "alt": "Escudo"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "boca-hincha-33",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca MLB Azul",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/mlb_azul1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/mlb_azul2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/mlb_azul3.webp",
+        "alt": "CABJ"
+      },
+      {
+        "src": "catalogo/boca/mlb_azul4.webp",
+        "alt": "Adidas"
+      },
+      {
+        "src": "catalogo/boca/mlb_azul5.webp",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "boca-hincha-34",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Titular Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/titu_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/titu_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/titu_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/boca/titu_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-jugador-35",
+    "team": "boca",
+    "version": "jugador",
+    "title": "Boca Titular Player 24/25",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_player_24.8.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-hincha-36",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Suplente Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/sup_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/sup_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/sup_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/boca/sup_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-jugador-37",
+    "team": "boca",
+    "version": "jugador",
+    "title": "Boca Suplente Player 24/25",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/boca/sup_player_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-hincha-38",
+    "team": "boca",
+    "version": "hincha",
+    "title": "Boca Suecia Fan 24/25",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/boca/suecia1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/suecia2.jpeg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/suecia3.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/suecia4.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/suecia5.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/suecia6.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-jugador-39",
+    "team": "boca",
+    "version": "jugador",
+    "title": "Boca Suecia Player 24/25",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/suecia_player1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/suecia_player2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/suecia_player3.jpeg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/suecia_player4.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-40",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Rosa 13/14",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/rosa1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/rosa2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/rosa3.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/rosa4.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/rosa5.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/rosa5.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/rosa7.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-41",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 10/11",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_11.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_11.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_11.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/titu_11.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/titu_11.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/titu_11.6.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_11.7.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-42",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 9/10",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_10.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_10.2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_10.3.jpeg",
+        "alt": "Cuello"
+      },
+      {
+        "src": "catalogo/boca/titu_10.4.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/titu_10.5.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/titu_10.6.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-43",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 07/08",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_07.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_07.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_07.3.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_07.4.jpg",
+        "alt": "Espalda"
+      },
+      {
+        "src": "catalogo/boca/titu_07.5.jpg",
+        "alt": "Manga der"
+      },
+      {
+        "src": "catalogo/boca/titu_07.6.jpg",
+        "alt": "Manga izq"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-44",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Dorada 07/08",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_07.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_07.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_07.3.jpg",
+        "alt": "Manga der"
+      },
+      {
+        "src": "catalogo/boca/sup_07.4.jpg",
+        "alt": "Manga izq"
+      },
+      {
+        "src": "catalogo/boca/sup_07.5.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/sup_07.6.jpg",
+        "alt": "Tela"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-45",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 06/07",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_06.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_06.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_06.3.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_06.4.jpg",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/boca/titu_06.5.jpg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/titu_06.6.jpg",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-46",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Suplente 06/07",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_06.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_06.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_06.3.jpg",
+        "alt": "Manga derecha"
+      },
+      {
+        "src": "catalogo/boca/sup_06.4.jpg",
+        "alt": "Manga izquierda"
+      },
+      {
+        "src": "catalogo/boca/sup_06.5.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/sup_06.6.jpg",
+        "alt": "Etiqueta"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-47",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 2002",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_02.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_02.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_02.3.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_02.4.jpg",
+        "alt": "Manga"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-48",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 93/94",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_94.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_94.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_94.3.jpg",
+        "alt": "Manga izq"
+      },
+      {
+        "src": "catalogo/boca/titu_94.4.jpg",
+        "alt": "Manga der"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-49",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 95/96",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_95.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_95.2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_95.3.jpeg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/boca/titu_95.4.jpeg",
+        "alt": "Tela"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-50",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Suplente 95/96",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_95.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_95.2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_95.3.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/sup_95.4.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/sup_95.5.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/sup_95.6.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/sup_95.7.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-51",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Titular 96/97",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/titu_96.1.jpeg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/titu_96.2.jpeg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/titu_96.3.jpeg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/boca/titu_96.4.jpeg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/titu_96.5.jpeg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/titu_96.6.jpeg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/boca/titu_96.7.jpeg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "boca-retro-52",
+    "team": "boca",
+    "version": "retro",
+    "title": "Boca Suplente 96/97",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/boca/sup_96.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/boca/sup_96.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/boca/sup_96.3.jpg",
+        "alt": "Cuelo delantero"
+      },
+      {
+        "src": "catalogo/boca/sup_96.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/boca/sup_96.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/boca/sup_96.6.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-hincha-53",
+    "team": "sanlorenzo",
+    "version": "hincha",
+    "title": "San Lorenzo Titular 2025",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/titu_25.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.6.jpg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_25.7.jpg",
+        "alt": "Escudo"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-hincha-54",
+    "team": "sanlorenzo",
+    "version": "hincha",
+    "title": "San Lorenzo Titular 2024",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/titu_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_24.3.jpg",
+        "alt": "Cuello"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_24.4.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_24.5.jpg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/san lorenzo/titu_24.6.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-hincha-55",
+    "team": "sanlorenzo",
+    "version": "hincha",
+    "title": "San Lorenzo Suplente 2024",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/sup_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/sup_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/sup_24.3.jpg",
+        "alt": "Cuello"
+      },
+      {
+        "src": "catalogo/san lorenzo/sup_24.4.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/san lorenzo/sup_24.5.jpg",
+        "alt": "Tela"
+      },
+      {
+        "src": "catalogo/san lorenzo/sup_24.6.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-retro-56",
+    "team": "sanlorenzo",
+    "version": "retro",
+    "title": "San Lorenzo Campeon Libertadores 2014",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/libertadores1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores3.jpg",
+        "alt": "Pecho1"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores4.jpg",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores5.jpg",
+        "alt": "Pecho2"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores6.jpg",
+        "alt": "Hombro"
+      },
+      {
+        "src": "catalogo/san lorenzo/libertadores7.jpg",
+        "alt": "Cuello"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-retro-57",
+    "team": "sanlorenzo",
+    "version": "retro",
+    "title": "San Lorenzo 94/95",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/94-95.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/94-95.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/94-95.3.jpg",
+        "alt": "Hombro izq"
+      },
+      {
+        "src": "catalogo/san lorenzo/94-95.4.jpg",
+        "alt": "Hombro der"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "sanlorenzo-retro-58",
+    "team": "sanlorenzo",
+    "version": "retro",
+    "title": "San Lorenzo 95/96",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/san lorenzo/95-96.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/san lorenzo/95-96.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/san lorenzo/95-96.3.jpg",
+        "alt": "Hombro izq"
+      },
+      {
+        "src": "catalogo/san lorenzo/95-96.4.jpg",
+        "alt": "Hombro der"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ]
+  },
+  {
+    "id": "argentina-hincha-59",
+    "team": "argentina",
+    "version": "hincha",
+    "title": "Argentina 50 aniversario",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/argentina/arg_50_1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_3.jpg",
+        "alt": "Cuello"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_4.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/argentina/arg_50_7.jpg",
+        "alt": "Dorsal"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "argentina-jugador-60",
+    "team": "argentina",
+    "version": "jugador",
+    "title": "Argentina Copa America Player",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/argentina/copa_america_player.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/copa_america_player.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/copa_america_player.3.jpg",
+        "alt": "Parche1"
+      },
+      {
+        "src": "catalogo/argentina/copa_america_player.4.jpg",
+        "alt": "Parche2"
+      },
+      {
+        "src": "catalogo/argentina/copa_america_player.5.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "argentina-hincha-61",
+    "team": "argentina",
+    "version": "hincha",
+    "title": "Argentina 24/25 Hincha",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/argentina/hincha_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/argentina/hincha_24.7.jpg",
+        "alt": "Dorsal"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "argentina-jugador-62",
+    "team": "argentina",
+    "version": "jugador",
+    "title": "Argentina Titular 24/25 Jugador",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/argentina/player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/argentina/player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/argentina/player_24.5.jpg",
+        "alt": "Parche mundial"
+      },
+      {
+        "src": "catalogo/argentina/player_24.6.jpg",
+        "alt": "Escudo"
+      },
+      {
+        "src": "catalogo/argentina/player_24.7.jpg",
+        "alt": "Tela interior"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "argentina-hincha-63",
+    "team": "argentina",
+    "version": "hincha",
+    "title": "Argentina Suplente 24/25 Hincha",
+    "basePrice": 55000,
+    "images": [
+      {
+        "src": "catalogo/argentina/sup_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.5.jpg",
+        "alt": "Parche 1"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.6.jpg",
+        "alt": "Parche 2"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.7.jpg",
+        "alt": "Pecho"
+      },
+      {
+        "src": "catalogo/argentina/sup_24.8.jpg",
+        "alt": "Tela interior"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "argentina-jugador-64",
+    "team": "argentina",
+    "version": "jugador",
+    "title": "Argentina Suplente 24/25 Jugador",
+    "basePrice": 60000,
+    "images": [
+      {
+        "src": "catalogo/argentina/sup_player_24.1.jpg",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.2.jpg",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.3.jpg",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.4.jpg",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.5.jpg",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.6.jpg",
+        "alt": "Tela interior"
+      },
+      {
+        "src": "catalogo/argentina/sup_player_24.7.jpg",
+        "alt": "Pecho"
+      }
+    ],
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ]
+  },
+  {
+    "id": "f1--65",
+    "team": "f1",
+    "version": "",
+    "title": "Ferrari Camiseta Roja",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/3.webp",
+        "alt": "Cuello delantero"
+      },
+      {
+        "src": "catalogo/f1/ferrari/4.webp",
+        "alt": "Cuello trasero"
+      },
+      {
+        "src": "catalogo/f1/ferrari/5.webp",
+        "alt": "Manga"
+      },
+      {
+        "src": "catalogo/f1/ferrari/6.webp",
+        "alt": "Tela"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--66",
+    "team": "f1",
+    "version": "",
+    "title": "Ferrari Camiseta Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca2.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca3.webp",
+        "alt": "Manga izq"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca4.webp",
+        "alt": "Manga der"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--67",
+    "team": "f1",
+    "version": "",
+    "title": "Ferrari Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba1.webp",
+        "alt": "Frente sin sponsors"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba2.webp",
+        "alt": "Dorso sin sponsors"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba3.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba4.webp",
+        "alt": "Dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba5.webp",
+        "alt": "Manga izq"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba6.webp",
+        "alt": "Manga der"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba7.webp",
+        "alt": "Pecho 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba8.webp",
+        "alt": "Pecho 2"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--68",
+    "team": "f1",
+    "version": "",
+    "title": "McLaren Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/chomba1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba4.webp",
+        "alt": "4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--69",
+    "team": "f1",
+    "version": "",
+    "title": "McLaren Camiseta Naranja",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/4.webp",
+        "alt": "4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/5.webp",
+        "alt": "5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/6.webp",
+        "alt": "6"
+      },
+      {
+        "src": "catalogo/f1/mclaren/norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--70",
+    "team": "f1",
+    "version": "",
+    "title": "McLaren Camiseta Azul",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/azul1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul4.webp",
+        "alt": "4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul5.webp",
+        "alt": "5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul6.webp",
+        "alt": "6"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul_norris.webp",
+        "alt": "Norris"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--71",
+    "team": "f1",
+    "version": "",
+    "title": "Mercedes Camiseta Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/blanca1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca4.webp",
+        "alt": "4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca5.webp",
+        "alt": "5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca6.webp",
+        "alt": "6"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca7.webp",
+        "alt": "7"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--72",
+    "team": "f1",
+    "version": "",
+    "title": "Mercedes Camiseta Negra",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/negra1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra4.webp",
+        "alt": "4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra5.webp",
+        "alt": "5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra6.webp",
+        "alt": "6"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra7.webp",
+        "alt": "7"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--73",
+    "team": "f1",
+    "version": "",
+    "title": "Mercedes Camiseta Miami",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/miami1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--74",
+    "team": "f1",
+    "version": "",
+    "title": "Mercedes Chomba Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_b1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--75",
+    "team": "f1",
+    "version": "",
+    "title": "Mercedes Chomba Negra",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_n1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--76",
+    "team": "f1",
+    "version": "",
+    "title": "Redbull Camiseta",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/redbull/2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/redbull/3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/redbull/4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--77",
+    "team": "f1",
+    "version": "",
+    "title": "Redbull Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1--78",
+    "team": "f1",
+    "version": "",
+    "title": "Racing Bulls Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/rb1.webp",
+        "alt": "1"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb2.webp",
+        "alt": "2"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb3.webp",
+        "alt": "3"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb4.webp",
+        "alt": "4"
+      }
+    ],
+    "details": []
+  }
+]
