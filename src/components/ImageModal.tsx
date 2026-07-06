@@ -60,14 +60,14 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
         </button>
       )}
 
-      <div className="relative w-full max-w-4xl h-[80vh] flex items-center justify-center p-4">
+      <div className="relative w-full max-w-4xl h-[85vh] flex flex-col items-center justify-center p-4 pb-20 gap-4">
         <img 
           src={`${import.meta.env.BASE_URL}${images[currentIndex].src}`} 
           alt={images[currentIndex].alt} 
-          className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
+          className="max-w-full max-h-[calc(100%-3rem)] object-contain rounded-lg shadow-2xl"
           onClick={(e) => e.stopPropagation()} 
         />
-        <div className="absolute bottom-[-40px] text-gray-400 text-sm">
+        <div className="text-gray-300 text-sm md:text-base font-medium tracking-wide">
           {currentIndex + 1} / {images.length} - {images[currentIndex].alt}
         </div>
       </div>
