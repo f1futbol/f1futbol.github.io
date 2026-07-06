@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { ImageModal } from './ImageModal';
 
 export interface Product {
@@ -17,6 +17,22 @@ interface ProductCardProps {
 
 export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isVisible, setIsVisible] = useState(false);
+  const cardRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          if (cardRef.current) observer.unobserve(cardRef.current);
+        }
+      },
+      { threshold: 0.1, rootMargin: '50px' }
+    );
+    if (cardRef.current) observer.observe(cardRef.current);
+    return () => observer.disconnect();
+  }, []);
 
   const formatPrice = (price: number) => {
     return new Intl.NumberFormat('es-AR', {
@@ -28,19 +44,34 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
 
   return (
     <>
-      <div className="bg-card rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 flex flex-col h-full border border-gray-800 hover:border-accent/50 hover:-translate-y-1 group/card">
+      <div 
+        ref={cardRef}
+        className={`bg-card rounded-xl overflow-hidden shadow-lg hover:shadow-[0_10px_30px_rgba(204,0,0,0.15)] transition-all duration-700 ease-out flex flex-col h-full border border-gray-800 hover:border-accent/30 group/card ${isVisible ? 'opacity-100 translate-y-0 hover:-translate-y-2' : 'opacity-0 translate-y-16'}`}
+      >
         <div 
           className="relative w-full overflow-hidden cursor-pointer group bg-black flex-none"
           onClick={() => setIsModalOpen(true)}
         >
+          {/* Main Front Image */}
           <img 
             src={`${import.meta.env.BASE_URL}${product.images[0]?.src}`} 
             alt={product.title} 
-            className="w-full aspect-square object-cover transition-transform duration-500 group-hover:scale-105"
+            className={`w-full aspect-square object-cover transition-all duration-700 ease-in-out ${
+              product.images.length > 1 ? 'md:group-hover:opacity-0 md:group-hover:scale-110' : 'md:group-hover:scale-105'
+            }`}
           />
           
-          <div className="absolute inset-0 bg-transparent group-hover:bg-black/10 transition-all duration-300 flex items-center justify-center">
-            <span className="opacity-0 group-hover:opacity-100 bg-black/70 text-white px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 translate-y-4 group-hover:translate-y-0">
+          {/* Back Image (Hover Reveal - Desktop Only) */}
+          {product.images.length > 1 && (
+            <img 
+              src={`${import.meta.env.BASE_URL}${product.images[1]?.src}`} 
+              alt={`${product.title} dorso`} 
+              className="absolute inset-0 w-full aspect-square object-cover opacity-0 transition-all duration-700 ease-in-out md:group-hover:opacity-100 md:group-hover:scale-105"
+            />
+          )}
+          
+          <div className="absolute inset-0 bg-transparent group-hover:bg-black/10 transition-all duration-500 flex items-end justify-center pb-6">
+            <span className="opacity-0 group-hover:opacity-100 bg-black/80 backdrop-blur-md text-white px-5 py-2.5 rounded-full text-xs font-bold uppercase tracking-widest transition-all duration-500 translate-y-4 group-hover:translate-y-0 border border-gray-700">
               Ver Galería ({product.images.length})
             </span>
           </div>

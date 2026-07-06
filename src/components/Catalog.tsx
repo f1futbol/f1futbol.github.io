@@ -38,7 +38,7 @@ export const Catalog: React.FC = () => {
           <span className="text-accent">F1</span>Futbol - Catálogo
         </h1>
         <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-          Descubrí la mejor calidad en indumentaria deportiva.
+          Camisetas calidad 1:1 - Para más información contactarse por Instagram
         </p>
       </div>
 
