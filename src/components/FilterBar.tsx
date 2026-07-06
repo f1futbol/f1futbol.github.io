@@ -39,15 +39,6 @@ export const FilterBar: React.FC<FilterBarProps> = ({
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const handleSelectTeam = (team: string | null) => {
-    onSelectTeam(team);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
-  const handleSelectVersion = (version: string | null) => {
-    onSelectVersion(version);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
 
   return (
     <>
