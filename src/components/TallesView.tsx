@@ -32,6 +32,7 @@ export const TallesView = () => {
 
       {selectedImageIdx !== null && (
         <ImageModal
+          isOpen={true}
           images={tallesImages}
           initialIndex={selectedImageIdx}
           onClose={() => setSelectedImageIdx(null)}
