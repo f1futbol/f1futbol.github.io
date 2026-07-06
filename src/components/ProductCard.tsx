@@ -94,10 +94,10 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
             </div>
             
             {product.details.length > 0 && (
-              <div className="mb-4 space-y-1 hidden md:block">
-                <p className="text-xs text-gray-400 font-medium mb-2">Adicionales disponibles:</p>
+              <div className="mb-2 md:mb-4 space-y-1 block">
+                <p className="text-[10px] md:text-xs text-gray-400 font-medium mb-1 md:mb-2">Adicionales disponibles:</p>
                 {product.details.map((detail, idx) => (
-                  <div key={idx} className="flex justify-between text-sm">
+                  <div key={idx} className="flex justify-between text-[11px] md:text-sm">
                     <span className="text-gray-400">{detail.label}</span>
                     <span className="font-medium text-gray-200">{detail.value}</span>
                   </div>

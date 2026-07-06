@@ -37,12 +37,12 @@
     ],
     "details": [
       {
-        "label": "Betano",
-        "value": "+$2.000"
-      },
-      {
         "label": "Personalización",
         "value": "+$5.000"
+      },
+      {
+        "label": "Betano",
+        "value": "+$2.500"
       },
       {
         "label": "Parches",
@@ -96,15 +96,15 @@
     ],
     "details": [
       {
-        "label": "Betano",
-        "value": "+$2.000"
-      },
-      {
-        "label": "Manga larga",
+        "label": "Personalización",
         "value": "+$5.000"
       },
       {
-        "label": "Personalización",
+        "label": "Betano",
+        "value": "+$2.500"
+      },
+      {
+        "label": "Manga larga",
         "value": "+$5.000"
       },
       {
@@ -155,15 +155,15 @@
     ],
     "details": [
       {
-        "label": "Betano",
-        "value": "+$2.000"
-      },
-      {
-        "label": "Manga larga",
+        "label": "Personalización",
         "value": "+$5.000"
       },
       {
-        "label": "Personalización",
+        "label": "Betano",
+        "value": "+$2.500"
+      },
+      {
+        "label": "Manga larga",
         "value": "+$5.000"
       },
       {
@@ -214,15 +214,15 @@
     ],
     "details": [
       {
-        "label": "Betano",
-        "value": "+$2.000"
-      },
-      {
-        "label": "Manga larga",
+        "label": "Personalización",
         "value": "+$5.000"
       },
       {
-        "label": "Personalización",
+        "label": "Betano",
+        "value": "+$2.500"
+      },
+      {
+        "label": "Manga larga",
         "value": "+$5.000"
       },
       {
@@ -694,6 +694,10 @@
       {
         "label": "Personalización",
         "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
       }
     ]
   },

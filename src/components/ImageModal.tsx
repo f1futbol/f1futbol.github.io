@@ -53,7 +53,7 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
 
       {images.length > 1 && (
         <button 
-          className="absolute left-2 md:left-6 top-1/2 -translate-y-1/2 text-5xl md:text-6xl text-white hover:text-gray-300 transition-colors px-2 py-8 z-[110]"
+          className="absolute left-2 md:left-6 top-1/2 -translate-y-1/2 -mt-10 md:-mt-12 text-5xl md:text-6xl text-white hover:text-gray-300 transition-colors px-2 py-8 z-[110]"
           onClick={handlePrev}
         >
           &#10094;
@@ -74,7 +74,7 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
 
       {images.length > 1 && (
         <button 
-          className="absolute right-2 md:right-6 top-1/2 -translate-y-1/2 text-5xl md:text-6xl text-white hover:text-gray-300 transition-colors px-2 py-8 z-[110]"
+          className="absolute right-2 md:right-6 top-1/2 -translate-y-1/2 -mt-10 md:-mt-12 text-5xl md:text-6xl text-white hover:text-gray-300 transition-colors px-2 py-8 z-[110]"
           onClick={handleNext}
         >
           &#10095;
