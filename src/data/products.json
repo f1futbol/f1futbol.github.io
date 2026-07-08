@@ -1,590 +1,5 @@
 [
   {
-    "id": "f1-audi-chomba",
-    "title": "Audi 2026",
-    "team": "audi",
-    "year": 2025,
-    "version": "chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/audi/chomba1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/audi/chomba2.webp",
-        "alt": "dorso"
-      },
-      {
-        "src": "catalogo/f1/audi/chomba3.webp",
-        "alt": "audi"
-      },
-      {
-        "src": "catalogo/f1/audi/chomba4.webp",
-        "alt": "logo"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1-audi-camiseta",
-    "title": "Audi 2026",
-    "team": "audi",
-    "year": 2025,
-    "version": "camiseta",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/audi/camiseta1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/audi/camiseta2.webp",
-        "alt": "dorso"
-      },
-      {
-        "src": "catalogo/f1/audi/camiseta3.webp",
-        "alt": "audi"
-      },
-      {
-        "src": "catalogo/f1/audi/camiseta4.webp",
-        "alt": "logo"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1-astonmartin-chomba",
-    "title": "Aston Martin 2026",
-    "team": "astonmartin",
-    "year": 2025,
-    "version": "chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/astonmartin/chomba26_1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/chomba26_2.webp",
-        "alt": "dorso"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/chomba26_3.webp",
-        "alt": "Alonso 14"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1-astonmartin-camiseta",
-    "title": "Aston Martin 2026",
-    "team": "astonmartin",
-    "year": 2025,
-    "version": "camiseta",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/astonmartin/26_1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/26_2.webp",
-        "alt": "dorso"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/26_3.webp",
-        "alt": "Alonso 14"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1-astonmartin-campera",
-    "title": "Aston Martin Campera 2026",
-    "team": "astonmartin",
-    "year": 2025,
-    "version": "Abrigo",
-    "basePrice": 120000,
-    "images": [
-      {
-        "src": "catalogo/f1/astonmartin/campera1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/campera2.webp",
-        "alt": "dorso"
-      },
-      {
-        "src": "catalogo/f1/astonmartin/campera3.webp",
-        "alt": "tela interior"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1-mercedes-negra",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Negra 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/negra1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra7.webp",
-        "alt": "Detalle 6"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-blanca",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Blanca 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/blanca1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca7.webp",
-        "alt": "Detalle 6"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-miami",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Miami 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/miami1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-chomba-blanca",
-    "team": "mercedes",
-    "version": "chomba",
-    "title": "Mercedes Blanca 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/chomba_b1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-chomba-negra",
-    "team": "mercedes",
-    "version": "chomba",
-    "title": "Mercedes Negra 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/chomba_n1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-ferrari-titular",
-    "team": "ferrari",
-    "version": "camiseta",
-    "title": "Ferrari Roja 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/ferrari/3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/ferrari/4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/ferrari/5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/ferrari/6.webp",
-        "alt": "Detalle 5"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-ferrari-blanca",
-    "team": "ferrari",
-    "version": "camiseta",
-    "title": "Ferrari Blanca 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/blanca1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-ferrari-chomba",
-    "team": "ferrari",
-    "version": "chomba",
-    "title": "Ferrari 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/chomba1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba7.webp",
-        "alt": "Detalle 6"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba8.webp",
-        "alt": "Detalle 7"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mclaren-papaya",
-    "team": "mclaren",
-    "version": "camiseta",
-    "title": "McLaren Papaya 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mclaren/2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mclaren/6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mclaren/norris.webp",
-        "alt": "Norris"
-      },
-      {
-        "src": "catalogo/f1/mclaren/piastri.webp",
-        "alt": "Piastri"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mclaren-azul",
-    "team": "mclaren",
-    "version": "camiseta",
-    "title": "McLaren Azul 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/azul1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul_norris.webp",
-        "alt": "Norris"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mclaren-chomba",
-    "team": "mclaren",
-    "version": "chomba",
-    "title": "McLaren 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/chomba1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_norris.webp",
-        "alt": "Norris"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
-        "alt": "Piastri"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-redbull-titular",
-    "team": "redbull",
-    "version": "camiseta",
-    "title": "RedBull 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/redbull/3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/redbull/4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-redbull-chomba",
-    "team": "redbull",
-    "version": "chomba",
-    "title": "RedBull 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/chomba1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-redbull-rb",
-    "team": "redbull",
-    "version": "chomba",
-    "title": "RB Visa CashApp 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/chomba_vcarb1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba_vcarb2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba_vcarb3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba_vcarb4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
     "id": "river-jugador-125-1783369440476",
     "team": "river",
     "version": "jugador",
@@ -3587,5 +3002,1477 @@
         "value": "+$2.500 c/u"
       }
     ]
+  },
+  {
+    "id": "f1-mercedes-chomba-negra26",
+    "title": "Mercedes Negra - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba26_n1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba26_n2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-chomba-dna-n26",
+    "title": "Mercedes DNA Negra - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chombaDNA_n1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chombaDNA_n2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-chomba-blanca26",
+    "title": "Mercedes Blanca - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba26_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba26_b2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-chomba-dna-b26",
+    "title": "Mercedes DNA Blanca - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chombaDNA_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chombaDNA_b2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-chomba-azul26",
+    "title": "Mercedes Azul - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba26_a1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba26_a2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-negra26",
+    "title": "Mercedes Negra - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/negra26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-blanca26",
+    "title": "Mercedes Blanca - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/blanca26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca26_3.webp",
+        "alt": "etiqueta"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-violeta26",
+    "title": "Mercedes Violeta - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/violeta26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/violeta26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-mecanico26",
+    "title": "Mercedes Mecánico - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/mecanico1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/mecanico2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-y3v1-26",
+    "title": "Mercedes x Y3 v1 - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/y3version1_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/y3version1_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-y3v2-26",
+    "title": "Mercedes x Y3 v2 - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/y3version2_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/y3version2_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-buzo26",
+    "title": "Mercedes Buzo - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/buzo_n1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/buzo_n2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-campera26",
+    "title": "Mercedes Campera - 2026",
+    "team": "mercedes",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/campera1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/campera2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/mercedes/campera3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-chomba-26",
+    "title": "Ferrari - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-chomba-retro-r-26",
+    "title": "Ferrari Retro Roja - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_r1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_r2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-chomba-retro-b-26",
+    "title": "Ferrari Retro Blanca - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_b2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-chomba-retro-n-26",
+    "title": "Ferrari Retro Negra - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_n1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba_retro_n2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-m1-26",
+    "title": "Ferrari Modelo 1 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/26_m1_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/26_m1_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-m2-26",
+    "title": "Ferrari Modelo 2 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/26_m2_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/26_m2_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-china-26",
+    "title": "Ferrari Año nuevo chino - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/china1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/china2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-horse-26",
+    "title": "Ferrari x Year of the horse - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/yearofthehorse1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/yearofthehorse2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-retro-r-26",
+    "title": "Ferrari Retro Roja - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/retro_r1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/retro_r2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-retro-b-26",
+    "title": "Ferrari Retro Blanca - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/retro_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/retro_b2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-retro-n-26",
+    "title": "Ferrari Retro Negra - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/retro_n1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/retro_n2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-buzo26",
+    "title": "Ferrari Buzo - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/buzo1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/buzo2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/buzo3.webp",
+        "alt": "derecha"
+      },
+      {
+        "src": "catalogo/f1/ferrari/buzo4.webp",
+        "alt": "izquierda"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-campera-m1-26",
+    "title": "Ferrari Campera modelo 1 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/campera1_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera1_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera1_3.webp",
+        "alt": "detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera1_4.webp",
+        "alt": "detalle 2"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-campera-m2-26",
+    "title": "Ferrari Campera modelo 2 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/campera2_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera2_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera2_3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-campera-m3-26",
+    "title": "Ferrari Campera modelo 3 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/campera3_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera3_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera3_3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-campera-m4-26",
+    "title": "Ferrari Campera modelo 4 - 2026",
+    "team": "ferrari",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/campera4_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/campera4_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-chomba-26",
+    "title": "RedBull - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-26",
+    "title": "RedBull - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-buzo-26",
+    "title": "RedBull Buzo - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/buzo1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/buzo2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-campera-26",
+    "title": "RedBull Campera - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/campera26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/campera26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-chomba-vcarb-26",
+    "title": "RedBull RB Visa CashApp - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-vcarb-26",
+    "title": "RB Visa CashApp - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/vcarb26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/vcarb26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mclaren-chomba-26",
+    "title": "McLaren - 2026",
+    "team": "mclaren",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/chomba26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mclaren-26",
+    "title": "McLaren - 2026",
+    "team": "mclaren",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/26_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mclaren-gp1000-26",
+    "title": "McLaren GP 1000 - 2026",
+    "team": "mclaren",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/GP1000_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/GP1000_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mclaren-buzo-26",
+    "title": "McLaren Buzo - 2026",
+    "team": "mclaren",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/buzo1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/buzo2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-mclaren-campera-26",
+    "title": "McLaren Campera - 2026",
+    "team": "mclaren",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/campera1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/campera2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-audi-chomba",
+    "title": "Audi - 2026",
+    "team": "audi",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/audi/chomba1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba3.webp",
+        "alt": "audi"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba4.webp",
+        "alt": "logo"
+      }
+    ]
+  },
+  {
+    "id": "f1-audi-camiseta",
+    "title": "Audi - 2026",
+    "team": "audi",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/audi/camiseta1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta3.webp",
+        "alt": "audi"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta4.webp",
+        "alt": "logo"
+      }
+    ]
+  },
+  {
+    "id": "f1-astonmartin-chomba",
+    "title": "Aston Martin - 2026",
+    "team": "astonmartin",
+    "year": 2026,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_3.webp",
+        "alt": "Alonso 14"
+      }
+    ]
+  },
+  {
+    "id": "f1-astonmartin-camiseta",
+    "title": "Aston Martin - 2026",
+    "team": "astonmartin",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/26_3.webp",
+        "alt": "Alonso 14"
+      }
+    ]
+  },
+  {
+    "id": "f1-astonmartin-campera",
+    "title": "Aston Martin Campera - 2026",
+    "team": "astonmartin",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/campera1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/campera2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/campera3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "f1-mercedes-negra",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Negra - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/negra1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra7.webp",
+        "alt": "Detalle 6"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-blanca",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Blanca - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca7.webp",
+        "alt": "Detalle 6"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-miami",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Miami - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/miami1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-chomba-blanca",
+    "team": "mercedes",
+    "version": "chomba",
+    "title": "Mercedes Blanca - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_b1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-chomba-negra",
+    "team": "mercedes",
+    "version": "chomba",
+    "title": "Mercedes Negra - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_n1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-lasvegas25",
+    "title": "Ferrari Las Vegas - 2025",
+    "team": "ferrari",
+    "year": 2025,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/lasvegas1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/lasvegas2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-titular",
+    "team": "ferrari",
+    "version": "camiseta",
+    "title": "Ferrari Roja - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/ferrari/5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/ferrari/6.webp",
+        "alt": "Detalle 5"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-blanca",
+    "team": "ferrari",
+    "version": "camiseta",
+    "title": "Ferrari Blanca - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-azul25",
+    "title": "Ferrari Azul - 2025",
+    "team": "ferrari",
+    "year": 2025,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/azul1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/azul2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-ferrari-chomba",
+    "team": "ferrari",
+    "version": "chomba",
+    "title": "Ferrari - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba7.webp",
+        "alt": "Detalle 6"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba8.webp",
+        "alt": "Detalle 7"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-chomba-b-25",
+    "title": "RedBull Blanca - 2025",
+    "team": "redbull",
+    "year": 2025,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_b2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-hypebeast25",
+    "title": "RedBull x Hypebeast - 2025",
+    "team": "redbull",
+    "year": 2025,
+    "version": "chomba",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/hypebeast1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/hypebeast2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-chomba",
+    "team": "redbull",
+    "version": "chomba",
+    "title": "RedBull - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-titular",
+    "team": "redbull",
+    "version": "camiseta",
+    "title": "RedBull - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-campera25",
+    "title": "RedBull Campera - 2025",
+    "team": "redbull",
+    "year": 2025,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/campera1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/campera2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-rb",
+    "team": "redbull",
+    "version": "chomba",
+    "title": "RB Visa CashApp - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-papaya",
+    "team": "mclaren",
+    "version": "camiseta",
+    "title": "McLaren Papaya - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-azul",
+    "team": "mclaren",
+    "version": "camiseta",
+    "title": "McLaren Azul - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/azul1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul_norris.webp",
+        "alt": "Norris"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-chomba",
+    "team": "mclaren",
+    "version": "chomba",
+    "title": "McLaren - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": [],
+    "year": 2025
   }
 ]

@@ -82,12 +82,7 @@ export const Catalog: React.FC<CatalogProps> = ({ storeMode, resetFiltersKey }) 
       result.sort((a, b) => getYear(b) - getYear(a));
     }
     
-    // Priority sorting for F1
-    if (selectedSort === 'recent' && storeMode === 'f1') {
-      const mercedes = result.filter(p => p.team === 'mercedes');
-      const others = result.filter(p => p.team !== 'mercedes');
-      return [...mercedes, ...others];
-    }
+    // Keep JSON order for recent sort
     
     return result;
   }, [filteredProducts, selectedSort, storeMode]);
