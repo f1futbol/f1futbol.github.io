@@ -81,7 +81,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         <div className="p-3 md:p-5 flex flex-col flex-grow">
           <div className="mb-1 md:mb-2 flex items-center justify-between">
             <span className="text-[10px] md:text-xs font-semibold uppercase tracking-wider text-gray-400">
-              Versión {product.version}
+              {product.version.toLowerCase() === 'abrigo' ? 'Abrigo' : `Versión ${product.version}`}
             </span>
           </div>
           

@@ -7,20 +7,21 @@ interface FilterBarProps {
   versions: string[];
   selectedTeam: string | null;
   selectedVersion: string | null;
-  selectedSort: SortOption;
   onSelectTeam: (team: string | null) => void;
   onSelectVersion: (version: string | null) => void;
-  onSelectSort: (sort: SortOption) => void;
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({
-  teams, versions, selectedTeam, selectedVersion, selectedSort,
-  onSelectTeam, onSelectVersion, onSelectSort
+  teams, versions, selectedTeam, selectedVersion,
+  onSelectTeam, onSelectVersion
 }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   const formatTeamName = (team: string) => {
     if (team === 'sanlorenzo') return 'San Lorenzo';
+    if (team === 'astonmartin') return 'Aston Martin';
+    if (team === 'redbull') return 'Red Bull';
+    if (team === 'mclaren') return 'McLaren';
     if (team === 'f1') return 'F1';
     return team;
   };
@@ -102,30 +103,6 @@ export const FilterBar: React.FC<FilterBarProps> = ({
         </div>
 
         <div className="max-h-[60vh] overflow-y-auto pr-2 pb-4">
-          {/* Sort Filter */}
-          <div className="mb-8">
-            <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Ordenar por</h3>
-            <div className="flex flex-wrap gap-2">
-              {[
-                { id: 'recent', label: 'Más recientes' },
-                { id: 'year_desc', label: 'Año (Nuevos a viejos)' },
-                { id: 'price_asc', label: 'Precio (Menor a mayor)' },
-                { id: 'price_desc', label: 'Precio (Mayor a menor)' },
-              ].map(sort => (
-                <button
-                  key={sort.id}
-                  onClick={() => { onSelectSort(sort.id as SortOption); setIsOpen(false); }}
-                  className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedSort === sort.id
-                      ? 'bg-accent text-white shadow-lg shadow-accent/30'
-                      : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                    }`}
-                >
-                  {sort.label}
-                </button>
-              ))}
-            </div>
-          </div>
-
           {/* Teams Filter */}
           <div className="mb-8">
             <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por equipo</h3>
@@ -156,7 +133,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
           {/* Versions Filter */}
           <div className="mb-4">
-            <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por tipo de camiseta</h3>
+            <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtrar por tipo</h3>
             <div className="flex flex-wrap gap-2">
               <button
                 onClick={() => { onSelectVersion(null); setIsOpen(false); }}
@@ -165,7 +142,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
                     : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
                   }`}
               >
-                Todas las Versiones
+                Todos
               </button>
               {versions.map(version => (
                 <button
