@@ -3,7 +3,7 @@
     "id": "f1-mercedes-negra",
     "team": "mercedes",
     "version": "camiseta",
-    "title": "Mercedes Negra",
+    "title": "Mercedes Negra 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -42,7 +42,7 @@
     "id": "f1-mercedes-blanca",
     "team": "mercedes",
     "version": "camiseta",
-    "title": "Mercedes Blanca",
+    "title": "Mercedes Blanca 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -81,7 +81,7 @@
     "id": "f1-mercedes-miami",
     "team": "mercedes",
     "version": "camiseta",
-    "title": "Mercedes Miami",
+    "title": "Mercedes Miami 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -108,7 +108,7 @@
     "id": "f1-mercedes-chomba-blanca",
     "team": "mercedes",
     "version": "chomba",
-    "title": "Mercedes Chomba Blanca",
+    "title": "Mercedes Chomba Blanca 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -135,7 +135,7 @@
     "id": "f1-mercedes-chomba-negra",
     "team": "mercedes",
     "version": "chomba",
-    "title": "Mercedes Chomba Negra",
+    "title": "Mercedes Chomba Negra 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -162,7 +162,7 @@
     "id": "f1-ferrari-titular",
     "team": "ferrari",
     "version": "camiseta",
-    "title": "Ferrari Roja",
+    "title": "Ferrari Roja 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -197,7 +197,7 @@
     "id": "f1-ferrari-blanca",
     "team": "ferrari",
     "version": "camiseta",
-    "title": "Ferrari Blanca",
+    "title": "Ferrari Blanca 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -224,7 +224,7 @@
     "id": "f1-ferrari-chomba",
     "team": "ferrari",
     "version": "chomba",
-    "title": "Ferrari Chomba",
+    "title": "Ferrari Chomba 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -267,7 +267,7 @@
     "id": "f1-mclaren-papaya",
     "team": "mclaren",
     "version": "camiseta",
-    "title": "McLaren Papaya",
+    "title": "McLaren Papaya 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -310,7 +310,7 @@
     "id": "f1-mclaren-azul",
     "team": "mclaren",
     "version": "camiseta",
-    "title": "McLaren Azul",
+    "title": "McLaren Azul 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -349,7 +349,7 @@
     "id": "f1-mclaren-chomba",
     "team": "mclaren",
     "version": "chomba",
-    "title": "McLaren Chomba",
+    "title": "McLaren Chomba 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -384,7 +384,7 @@
     "id": "f1-redbull-titular",
     "team": "redbull",
     "version": "camiseta",
-    "title": "RedBull Azul",
+    "title": "RedBull Azul 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -411,7 +411,7 @@
     "id": "f1-redbull-chomba",
     "team": "redbull",
     "version": "chomba",
-    "title": "RedBull Chomba",
+    "title": "RedBull Chomba 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -438,23 +438,23 @@
     "id": "f1-redbull-rb",
     "team": "redbull",
     "version": "chomba",
-    "title": "RB CashApp",
+    "title": "RB CashApp 2025",
     "basePrice": 65000,
     "images": [
       {
-        "src": "catalogo/f1/redbull/rb1.webp",
+        "src": "catalogo/f1/redbull/chomba_vcarb1.webp",
         "alt": "Frente"
       },
       {
-        "src": "catalogo/f1/redbull/rb2.webp",
+        "src": "catalogo/f1/redbull/chomba_vcarb2.webp",
         "alt": "Detalle 1"
       },
       {
-        "src": "catalogo/f1/redbull/rb3.webp",
+        "src": "catalogo/f1/redbull/chomba_vcarb3.webp",
         "alt": "Detalle 2"
       },
       {
-        "src": "catalogo/f1/redbull/rb4.webp",
+        "src": "catalogo/f1/redbull/chomba_vcarb4.webp",
         "alt": "Detalle 3"
       }
     ],
