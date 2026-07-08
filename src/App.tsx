@@ -5,7 +5,16 @@ import { TallesView } from './components/TallesView';
 
 function App() {
   const [view, setView] = useState<'catalog' | 'talles'>('catalog');
-  const [storeMode, setStoreMode] = useState<'equipos' | 'selecciones' | 'f1'>('equipos');
+  const [storeMode, setStoreMode] = useState<'equipos' | 'selecciones' | 'f1'>(() => {
+    const saved = localStorage.getItem('storeMode');
+    if (saved === 'equipos' || saved === 'selecciones' || saved === 'f1') return saved;
+    return 'equipos';
+  });
+  const [resetFiltersKey, setResetFiltersKey] = useState(0);
+
+  useEffect(() => {
+    localStorage.setItem('storeMode', storeMode);
+  }, [storeMode]);
   const [showScrollTop, setShowScrollTop] = useState(false);
 
   useEffect(() => {
@@ -35,15 +44,16 @@ function App() {
     <div className="min-h-screen bg-dark">
       {/* Header/Nav */}
       <nav className="bg-black/70 backdrop-blur-md border-b border-gray-800 sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
+        <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-16 gap-1 sm:gap-4">
 
             {/* Left: Logo */}
-            <div className="w-1/3 flex justify-start">
+            <div className="flex-none md:w-1/3 flex justify-start">
               <div
                 className="flex items-center gap-3 cursor-pointer group"
                 onClick={() => {
                   setView('catalog');
+                  setResetFiltersKey(prev => prev + 1);
                   scrollToTop();
                 }}
               >
@@ -55,25 +65,25 @@ function App() {
             </div>
 
             {/* Center: Switch */}
-            <div className="w-1/3 flex justify-center">
-              <div className="flex bg-black/50 backdrop-blur-md rounded-full p-1 border border-white/10 shadow-inner">
+            <div className="flex-1 md:w-1/3 flex justify-center mx-1 sm:mx-0">
+              <div className="flex w-full max-w-[280px] sm:max-w-[340px] bg-black/50 backdrop-blur-md rounded-full p-1 border border-white/10 shadow-inner">
                 <button
                   onClick={() => setStoreMode('equipos')}
-                  className={`px-3 py-1.5 rounded-full text-xs sm:text-sm font-bold transition-all duration-300 ${storeMode === 'equipos' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
+                  className={`flex-1 py-1.5 rounded-full text-[10px] sm:text-sm font-bold transition-all duration-300 flex items-center justify-center ${storeMode === 'equipos' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
                     }`}
                 >
                   Equipos
                 </button>
                 <button
                   onClick={() => setStoreMode('selecciones')}
-                  className={`px-3 py-1.5 rounded-full text-xs sm:text-sm font-bold transition-all duration-300 ${storeMode === 'selecciones' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
+                  className={`flex-1 py-1.5 rounded-full text-[10px] sm:text-sm font-bold transition-all duration-300 flex items-center justify-center ${storeMode === 'selecciones' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
                     }`}
                 >
                   Selecciones
                 </button>
                 <button
                   onClick={() => setStoreMode('f1')}
-                  className={`px-5 sm:px-6 py-1.5 rounded-full text-xs sm:text-sm font-bold transition-all duration-300 ${storeMode === 'f1' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
+                  className={`flex-1 py-1.5 rounded-full text-[10px] sm:text-sm font-bold transition-all duration-300 flex items-center justify-center ${storeMode === 'f1' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
                     }`}
                 >
                   F1
@@ -82,10 +92,10 @@ function App() {
             </div>
 
             {/* Right: Button */}
-            <div className="w-1/3 flex justify-end">
+            <div className="flex-none md:w-1/3 flex justify-end">
               <button
                 onClick={() => setView(view === 'catalog' ? 'talles' : 'catalog')}
-                className="text-white font-semibold transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5 bg-accent hover:brightness-110 px-4 py-2 rounded-lg text-sm sm:text-base whitespace-nowrap"
+                className="text-white font-semibold transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5 bg-accent hover:brightness-110 px-2.5 sm:px-4 py-1.5 sm:py-2 rounded-lg text-[11px] sm:text-base whitespace-nowrap"
               >
                 {view === 'catalog' ? 'Talles' : 'Catálogo'}
               </button>
@@ -97,7 +107,7 @@ function App() {
 
       {/* Main Content */}
       <main>
-        {view === 'catalog' ? <Catalog storeMode={storeMode} /> : <TallesView />}
+        {view === 'catalog' ? <Catalog storeMode={storeMode} resetFiltersKey={resetFiltersKey} /> : <TallesView />}
       </main>
 
       {/* Footer */}

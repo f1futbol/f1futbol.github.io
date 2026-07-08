@@ -7,9 +7,10 @@ import productsData from '../data/products.json';
 
 interface CatalogProps {
   storeMode: 'equipos' | 'selecciones' | 'f1';
+  resetFiltersKey: number;
 }
 
-export const Catalog: React.FC<CatalogProps> = ({ storeMode }) => {
+export const Catalog: React.FC<CatalogProps> = ({ storeMode, resetFiltersKey }) => {
   const [selectedTeam, setSelectedTeam] = useState<string | null>(null);
   const [selectedVersion, setSelectedVersion] = useState<string | null>(null);
   const [selectedSort, setSelectedSort] = useState<SortOption>('recent');
@@ -27,11 +28,11 @@ export const Catalog: React.FC<CatalogProps> = ({ storeMode }) => {
     });
   }, [storeMode]);
 
-  // Reset filters on mode change
+  // Reset filters on mode change or logo click
   useEffect(() => {
     setSelectedTeam(null);
     setSelectedVersion(null);
-  }, [storeMode]);
+  }, [storeMode, resetFiltersKey]);
 
   // Get unique teams and versions for filters
   const teams = useMemo(() => {

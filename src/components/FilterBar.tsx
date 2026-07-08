@@ -87,7 +87,17 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       {/* Sheet / Modal (Bottom en móvil, centrado en escritorio) */}
       <div className={`fixed bottom-0 md:top-1/2 md:bottom-auto left-0 md:left-1/2 right-0 md:right-auto md:-translate-x-1/2 bg-card border-t md:border border-x md:border-y border-gray-800 rounded-t-3xl md:rounded-3xl p-6 pb-12 md:pb-6 z-[80] w-full md:w-[500px] md:max-w-[90vw] transition-all duration-300 ${isOpen ? 'translate-y-0 md:-translate-y-1/2 opacity-100' : 'translate-y-full md:-translate-y-1/2 md:opacity-0 md:pointer-events-none'}`}>
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-xl font-bold text-white tracking-wide">Filtrar Catálogo</h2>
+          <div className="flex items-center gap-4">
+            <h2 className="text-xl font-bold text-white tracking-wide">Filtros</h2>
+            {(selectedTeam !== null || selectedVersion !== null) && (
+              <button 
+                onClick={() => { onSelectTeam(null); onSelectVersion(null); setIsOpen(false); }}
+                className="text-sm font-semibold text-accent hover:text-white transition-colors"
+              >
+                Limpiar todo
+              </button>
+            )}
+          </div>
           <button onClick={() => setIsOpen(false)} className="text-gray-400 hover:text-white text-3xl leading-none">&times;</button>
         </div>
 
@@ -104,7 +114,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
               ].map(sort => (
                 <button
                   key={sort.id}
-                  onClick={() => onSelectSort(sort.id as SortOption)}
+                  onClick={() => { onSelectSort(sort.id as SortOption); setIsOpen(false); }}
                   className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
                     selectedSort === sort.id 
                       ? 'bg-accent text-white shadow-lg shadow-accent/30' 
@@ -122,7 +132,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por equipo</h3>
             <div className="flex flex-wrap gap-2">
               <button
-                onClick={() => onSelectTeam(null)}
+                onClick={() => { onSelectTeam(null); setIsOpen(false); }}
                 className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
                   selectedTeam === null 
                     ? 'bg-accent text-white shadow-lg shadow-accent/30' 
@@ -134,7 +144,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
               {teams.map(team => (
                 <button
                   key={team}
-                  onClick={() => onSelectTeam(team)}
+                  onClick={() => { onSelectTeam(team); setIsOpen(false); }}
                   className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${
                     selectedTeam === team 
                       ? 'bg-accent text-white shadow-lg shadow-accent/30' 
@@ -152,7 +162,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por tipo de camiseta</h3>
             <div className="flex flex-wrap gap-2">
               <button
-                onClick={() => onSelectVersion(null)}
+                onClick={() => { onSelectVersion(null); setIsOpen(false); }}
                 className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
                   selectedVersion === null 
                     ? 'bg-accent text-white shadow-lg shadow-accent/30' 
@@ -164,7 +174,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
               {versions.map(version => (
                 <button
                   key={version}
-                  onClick={() => onSelectVersion(version)}
+                  onClick={() => { onSelectVersion(version); setIsOpen(false); }}
                   className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${
                     selectedVersion === version 
                       ? 'bg-accent text-white shadow-lg shadow-accent/30' 
