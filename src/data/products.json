@@ -16,14 +16,18 @@
       },
       {
         "src": "catalogo/equipos/river/river125_3.webp",
-        "alt": "Escudo"
+        "alt": "Dorsal"
       },
       {
         "src": "catalogo/equipos/river/river125_4.webp",
-        "alt": "Logo"
+        "alt": "Escudo"
       },
       {
         "src": "catalogo/equipos/river/river125_5.webp",
+        "alt": "Logo"
+      },
+      {
+        "src": "catalogo/equipos/river/river125_6.webp",
         "alt": "Etiqueta"
       }
     ],
