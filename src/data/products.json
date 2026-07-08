@@ -108,7 +108,7 @@
     "id": "f1-mercedes-chomba-blanca",
     "team": "mercedes",
     "version": "chomba",
-    "title": "Mercedes Chomba Blanca 2025",
+    "title": "Mercedes Blanca 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -135,7 +135,7 @@
     "id": "f1-mercedes-chomba-negra",
     "team": "mercedes",
     "version": "chomba",
-    "title": "Mercedes Chomba Negra 2025",
+    "title": "Mercedes Negra 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -224,7 +224,7 @@
     "id": "f1-ferrari-chomba",
     "team": "ferrari",
     "version": "chomba",
-    "title": "Ferrari Chomba 2025",
+    "title": "Ferrari 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -349,7 +349,7 @@
     "id": "f1-mclaren-chomba",
     "team": "mclaren",
     "version": "chomba",
-    "title": "McLaren Chomba 2025",
+    "title": "McLaren 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -411,7 +411,7 @@
     "id": "f1-redbull-chomba",
     "team": "redbull",
     "version": "chomba",
-    "title": "RedBull Chomba 2025",
+    "title": "RedBull 2025",
     "basePrice": 65000,
     "images": [
       {
