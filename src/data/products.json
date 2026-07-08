@@ -1,5 +1,128 @@
 [
   {
+    "id": "f1-audi-chomba",
+    "title": "Audi 2026",
+    "team": "audi",
+    "year": 2025,
+    "version": "chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/audi/chomba1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba3.webp",
+        "alt": "audi"
+      },
+      {
+        "src": "catalogo/f1/audi/chomba4.webp",
+        "alt": "logo"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1-audi-camiseta",
+    "title": "Audi 2026",
+    "team": "audi",
+    "year": 2025,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/audi/camiseta1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta3.webp",
+        "alt": "audi"
+      },
+      {
+        "src": "catalogo/f1/audi/camiseta4.webp",
+        "alt": "logo"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1-astonmartin-chomba",
+    "title": "Aston Martin 2026",
+    "team": "astonmartin",
+    "year": 2025,
+    "version": "chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/chomba26_3.webp",
+        "alt": "Alonso 14"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1-astonmartin-camiseta",
+    "title": "Aston Martin 2026",
+    "team": "astonmartin",
+    "year": 2025,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/26_3.webp",
+        "alt": "Alonso 14"
+      }
+    ],
+    "details": []
+  },
+  {
+    "id": "f1-astonmartin-campera",
+    "title": "Aston Martin Campera 2026",
+    "team": "astonmartin",
+    "year": 2025,
+    "version": "Abrigo",
+    "basePrice": 120000,
+    "images": [
+      {
+        "src": "catalogo/f1/astonmartin/campera1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/campera2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/f1/astonmartin/campera3.webp",
+        "alt": "tela interior"
+      }
+    ],
+    "details": []
+  },
+  {
     "id": "f1-mercedes-negra",
     "team": "mercedes",
     "version": "camiseta",
@@ -384,7 +507,7 @@
     "id": "f1-redbull-titular",
     "team": "redbull",
     "version": "camiseta",
-    "title": "RedBull Azul 2025",
+    "title": "RedBull 2025",
     "basePrice": 65000,
     "images": [
       {
@@ -438,7 +561,7 @@
     "id": "f1-redbull-rb",
     "team": "redbull",
     "version": "chomba",
-    "title": "RB CashApp 2025",
+    "title": "RB Visa CashApp 2025",
     "basePrice": 65000,
     "images": [
       {

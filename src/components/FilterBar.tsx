@@ -13,7 +13,7 @@ interface FilterBarProps {
   onSelectSort: (sort: SortOption) => void;
 }
 
-export const FilterBar: React.FC<FilterBarProps> = ({ 
+export const FilterBar: React.FC<FilterBarProps> = ({
   teams, versions, selectedTeam, selectedVersion, selectedSort,
   onSelectTeam, onSelectVersion, onSelectSort
 }) => {
@@ -45,7 +45,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       {/* BOTÓN DE FILTRAR MÓVIL (FAB) - Dock flotante inferior */}
       {/* ============================================================== */}
       <div className="md:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-[60]">
-        <button 
+        <button
           onClick={() => setIsOpen(true)}
           className="bg-accent border border-white/20 shadow-lg shadow-accent/40 px-6 py-3 rounded-full flex items-center gap-3 text-white hover:brightness-110 transition-all hover:scale-105"
         >
@@ -62,7 +62,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       {/* BOTÓN DE FILTRAR ESCRITORIO - Botón centrado superior */}
       {/* ============================================================== */}
       <div className="hidden md:flex justify-center sticky top-24 z-40 mb-12">
-        <button 
+        <button
           onClick={() => setIsOpen(true)}
           className="bg-accent border border-white/20 shadow-lg shadow-accent/40 px-8 py-3 rounded-full flex items-center gap-3 text-white hover:brightness-110 transition-all hover:scale-105"
         >
@@ -79,7 +79,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       {/* MODAL DE FILTROS (Global para Móvil y Escritorio) */}
       {/* ============================================================== */}
       {/* Backdrop */}
-      <div 
+      <div
         className={`fixed inset-0 bg-black/70 backdrop-blur-sm z-[70] transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
         onClick={() => setIsOpen(false)}
       ></div>
@@ -90,7 +90,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           <div className="flex items-center gap-4">
             <h2 className="text-xl font-bold text-white tracking-wide">Filtros</h2>
             {(selectedTeam !== null || selectedVersion !== null) && (
-              <button 
+              <button
                 onClick={() => { onSelectTeam(null); onSelectVersion(null); setIsOpen(false); }}
                 className="text-sm font-semibold text-accent hover:text-white transition-colors"
               >
@@ -115,11 +115,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
                 <button
                   key={sort.id}
                   onClick={() => { onSelectSort(sort.id as SortOption); setIsOpen(false); }}
-                  className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
-                    selectedSort === sort.id 
-                      ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                  className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedSort === sort.id
+                      ? 'bg-accent text-white shadow-lg shadow-accent/30'
                       : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                  }`}
+                    }`}
                 >
                   {sort.label}
                 </button>
@@ -133,11 +132,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             <div className="flex flex-wrap gap-2">
               <button
                 onClick={() => { onSelectTeam(null); setIsOpen(false); }}
-                className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
-                  selectedTeam === null 
-                    ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedTeam === null
+                    ? 'bg-accent text-white shadow-lg shadow-accent/30'
                     : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                }`}
+                  }`}
               >
                 Todos los Equipos
               </button>
@@ -145,11 +143,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
                 <button
                   key={team}
                   onClick={() => { onSelectTeam(team); setIsOpen(false); }}
-                  className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${
-                    selectedTeam === team 
-                      ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                  className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${selectedTeam === team
+                      ? 'bg-accent text-white shadow-lg shadow-accent/30'
                       : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                  }`}
+                    }`}
                 >
                   {formatTeamName(team)}
                 </button>
@@ -163,11 +160,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             <div className="flex flex-wrap gap-2">
               <button
                 onClick={() => { onSelectVersion(null); setIsOpen(false); }}
-                className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
-                  selectedVersion === null 
-                    ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedVersion === null
+                    ? 'bg-accent text-white shadow-lg shadow-accent/30'
                     : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                }`}
+                  }`}
               >
                 Todas las Versiones
               </button>
@@ -175,11 +171,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
                 <button
                   key={version}
                   onClick={() => { onSelectVersion(version); setIsOpen(false); }}
-                  className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${
-                    selectedVersion === version 
-                      ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                  className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${selectedVersion === version
+                      ? 'bg-accent text-white shadow-lg shadow-accent/30'
                       : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                  }`}
+                    }`}
                 >
                   {version}
                 </button>
