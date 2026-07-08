@@ -1,16 +1,21 @@
 import { useState, useEffect } from 'react';
 
+export type SortOption = 'recent' | 'year_desc' | 'price_asc' | 'price_desc';
+
 interface FilterBarProps {
   teams: string[];
   versions: string[];
   selectedTeam: string | null;
   selectedVersion: string | null;
+  selectedSort: SortOption;
   onSelectTeam: (team: string | null) => void;
   onSelectVersion: (version: string | null) => void;
+  onSelectSort: (sort: SortOption) => void;
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({ 
-  teams, versions, selectedTeam, selectedVersion, onSelectTeam, onSelectVersion 
+  teams, versions, selectedTeam, selectedVersion, selectedSort,
+  onSelectTeam, onSelectVersion, onSelectSort
 }) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -34,12 +39,6 @@ export const FilterBar: React.FC<FilterBarProps> = ({
     };
   }, [isOpen]);
 
-  const handleApplyMobileFilters = () => {
-    setIsOpen(false);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
-
   return (
     <>
       {/* ============================================================== */}
@@ -48,7 +47,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       <div className="md:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-[60]">
         <button 
           onClick={() => setIsOpen(true)}
-          className="bg-accent border border-red-600 shadow-lg shadow-accent/40 px-6 py-3 rounded-full flex items-center gap-3 text-white hover:bg-red-700 transition-all hover:scale-105"
+          className="bg-accent border border-white/20 shadow-lg shadow-accent/40 px-6 py-3 rounded-full flex items-center gap-3 text-white hover:brightness-110 transition-all hover:scale-105"
         >
           <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
@@ -65,7 +64,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
       <div className="hidden md:flex justify-center sticky top-24 z-40 mb-12">
         <button 
           onClick={() => setIsOpen(true)}
-          className="bg-accent border border-red-600 shadow-lg shadow-accent/40 px-8 py-3 rounded-full flex items-center gap-3 text-white hover:bg-red-700 transition-all hover:scale-105"
+          className="bg-accent border border-white/20 shadow-lg shadow-accent/40 px-8 py-3 rounded-full flex items-center gap-3 text-white hover:brightness-110 transition-all hover:scale-105"
         >
           <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
@@ -93,6 +92,31 @@ export const FilterBar: React.FC<FilterBarProps> = ({
         </div>
 
         <div className="max-h-[60vh] overflow-y-auto pr-2 pb-4">
+          {/* Sort Filter */}
+          <div className="mb-8">
+            <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Ordenar por</h3>
+            <div className="flex flex-wrap gap-2">
+              {[
+                { id: 'recent', label: 'Más recientes' },
+                { id: 'year_desc', label: 'Año (Nuevos a viejos)' },
+                { id: 'price_asc', label: 'Precio (Menor a mayor)' },
+                { id: 'price_desc', label: 'Precio (Mayor a menor)' },
+              ].map(sort => (
+                <button
+                  key={sort.id}
+                  onClick={() => onSelectSort(sort.id as SortOption)}
+                  className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${
+                    selectedSort === sort.id 
+                      ? 'bg-accent text-white shadow-lg shadow-accent/30' 
+                      : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
+                  }`}
+                >
+                  {sort.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* Teams Filter */}
           <div className="mb-8">
             <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por equipo</h3>
@@ -153,13 +177,6 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             </div>
           </div>
         </div>
-
-        <button 
-          onClick={handleApplyMobileFilters} 
-          className="w-full bg-accent text-white font-bold py-4 rounded-2xl hover:bg-red-700 transition-colors shadow-lg shadow-accent/30 mt-4 text-lg"
-        >
-          Aplicar Filtros
-        </button>
       </div>
     </>
   );

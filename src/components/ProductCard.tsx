@@ -9,6 +9,7 @@ export interface Product {
   basePrice: number;
   images: { src: string; alt: string }[];
   details: { label: string; value: string }[];
+  year?: number;
 }
 
 interface ProductCardProps {

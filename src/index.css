@@ -11,4 +11,10 @@
   body {
     @apply bg-dark text-white font-sans antialiased;
   }
+  body.theme-selecciones {
+    --color-accent: #2323FF;
+  }
+  body.theme-f1 {
+    --color-accent: #03BFB5;
+  }
 }

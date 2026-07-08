@@ -1,5 +1,467 @@
 [
   {
+    "id": "f1-mercedes-negra",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Negra",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/negra1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra7.webp",
+        "alt": "Detalle 6"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-blanca",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca7.webp",
+        "alt": "Detalle 6"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-miami",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Miami",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/miami1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-chomba-blanca",
+    "team": "mercedes",
+    "version": "chomba",
+    "title": "Mercedes Chomba Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_b1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_b4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-chomba-negra",
+    "team": "mercedes",
+    "version": "chomba",
+    "title": "Mercedes Chomba Negra",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/chomba_n1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mercedes/chomba_n4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-titular",
+    "team": "ferrari",
+    "version": "camiseta",
+    "title": "Ferrari Roja",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/ferrari/5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/ferrari/6.webp",
+        "alt": "Detalle 5"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-blanca",
+    "team": "ferrari",
+    "version": "camiseta",
+    "title": "Ferrari Blanca",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/blanca1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/blanca4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-chomba",
+    "team": "ferrari",
+    "version": "chomba",
+    "title": "Ferrari Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba7.webp",
+        "alt": "Detalle 6"
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba8.webp",
+        "alt": "Detalle 7"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-papaya",
+    "team": "mclaren",
+    "version": "camiseta",
+    "title": "McLaren Papaya",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-azul",
+    "team": "mclaren",
+    "version": "camiseta",
+    "title": "McLaren Azul",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/azul1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul5.webp",
+        "alt": "Detalle 4"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul6.webp",
+        "alt": "Detalle 5"
+      },
+      {
+        "src": "catalogo/f1/mclaren/azul_norris.webp",
+        "alt": "Norris"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mclaren-chomba",
+    "team": "mclaren",
+    "version": "chomba",
+    "title": "McLaren Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mclaren/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba4.webp",
+        "alt": "Detalle 3"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_norris.webp",
+        "alt": "Norris"
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
+        "alt": "Piastri"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-titular",
+    "team": "redbull",
+    "version": "camiseta",
+    "title": "RedBull Azul",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-chomba",
+    "team": "redbull",
+    "version": "chomba",
+    "title": "RedBull Chomba",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-rb",
+    "team": "redbull",
+    "version": "chomba",
+    "title": "RB CashApp",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/rb1.webp",
+        "alt": "Frente"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb2.webp",
+        "alt": "Detalle 1"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb3.webp",
+        "alt": "Detalle 2"
+      },
+      {
+        "src": "catalogo/f1/redbull/rb4.webp",
+        "alt": "Detalle 3"
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
     "id": "river-jugador-125-1783369440476",
     "team": "river",
     "version": "jugador",
@@ -36,7 +498,8 @@
         "label": "Personalización",
         "value": "+$5.000"
       }
-    ]
+    ],
+    "year": 2026
   },
   {
     "id": "river-retro-trico2006-1783374625198",
@@ -563,7 +1026,8 @@
         "alt": "Escudo"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "river-hincha-7",
@@ -605,7 +1069,8 @@
         "alt": "Escudo"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "river-hincha-8",
@@ -647,7 +1112,8 @@
         "alt": "Etiqueta"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "river-hicha-9",
@@ -1647,7 +2113,8 @@
         "alt": "Etiqueta"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "boca-hincha-32",
@@ -1689,7 +2156,8 @@
         "alt": "Escudo"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "boca-hincha-33",
@@ -1719,7 +2187,8 @@
         "alt": "Etiqueta"
       }
     ],
-    "details": []
+    "details": [],
+    "year": 2024
   },
   {
     "id": "boca-hincha-34",
@@ -2761,7 +3230,8 @@
         "label": "Parches",
         "value": "+$2.500"
       }
-    ]
+    ],
+    "year": 2024.11
   },
   {
     "id": "argentina-jugador-60",
@@ -2800,7 +3270,8 @@
         "label": "Parches",
         "value": "+$2.500"
       }
-    ]
+    ],
+    "year": 2024.03
   },
   {
     "id": "argentina-hincha-61",
@@ -2993,453 +3464,5 @@
         "value": "+$2.500"
       }
     ]
-  },
-  {
-    "id": "f1--65",
-    "team": "f1",
-    "version": "",
-    "title": "Ferrari Camiseta Roja",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/2.webp",
-        "alt": "Dorso"
-      },
-      {
-        "src": "catalogo/f1/ferrari/3.webp",
-        "alt": "Cuello delantero"
-      },
-      {
-        "src": "catalogo/f1/ferrari/4.webp",
-        "alt": "Cuello trasero"
-      },
-      {
-        "src": "catalogo/f1/ferrari/5.webp",
-        "alt": "Manga"
-      },
-      {
-        "src": "catalogo/f1/ferrari/6.webp",
-        "alt": "Tela"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--66",
-    "team": "f1",
-    "version": "",
-    "title": "Ferrari Camiseta Blanca",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/blanca1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca2.webp",
-        "alt": "Dorso"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca3.webp",
-        "alt": "Manga izq"
-      },
-      {
-        "src": "catalogo/f1/ferrari/blanca4.webp",
-        "alt": "Manga der"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--67",
-    "team": "f1",
-    "version": "",
-    "title": "Ferrari Chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/chomba1.webp",
-        "alt": "Frente sin sponsors"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba2.webp",
-        "alt": "Dorso sin sponsors"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba3.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba4.webp",
-        "alt": "Dorso"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba5.webp",
-        "alt": "Manga izq"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba6.webp",
-        "alt": "Manga der"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba7.webp",
-        "alt": "Pecho 1"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba8.webp",
-        "alt": "Pecho 2"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--68",
-    "team": "f1",
-    "version": "",
-    "title": "McLaren Chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/chomba1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba4.webp",
-        "alt": "4"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_norris.webp",
-        "alt": "Norris"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
-        "alt": "Piastri"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--69",
-    "team": "f1",
-    "version": "",
-    "title": "McLaren Camiseta Naranja",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/4.webp",
-        "alt": "4"
-      },
-      {
-        "src": "catalogo/f1/mclaren/5.webp",
-        "alt": "5"
-      },
-      {
-        "src": "catalogo/f1/mclaren/6.webp",
-        "alt": "6"
-      },
-      {
-        "src": "catalogo/f1/mclaren/norris.webp",
-        "alt": "Norris"
-      },
-      {
-        "src": "catalogo/f1/mclaren/piastri.webp",
-        "alt": "Piastri"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--70",
-    "team": "f1",
-    "version": "",
-    "title": "McLaren Camiseta Azul",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/azul1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul4.webp",
-        "alt": "4"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul5.webp",
-        "alt": "5"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul6.webp",
-        "alt": "6"
-      },
-      {
-        "src": "catalogo/f1/mclaren/azul_norris.webp",
-        "alt": "Norris"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--71",
-    "team": "f1",
-    "version": "",
-    "title": "Mercedes Camiseta Blanca",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/blanca1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca4.webp",
-        "alt": "4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca5.webp",
-        "alt": "5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca6.webp",
-        "alt": "6"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca7.webp",
-        "alt": "7"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--72",
-    "team": "f1",
-    "version": "",
-    "title": "Mercedes Camiseta Negra",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/negra1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra4.webp",
-        "alt": "4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra5.webp",
-        "alt": "5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra6.webp",
-        "alt": "6"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra7.webp",
-        "alt": "7"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--73",
-    "team": "f1",
-    "version": "",
-    "title": "Mercedes Camiseta Miami",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/miami1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--74",
-    "team": "f1",
-    "version": "",
-    "title": "Mercedes Chomba Blanca",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/chomba_b1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_b4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--75",
-    "team": "f1",
-    "version": "",
-    "title": "Mercedes Chomba Negra",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/chomba_n1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/chomba_n4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--76",
-    "team": "f1",
-    "version": "",
-    "title": "Redbull Camiseta",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/redbull/2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/redbull/3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/redbull/4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--77",
-    "team": "f1",
-    "version": "",
-    "title": "Redbull Chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/chomba1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/redbull/chomba4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
-  },
-  {
-    "id": "f1--78",
-    "team": "f1",
-    "version": "",
-    "title": "Racing Bulls Chomba",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/rb1.webp",
-        "alt": "1"
-      },
-      {
-        "src": "catalogo/f1/redbull/rb2.webp",
-        "alt": "2"
-      },
-      {
-        "src": "catalogo/f1/redbull/rb3.webp",
-        "alt": "3"
-      },
-      {
-        "src": "catalogo/f1/redbull/rb4.webp",
-        "alt": "4"
-      }
-    ],
-    "details": []
   }
 ]
