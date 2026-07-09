@@ -104,32 +104,34 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
         <div className="max-h-[60vh] overflow-y-auto pr-2 pb-4">
           {/* Teams Filter */}
-          <div className="mb-8">
-            <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por equipo</h3>
-            <div className="flex flex-wrap gap-2">
-              <button
-                onClick={() => { onSelectTeam(null); setIsOpen(false); }}
-                className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedTeam === null
-                    ? 'bg-accent text-white shadow-lg shadow-accent/30'
-                    : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
-                  }`}
-              >
-                Todos los Equipos
-              </button>
-              {teams.map(team => (
+          {teams.length > 1 && (
+            <div className="mb-8">
+              <h3 className="text-xs font-bold text-gray-500 mb-4 uppercase tracking-widest">Filtro por equipo</h3>
+              <div className="flex flex-wrap gap-2">
                 <button
-                  key={team}
-                  onClick={() => { onSelectTeam(team); setIsOpen(false); }}
-                  className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${selectedTeam === team
+                  onClick={() => { onSelectTeam(null); setIsOpen(false); }}
+                  className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selectedTeam === null
                       ? 'bg-accent text-white shadow-lg shadow-accent/30'
                       : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
                     }`}
                 >
-                  {formatTeamName(team)}
+                  Todos los Equipos
                 </button>
-              ))}
+                {teams.map(team => (
+                  <button
+                    key={team}
+                    onClick={() => { onSelectTeam(team); setIsOpen(false); }}
+                    className={`px-4 py-2 rounded-xl text-sm font-medium capitalize transition-all ${selectedTeam === team
+                        ? 'bg-accent text-white shadow-lg shadow-accent/30'
+                        : 'bg-dark text-gray-400 hover:text-white hover:bg-gray-800'
+                      }`}
+                  >
+                    {formatTeamName(team)}
+                  </button>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Versions Filter */}
           <div className="mb-4">

@@ -7,8 +7,10 @@ export const TallesView = () => {
   const tallesImages = [
     { src: 'catalogo/medidas/hincha y retro.webp', alt: 'Medidas Versión Hincha y Retro' },
     { src: 'catalogo/medidas/medidas player.webp', alt: 'Medidas Versión Jugador' },
-    { src: 'catalogo/medidas/version mujer.webp', alt: 'Medidas Versión Mujer' },
     { src: 'catalogo/medidas/f1.webp', alt: 'Medidas F1' },
+    { src: 'catalogo/medidas/camperas_rompevientos.webp', alt: 'Medidas Camperas Rompevientos' },
+    { src: 'catalogo/medidas/camperas_acetato.webp', alt: 'Medidas Camperas Acetato' },
+    { src: 'catalogo/medidas/version mujer.webp', alt: 'Medidas Versión Mujer' },
     { src: 'catalogo/medidas/niño.webp', alt: 'Medidas Kit de Niño' },
     { src: 'catalogo/medidas/shorts.webp', alt: 'Medidas Shorts' },
     { src: 'catalogo/medidas/como medir camisetas.webp', alt: 'Cómo medir camisetas' },

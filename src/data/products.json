@@ -265,7 +265,7 @@
     "id": "river-jugador-1",
     "team": "river",
     "version": "jugador",
-    "title": "River Suplente Player 25/26",
+    "title": "River Suplente 25/26",
     "basePrice": 60000,
     "images": [
       {
@@ -387,7 +387,7 @@
     "id": "river-jugador-3",
     "team": "river",
     "version": "jugador",
-    "title": "River Titular Player 25/26",
+    "title": "River Titular 25/26",
     "basePrice": 60000,
     "images": [
       {
@@ -493,7 +493,7 @@
     "id": "river-jugador-5",
     "team": "river",
     "version": "jugador",
-    "title": "River Alternativa Player 25/26",
+    "title": "River Alternativa 25/26",
     "basePrice": 60000,
     "images": [
       {
@@ -704,7 +704,7 @@
     "id": "river-jugador-10",
     "team": "river",
     "version": "jugador",
-    "title": "River Titular Player 24/25",
+    "title": "River Titular 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -798,7 +798,7 @@
     "id": "river-jugador-12",
     "team": "river",
     "version": "jugador",
-    "title": "River Suplente Player 24/25",
+    "title": "River Suplente 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -1478,7 +1478,7 @@
     "id": "boca-jugador-28",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Titular Player 25/26",
+    "title": "Boca Titular 25/26",
     "basePrice": 60000,
     "images": [
       {
@@ -1572,7 +1572,7 @@
     "id": "boca-jugador-30",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suplente Player 25/26",
+    "title": "Boca Suplente 25/26",
     "basePrice": 60000,
     "images": [
       {
@@ -1779,7 +1779,7 @@
     "id": "boca-jugador-35",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Titular Player 24/25",
+    "title": "Boca Titular 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -1877,7 +1877,7 @@
     "id": "boca-jugador-37",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suplente Player 24/25",
+    "title": "Boca Suplente 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -1967,7 +1967,7 @@
     "id": "boca-jugador-39",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suecia Player 24/25",
+    "title": "Boca Suecia 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -3573,7 +3573,7 @@
     "id": "argentina-jugador-60",
     "team": "argentina",
     "version": "jugador",
-    "title": "Argentina Copa America Player",
+    "title": "Argentina Copa America",
     "basePrice": 60000,
     "images": [
       {

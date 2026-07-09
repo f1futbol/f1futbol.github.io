@@ -79,7 +79,7 @@ function App() {
                   className={`flex-1 py-1.5 rounded-full text-[10px] sm:text-sm font-bold transition-all duration-300 flex items-center justify-center ${storeMode === 'selecciones' ? 'bg-accent text-white shadow-lg shadow-accent/30' : 'text-gray-400 hover:text-white'
                     }`}
                 >
-                  Selecciones
+                  Selección
                 </button>
                 <button
                   onClick={() => setStoreMode('f1')}
