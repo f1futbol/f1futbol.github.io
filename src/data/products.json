@@ -214,7 +214,7 @@
     "id": "river-hincha-0",
     "team": "river",
     "version": "hincha",
-    "title": "River Suplente Fan 25/26",
+    "title": "River Suplente 25/26",
     "basePrice": 55000,
     "images": [
       {
@@ -328,7 +328,7 @@
     "id": "river-hincha-2",
     "team": "river",
     "version": "hincha",
-    "title": "River Titular Fan 25/26",
+    "title": "River Titular 25/26",
     "basePrice": 55000,
     "images": [
       {
@@ -446,7 +446,7 @@
     "id": "river-hincha-4",
     "team": "river",
     "version": "hincha",
-    "title": "River Alternativa Fan 25/26",
+    "title": "River Alternativa 25/26",
     "basePrice": 55000,
     "images": [
       {
@@ -657,7 +657,7 @@
     "id": "river-hicha-9",
     "team": "river",
     "version": "hincha",
-    "title": "River Titular Fan 24/25",
+    "title": "River Titular 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -751,7 +751,7 @@
     "id": "river-hincha-11",
     "team": "river",
     "version": "hincha",
-    "title": "River Suplente Fan 24/25",
+    "title": "River Suplente 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -849,7 +849,7 @@
     "id": "river-hincha-13",
     "team": "river",
     "version": "hincha",
-    "title": "River Alternativa Fan 24/25",
+    "title": "River Alternativa 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -1431,7 +1431,7 @@
     "id": "boca-hincha-27",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Titular Fan 25/26",
+    "title": "Boca Titular 25/26",
     "basePrice": 55000,
     "images": [
       {
@@ -1525,7 +1525,7 @@
     "id": "boca-hincha-29",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suplente Fan 25/26",
+    "title": "Boca Suplente 25/26",
     "basePrice": 55000,
     "images": [
       {
@@ -1732,7 +1732,7 @@
     "id": "boca-hincha-34",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Titular Fan 24/25",
+    "title": "Boca Titular 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -1830,7 +1830,7 @@
     "id": "boca-hincha-36",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suplente Fan 24/25",
+    "title": "Boca Suplente 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -1924,7 +1924,7 @@
     "id": "boca-hincha-38",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suecia Fan 24/25",
+    "title": "Boca Suecia 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -2724,6 +2724,804 @@
     ]
   },
   {
+    "id": "arg-argentina-titular-2026-jugador",
+    "title": "Argentina Titular 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "jugador",
+    "basePrice": 60000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/player26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/player26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/player26_3.webp",
+        "alt": "manga larga"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/player26_4.webp",
+        "alt": "pecho"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/player26_5.webp",
+        "alt": "dorsal"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-2026-jugador",
+    "title": "Argentina Suplente 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "jugador",
+    "basePrice": 60000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_3.webp",
+        "alt": "manga larga"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_4.webp",
+        "alt": "dorsal"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_5.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_6.webp",
+        "alt": "logo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26player_7.webp",
+        "alt": "detalle"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-titular-2026-hincha",
+    "title": "Argentina Titular 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "hincha",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/fan26_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_3.webp",
+        "alt": "manga larga"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_4.webp",
+        "alt": "dorsal"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_5.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_6.webp",
+        "alt": "logo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_7.webp",
+        "alt": "parche"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/fan26_8.webp",
+        "alt": "1893"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-2026-hincha",
+    "title": "Argentina Suplente 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "hincha",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Manga larga",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_3.webp",
+        "alt": "manga larga"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_4.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_5.webp",
+        "alt": "logo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_6.webp",
+        "alt": "parche"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup26fan_7.webp",
+        "alt": "detalle"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-x-thrasher-hincha",
+    "title": "Argentina x Thrasher",
+    "team": "argentina",
+    "year": 2026,
+    "version": "hincha",
+    "basePrice": 60000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/thrasher1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/thrasher2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/thrasher3.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/thrasher4.webp",
+        "alt": "logo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/thrasher5.webp",
+        "alt": "etiqueta"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-bringback-remixed-hincha",
+    "title": "Argentina Bringback Remixed",
+    "team": "argentina",
+    "year": 2026,
+    "version": "hincha",
+    "basePrice": 60000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/remixed1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/remixed2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/remixed3.webp",
+        "alt": "dorsal"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/remixed4.webp",
+        "alt": "cuello"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/remixed5.webp",
+        "alt": "etiqueta"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-teamgeist-blanca-abrigo",
+    "title": "Argentina Campera Teamgeist Blanca",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_b2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_b3.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_b4.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-teamgeist-azul-abrigo",
+    "title": "Argentina Campera Teamgeist Azul",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_a1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_a2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_a3.webp",
+        "alt": "tela interior"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_teamgeist_a4.webp",
+        "alt": "logo teamgeist"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-eqt-abrigo",
+    "title": "Argentina Campera EQT",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_eqt_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_eqt_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-1994-abrigo",
+    "title": "Argentina Campera 1994",
+    "team": "argentina",
+    "year": 1994,
+    "version": "abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera94_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera94_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera94_3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-rompevientos-azul-2026-abrigo",
+    "title": "Argentina Rompevientos Azul 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_a1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_a2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_a3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-rompevientos-blanco-2026-abrigo",
+    "title": "Argentina Rompevientos Blanco 2026",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_b1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_b2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/rompevientos_b3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-prematch-abrigo",
+    "title": "Argentina Campera Prematch",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_prematch1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_prematch2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-originals-azul-abrigo",
+    "title": "Argentina Campera Originals Azul",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_a1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_a2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_a3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-campera-originals-celeste-abrigo",
+    "title": "Argentina Campera Originals Celeste",
+    "team": "argentina",
+    "year": 2026,
+    "version": "abrigo",
+    "basePrice": 120000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_c1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_c2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/campera_originals_c3.webp",
+        "alt": "tela interior"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-titular-2022-retro",
+    "title": "Argentina Titular 2022",
+    "team": "argentina",
+    "year": 2022,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/22_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/22_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/22_3.webp",
+        "alt": "dorsal"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/22_4.webp",
+        "alt": "firma"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-2022-retro",
+    "title": "Argentina Suplente 2022",
+    "team": "argentina",
+    "year": 2022,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup22_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup22_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup22_3.webp",
+        "alt": "pecho"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup22_4.webp",
+        "alt": "dorsal"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-titular-2021-retro",
+    "title": "Argentina Titular 2021",
+    "team": "argentina",
+    "year": 2021,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/21_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/21_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/21_3.webp",
+        "alt": "parches"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/21_4.webp",
+        "alt": "escudo"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-titular-2014-retro",
+    "title": "Argentina Titular 2014",
+    "team": "argentina",
+    "year": 2014,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/14_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/14_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-2014-retro",
+    "title": "Argentina Suplente 2014",
+    "team": "argentina",
+    "year": 2014,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup14_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup14_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup14_3.webp",
+        "alt": "pecho"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup14_4.webp",
+        "alt": "dorsal"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-titular-2006-retro",
+    "title": "Argentina Titular 2006",
+    "team": "argentina",
+    "year": 2006,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/06_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_3.webp",
+        "alt": "cuello"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_4.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_5.webp",
+        "alt": "etiqueta"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_6.webp",
+        "alt": "logo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/06_7.webp",
+        "alt": "teamgeist"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-2006-retro",
+    "title": "Argentina Suplente 2006",
+    "team": "argentina",
+    "year": 2006,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup06_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup06_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup06_3.webp",
+        "alt": "pecho"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup06_4.webp",
+        "alt": "parche"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-1994-retro",
+    "title": "Argentina Suplente 1994",
+    "team": "argentina",
+    "year": 1994,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup94_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup94_2.webp",
+        "alt": "dorso"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup94_3.webp",
+        "alt": "escudo"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup94_4.webp",
+        "alt": "cuello"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup94_5.webp",
+        "alt": "manga"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup94_6.webp",
+        "alt": "etiqueta"
+      }
+    ]
+  },
+  {
+    "id": "arg-argentina-suplente-1986-retro",
+    "title": "Argentina Suplente 1986",
+    "team": "argentina",
+    "year": 1986,
+    "version": "retro",
+    "basePrice": 55000,
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/selecciones/argentina/sup86_1.webp",
+        "alt": "frente"
+      },
+      {
+        "src": "catalogo/selecciones/argentina/sup86_2.webp",
+        "alt": "dorso"
+      }
+    ]
+  },
+  {
     "id": "argentina-hincha-59",
     "team": "argentina",
     "version": "hincha",
@@ -2815,7 +3613,7 @@
     "id": "argentina-hincha-61",
     "team": "argentina",
     "version": "hincha",
-    "title": "Argentina 24/25 Hincha",
+    "title": "Argentina 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -2862,7 +3660,7 @@
     "id": "argentina-jugador-62",
     "team": "argentina",
     "version": "jugador",
-    "title": "Argentina Titular 24/25 Jugador",
+    "title": "Argentina Titular 24/25",
     "basePrice": 60000,
     "images": [
       {
@@ -2909,7 +3707,7 @@
     "id": "argentina-hincha-63",
     "team": "argentina",
     "version": "hincha",
-    "title": "Argentina Suplente 24/25 Hincha",
+    "title": "Argentina Suplente 24/25",
     "basePrice": 55000,
     "images": [
       {
@@ -2960,7 +3758,7 @@
     "id": "argentina-jugador-64",
     "team": "argentina",
     "version": "jugador",
-    "title": "Argentina Suplente 24/25 Jugador",
+    "title": "Argentina Suplente 24/25",
     "basePrice": 60000,
     "images": [
       {
