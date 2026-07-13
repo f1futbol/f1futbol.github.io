@@ -32,7 +32,7 @@ npm run build
 
 ---
 
-## 📦 Cómo agregar un nuevo producto (Paso a Paso)
+## Cómo agregar un nuevo producto (Paso a Paso)
 
 ### Paso 1: Descargar las fotos
 1. Ingresa a la galería de tu proveedor.
