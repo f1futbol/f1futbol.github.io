@@ -1,5 +1,169 @@
 [
   {
+    "title": "River Suplente - 26/27",
+    "basePrice": 60000,
+    "team": "river",
+    "version": "jugador",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      },
+      {
+        "label": "Manga Larga",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/sup26_player1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_player2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_player3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_player4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_player5.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_player6.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476199483"
+  },
+  {
+    "title": "River Suplente - 26/27",
+    "basePrice": 55000,
+    "team": "river",
+    "version": "hincha",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      },
+      {
+        "label": "Manga Larga",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/sup26_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/sup26_4.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476184602"
+  },
+  {
+    "title": "River Titular - 26/27",
+    "basePrice": 60000,
+    "team": "river",
+    "version": "jugador",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      },
+      {
+        "label": "Manga Larga",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/titu26_player1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_player2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_player3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_player4.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476164640"
+  },
+  {
+    "title": "River Titular - 26/27",
+    "basePrice": 55000,
+    "team": "river",
+    "version": "hincha",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      },
+      {
+        "label": "Parches",
+        "value": "+$2.500 c/u"
+      },
+      {
+        "label": "Manga Larga",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/titu26_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/titu26_4.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476151380"
+  },
+  {
     "id": "river-jugador-125-1783369440476",
     "team": "river",
     "version": "jugador",
@@ -8,27 +172,27 @@
     "images": [
       {
         "src": "catalogo/equipos/river/river125_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river125_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river125_3.webp",
-        "alt": "Dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river125_4.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river125_5.webp",
-        "alt": "Logo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river125_6.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [
@@ -40,31 +204,261 @@
     "year": 2026
   },
   {
+    "title": "River Prematch - 26/27",
+    "basePrice": 55000,
+    "team": "river",
+    "version": "hincha",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/prematch26_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/prematch26_2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476048662"
+  },
+  {
+    "title": "River Musculosa Blanca - 26/27",
+    "basePrice": 55000,
+    "team": "river",
+    "version": "hincha",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/musc26_b1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/musc26_b2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476010173"
+  },
+  {
+    "title": "River Musculosa Roja - 26/27",
+    "basePrice": 55000,
+    "team": "river",
+    "version": "hincha",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/musc26_r1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/musc26_r2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787475992845"
+  },
+  {
+    "title": "River Kit Entrenamiento Blanco - 26/27",
+    "basePrice": 75000,
+    "team": "river",
+    "version": "hincha",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/kit26_b1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit26_b2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787475865703"
+  },
+  {
+    "title": "River Kit Entrenamiento Rojo - 26/27",
+    "basePrice": 75000,
+    "team": "river",
+    "version": "hincha",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/kit26_r1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit26_r2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787475845130"
+  },
+  {
+    "title": "River Kit Originals - 26/27",
+    "basePrice": 120000,
+    "team": "river",
+    "version": "abrigo",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/kit_originals1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_originals2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_originals3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_originals4.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787475748259"
+  },
+  {
+    "title": "River Kit UDP - 25/26",
+    "basePrice": 120000,
+    "team": "river",
+    "version": "abrigo",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/kit_udp1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_udp2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_udp3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_udp4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/kit_udp5.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787475696328"
+  },
+  {
+    "title": "River 100 años",
+    "basePrice": 60000,
+    "team": "river",
+    "version": "retro",
+    "details": [
+      {
+        "label": "Personalización",
+        "value": "+$5.000"
+      }
+    ],
+    "images": [
+      {
+        "src": "catalogo/equipos/river/100_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/100_2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/100_3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/100_4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/equipos/river/100_5.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787476078473"
+  },
+  {
+    "title": "Alpine - 2026",
+    "basePrice": 65000,
+    "team": "alpine",
+    "version": "chomba",
+    "images": [
+      {
+        "src": "catalogo/f1/alpine/chomba1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/alpine/chomba2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787469873892"
+  },
+  {
+    "title": "Alpine - 2026",
+    "basePrice": 65000,
+    "team": "alpine",
+    "version": "camiseta",
+    "images": [
+      {
+        "src": "catalogo/f1/alpine/camiseta1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/alpine/camiseta2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787469826226"
+  },
+  {
     "id": "river-retro-trico2006-1783374625198",
     "team": "river",
     "version": "retro",
-    "title": "River tricolor 2006",
+    "title": "River Tricolor - 2006",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/trico2006_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico2006_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico2006_3.webp",
-        "alt": "cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico2006_4.webp",
-        "alt": "escudo y manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico2006_5.webp",
-        "alt": "etiqueta"
+        "alt": ""
       }
     ],
     "details": [
@@ -78,32 +472,32 @@
     "id": "river-retro-96-1783374625198",
     "team": "river",
     "version": "retro",
-    "title": "River titular 1996",
+    "title": "River Titular - 1996",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/96_1.webp",
-        "alt": "frente escudo1"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/96_2.webp",
-        "alt": "escudo1"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/96_3.webp",
-        "alt": "frente escudo2"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/96_4.webp",
-        "alt": "escudo2"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/96_5.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/96_6.webp",
-        "alt": "manga"
+        "alt": ""
       }
     ],
     "details": [
@@ -117,20 +511,20 @@
     "id": "river-retro-sup95-1783374625198",
     "team": "river",
     "version": "retro",
-    "title": "River suplente 1995",
+    "title": "River Suplente - 1995",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/sup95_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup95_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup95_3.webp",
-        "alt": "escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -144,28 +538,28 @@
     "id": "river-retro-92-1783374625198",
     "team": "river",
     "version": "retro",
-    "title": "River suplente 1992",
+    "title": "River Suplente - 1992",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/92_1.webp",
-        "alt": "frente manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/92_2.webp",
-        "alt": "frente manga corta"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/92_3.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/92_4.webp",
-        "alt": "cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/92_5.webp",
-        "alt": "escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -183,24 +577,24 @@
     "id": "river-retro-86-1783374625198",
     "team": "river",
     "version": "retro",
-    "title": "River titular 1986",
+    "title": "River Titular - 1986",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/86_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/86_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/86_3.webp",
-        "alt": "dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/86_4.webp",
-        "alt": "escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -214,36 +608,36 @@
     "id": "river-hincha-0",
     "team": "river",
     "version": "hincha",
-    "title": "River Suplente 25/26",
+    "title": "River Suplente - 25/26",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_suplente_1.webp",
-        "alt": "Frente sin sponsor"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_2.webp",
-        "alt": "Frente con sponsor"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_6.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_7.webp",
-        "alt": "Tela interior"
+        "alt": ""
       }
     ],
     "details": [
@@ -265,44 +659,44 @@
     "id": "river-jugador-1",
     "team": "river",
     "version": "jugador",
-    "title": "River Suplente 25/26",
+    "title": "River Suplente - 25/26",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_suplente_player_1.webp",
-        "alt": "Frente con sponsor"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_8.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_suplente_player_larga.webp",
-        "alt": "Manga larga"
+        "alt": ""
       }
     ],
     "details": [
@@ -328,40 +722,40 @@
     "id": "river-hincha-2",
     "team": "river",
     "version": "hincha",
-    "title": "River Titular 25/26",
+    "title": "River Titular - 25/26",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_titular_1.webp",
-        "alt": "Frente sin sponsor"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_2.webp",
-        "alt": "Frente con sponsor"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_6.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_8.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       }
     ],
     "details": [
@@ -387,40 +781,40 @@
     "id": "river-jugador-3",
     "team": "river",
     "version": "jugador",
-    "title": "River Titular 25/26",
+    "title": "River Titular - 25/26",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_titular_player_2.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_6.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_7.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_8.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titular_player_1.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       }
     ],
     "details": [
@@ -446,36 +840,36 @@
     "id": "river-hincha-4",
     "team": "river",
     "version": "hincha",
-    "title": "River Alternativa 25/26",
+    "title": "River Alternativa - 25/26",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_alternativa_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -493,40 +887,40 @@
     "id": "river-jugador-5",
     "team": "river",
     "version": "jugador",
-    "title": "River Alternativa 25/26",
+    "title": "River Alternativa - 25/26",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_alternativa_player_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_alternativa_player_8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -549,19 +943,19 @@
     "images": [
       {
         "src": "catalogo/equipos/river/ubp1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/ubp2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/ubp3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/ubp4.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [],
@@ -576,35 +970,35 @@
     "images": [
       {
         "src": "catalogo/equipos/river/icons1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons7.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/icons8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [],
@@ -619,35 +1013,35 @@
     "images": [
       {
         "src": "catalogo/equipos/river/mlb1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/mlb8.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [],
@@ -657,36 +1051,36 @@
     "id": "river-hicha-9",
     "team": "river",
     "version": "hincha",
-    "title": "River Titular 24/25",
+    "title": "River Titular - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_titu_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -704,36 +1098,36 @@
     "id": "river-jugador-10",
     "team": "river",
     "version": "jugador",
-    "title": "River Titular 24/25",
+    "title": "River Titular - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_titu_player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_titu_player_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -751,36 +1145,36 @@
     "id": "river-hincha-11",
     "team": "river",
     "version": "hincha",
-    "title": "River Suplente 24/25",
+    "title": "River Suplente - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_sup_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -798,40 +1192,40 @@
     "id": "river-jugador-12",
     "team": "river",
     "version": "jugador",
-    "title": "River Suplente 24/25",
+    "title": "River Suplente - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/river_sup_player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/river_sup_player_24.8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -849,24 +1243,24 @@
     "id": "river-hincha-13",
     "team": "river",
     "version": "hincha",
-    "title": "River Alternativa 24/25",
+    "title": "River Alternativa - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/river/alt_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/alt_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/alt_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/alt_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       }
     ],
     "details": [
@@ -884,24 +1278,24 @@
     "id": "river-retro-14",
     "team": "river",
     "version": "retro",
-    "title": "River Copa Libertadores 2018",
+    "title": "River Copa Libertadores - 2018",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/2018.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/2018.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/2018.3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/2018.4.webp",
-        "alt": "Cuello"
+        "alt": ""
       }
     ],
     "details": [
@@ -919,40 +1313,40 @@
     "id": "river-retro-15",
     "team": "river",
     "version": "retro",
-    "title": "River Titular 2014",
+    "title": "River Titular - 2014",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/titu_14.1.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.2.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.6.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.7.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_14.8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -970,32 +1364,32 @@
     "id": "river-retro-16",
     "team": "river",
     "version": "retro",
-    "title": "River Aniversario Monumental 2014",
+    "title": "River Aniversario Monumental - 2014",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/monu_14.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/monu_14.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/monu_14.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/monu_14.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/monu_14.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/monu_14.6.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1009,32 +1403,32 @@
     "id": "river-retro-17",
     "team": "river",
     "version": "retro",
-    "title": "River Titular 2006",
+    "title": "River Titular - 2006",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/titu_06.1.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_06.2.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_06.3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_06.4.webp",
-        "alt": "Cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_06.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_06.6.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [
@@ -1052,36 +1446,36 @@
     "id": "river-retro-18",
     "team": "river",
     "version": "retro",
-    "title": "River Bordo 05/06",
+    "title": "River Bordo - 05/06",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/bordo_05.1.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.2.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.6.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_05.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1099,36 +1493,36 @@
     "id": "river-retro-19",
     "team": "river",
     "version": "retro",
-    "title": "River Tricolor 04/05",
+    "title": "River Tricolor - 04/05",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/trico_04.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_04.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1142,36 +1536,36 @@
     "id": "river-retro-20",
     "team": "river",
     "version": "retro",
-    "title": "River Tricolor 2002",
+    "title": "River Tricolor - 2002",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/trico_02.1.webp",
-        "alt": "Frente manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.2.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.3.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.4.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.5.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_02.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1189,36 +1583,36 @@
     "id": "river-retro-21",
     "team": "river",
     "version": "retro",
-    "title": "River Titular 2001",
+    "title": "River Titular - 2001",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/titu_2001.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_2001.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1232,36 +1626,36 @@
     "id": "river-retro-22",
     "team": "river",
     "version": "retro",
-    "title": "River Suplente 2001",
+    "title": "River Suplente - 2001",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/sup_2001.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/sup_2001.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1275,36 +1669,36 @@
     "id": "river-retro-23",
     "team": "river",
     "version": "retro",
-    "title": "River Tricolor 2001",
+    "title": "River Tricolor - 2001",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/trico_2001.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_2001.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1318,36 +1712,36 @@
     "id": "river-retro-24",
     "team": "river",
     "version": "retro",
-    "title": "River Tricolor 1999",
+    "title": "River Tricolor - 1999",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/trico_99.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/trico_99.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1361,24 +1755,24 @@
     "id": "river-retro-25",
     "team": "river",
     "version": "retro",
-    "title": "River Bordo 1996",
+    "title": "River Bordo - 1996",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/bordo_96.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_96.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_96.3.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/bordo_96.4.webp",
-        "alt": "Cuello"
+        "alt": ""
       }
     ],
     "details": [
@@ -1392,32 +1786,32 @@
     "id": "river-retro-26",
     "team": "river",
     "version": "retro",
-    "title": "River Titular 1995",
+    "title": "River Titular - 1995",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/river/titu_95.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_95.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_95.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_95.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_95.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/river/titu_95.6.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1431,36 +1825,36 @@
     "id": "boca-hincha-27",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Titular 25/26",
+    "title": "Boca Titular - 25/26",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/boca/boca_titular_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_6.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1478,36 +1872,36 @@
     "id": "boca-jugador-28",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Titular 25/26",
+    "title": "Boca Titular - 25/26",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/boca_titular_player_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_6.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_titular_player_7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1525,36 +1919,36 @@
     "id": "boca-hincha-29",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suplente 25/26",
+    "title": "Boca Suplente - 25/26",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/boca/boca_suplente_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_6.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_7.webp",
-        "alt": "Tela interior"
+        "alt": ""
       }
     ],
     "details": [
@@ -1572,36 +1966,36 @@
     "id": "boca-jugador-30",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suplente 25/26",
+    "title": "Boca Suplente - 25/26",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_6.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/boca_suplente_player_7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1624,31 +2018,31 @@
     "images": [
       {
         "src": "catalogo/equipos/boca/icons1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons4.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons6.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/icons7.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [],
@@ -1663,35 +2057,35 @@
     "images": [
       {
         "src": "catalogo/equipos/boca/mlb_blanca1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca4.webp",
-        "alt": "CABJ"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca7.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_blanca8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [],
@@ -1706,23 +2100,23 @@
     "images": [
       {
         "src": "catalogo/equipos/boca/mlb_azul1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_azul2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_azul3.webp",
-        "alt": "CABJ"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_azul4.webp",
-        "alt": "Adidas"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/mlb_azul5.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [],
@@ -1732,36 +2126,36 @@
     "id": "boca-hincha-34",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Titular 24/25",
+    "title": "Boca Titular - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1779,40 +2173,40 @@
     "id": "boca-jugador-35",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Titular 24/25",
+    "title": "Boca Titular - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_player_24.8.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1830,36 +2224,36 @@
     "id": "boca-hincha-36",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suplente 24/25",
+    "title": "Boca Suplente - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1877,36 +2271,36 @@
     "id": "boca-jugador-37",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suplente 24/25",
+    "title": "Boca Suplente - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_player_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -1924,32 +2318,32 @@
     "id": "boca-hincha-38",
     "team": "boca",
     "version": "hincha",
-    "title": "Boca Suecia 24/25",
+    "title": "Boca Suecia - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/boca/suecia1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia2.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia3.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia4.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia6.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -1967,24 +2361,24 @@
     "id": "boca-jugador-39",
     "team": "boca",
     "version": "jugador",
-    "title": "Boca Suecia 24/25",
+    "title": "Boca Suecia - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/suecia_player1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia_player2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia_player3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/suecia_player4.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2002,36 +2396,36 @@
     "id": "boca-retro-40",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Rosa 13/14",
+    "title": "Boca Rosa - 13/14",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/rosa1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/rosa7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2045,36 +2439,36 @@
     "id": "boca-retro-41",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 10/11",
+    "title": "Boca Titular - 10/11",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_11.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.6.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_11.7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2088,32 +2482,32 @@
     "id": "boca-retro-42",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 9/10",
+    "title": "Boca Titular - 9/10",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_10.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_10.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_10.3.webp",
-        "alt": "Cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_10.4.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_10.5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_10.6.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2127,32 +2521,32 @@
     "id": "boca-retro-43",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 07/08",
+    "title": "Boca Titular - 07/08",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_07.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_07.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_07.3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_07.4.webp",
-        "alt": "Espalda"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_07.5.webp",
-        "alt": "Manga der"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_07.6.webp",
-        "alt": "Manga izq"
+        "alt": ""
       }
     ],
     "details": [
@@ -2166,32 +2560,32 @@
     "id": "boca-retro-44",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Dorada 07/08",
+    "title": "Boca Dorada - 07/08",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_07.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_07.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_07.3.webp",
-        "alt": "Manga der"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_07.4.webp",
-        "alt": "Manga izq"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_07.5.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_07.6.webp",
-        "alt": "Tela"
+        "alt": ""
       }
     ],
     "details": [
@@ -2205,32 +2599,32 @@
     "id": "boca-retro-45",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 06/07",
+    "title": "Boca Titular - 06/07",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_06.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_06.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_06.3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_06.4.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_06.5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_06.6.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [
@@ -2244,32 +2638,32 @@
     "id": "boca-retro-46",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Suplente 06/07",
+    "title": "Boca Suplente - 06/07",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_06.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_06.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_06.3.webp",
-        "alt": "Manga derecha"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_06.4.webp",
-        "alt": "Manga izquierda"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_06.5.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_06.6.webp",
-        "alt": "Etiqueta"
+        "alt": ""
       }
     ],
     "details": [
@@ -2283,24 +2677,24 @@
     "id": "boca-retro-47",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 2002",
+    "title": "Boca Titular - 2002",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_02.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_02.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_02.3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_02.4.webp",
-        "alt": "Manga"
+        "alt": ""
       }
     ],
     "details": [
@@ -2314,24 +2708,24 @@
     "id": "boca-retro-48",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 93/94",
+    "title": "Boca Titular - 93/94",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_94.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_94.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_94.3.webp",
-        "alt": "Manga izq"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_94.4.webp",
-        "alt": "Manga der"
+        "alt": ""
       }
     ],
     "details": [
@@ -2345,24 +2739,24 @@
     "id": "boca-retro-49",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 95/96",
+    "title": "Boca Titular - 95/96",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_95.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_95.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_95.3.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_95.4.webp",
-        "alt": "Tela"
+        "alt": ""
       }
     ],
     "details": [
@@ -2376,36 +2770,36 @@
     "id": "boca-retro-50",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Suplente 95/96",
+    "title": "Boca Suplente - 95/96",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_95.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_95.7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2419,36 +2813,36 @@
     "id": "boca-retro-51",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Titular 96/97",
+    "title": "Boca Titular - 96/97",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/titu_96.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/titu_96.7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2462,32 +2856,32 @@
     "id": "boca-retro-52",
     "team": "boca",
     "version": "retro",
-    "title": "Boca Suplente 96/97",
+    "title": "Boca Suplente - 96/97",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/boca/sup_96.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_96.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_96.3.webp",
-        "alt": "Cuelo delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_96.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_96.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/boca/sup_96.6.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2499,38 +2893,38 @@
   },
   {
     "id": "sanlorenzo-hincha-53",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "hincha",
-    "title": "San Lorenzo Titular 2025",
+    "title": "San Lorenzo Titular - 2025",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.6.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_25.7.webp",
-        "alt": "Escudo"
+        "alt": ""
       }
     ],
     "details": [
@@ -2542,34 +2936,34 @@
   },
   {
     "id": "sanlorenzo-hincha-54",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "hincha",
-    "title": "San Lorenzo Titular 2024",
+    "title": "San Lorenzo Titular - 2024",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.3.webp",
-        "alt": "Cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.4.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/titu_24.6.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -2581,34 +2975,34 @@
   },
   {
     "id": "sanlorenzo-hincha-55",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "hincha",
-    "title": "San Lorenzo Suplente 2024",
+    "title": "San Lorenzo Suplente - 2024",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.3.webp",
-        "alt": "Cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.4.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.5.webp",
-        "alt": "Tela"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/sup_24.6.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -2620,38 +3014,38 @@
   },
   {
     "id": "sanlorenzo-retro-56",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "retro",
-    "title": "San Lorenzo Campeon Libertadores 2014",
+    "title": "San Lorenzo Campeon Libertadores - 2014",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/libertadores1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores3.webp",
-        "alt": "Pecho1"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores4.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores5.webp",
-        "alt": "Pecho2"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores6.webp",
-        "alt": "Hombro"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/libertadores7.webp",
-        "alt": "Cuello"
+        "alt": ""
       }
     ],
     "details": [
@@ -2663,26 +3057,26 @@
   },
   {
     "id": "sanlorenzo-retro-57",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "retro",
-    "title": "San Lorenzo 94/95",
+    "title": "San Lorenzo - 94/95",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/94-95.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/94-95.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/94-95.3.webp",
-        "alt": "Hombro izq"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/94-95.4.webp",
-        "alt": "Hombro der"
+        "alt": ""
       }
     ],
     "details": [
@@ -2694,26 +3088,26 @@
   },
   {
     "id": "sanlorenzo-retro-58",
-    "team": "sanlorenzo",
+    "team": "san lorenzo",
     "version": "retro",
-    "title": "San Lorenzo 95/96",
+    "title": "San Lorenzo - 95/96",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/equipos/san lorenzo/95-96.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/95-96.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/95-96.3.webp",
-        "alt": "Hombro izq"
+        "alt": ""
       },
       {
         "src": "catalogo/equipos/san lorenzo/95-96.4.webp",
-        "alt": "Hombro der"
+        "alt": ""
       }
     ],
     "details": [
@@ -2725,7 +3119,7 @@
   },
   {
     "id": "arg-argentina-titular-2026-jugador",
-    "title": "Argentina Titular 2026",
+    "title": "Argentina Titular - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "jugador",
@@ -2747,29 +3141,29 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/player26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player26_3.webp",
-        "alt": "manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player26_4.webp",
-        "alt": "pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player26_5.webp",
-        "alt": "dorsal"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-2026-jugador",
-    "title": "Argentina Suplente 2026",
+    "title": "Argentina Suplente - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "jugador",
@@ -2791,37 +3185,37 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup26player_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_3.webp",
-        "alt": "manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_4.webp",
-        "alt": "dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_5.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_6.webp",
-        "alt": "logo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26player_7.webp",
-        "alt": "detalle"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-titular-2026-hincha",
-    "title": "Argentina Titular 2026",
+    "title": "Argentina Titular - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "hincha",
@@ -2843,41 +3237,41 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/fan26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_3.webp",
-        "alt": "manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_4.webp",
-        "alt": "dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_5.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_6.webp",
-        "alt": "logo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_7.webp",
-        "alt": "parche"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/fan26_8.webp",
-        "alt": "1893"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-2026-hincha",
-    "title": "Argentina Suplente 2026",
+    "title": "Argentina Suplente - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "hincha",
@@ -2899,31 +3293,31 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup26fan_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_3.webp",
-        "alt": "manga larga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_4.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_5.webp",
-        "alt": "logo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_6.webp",
-        "alt": "parche"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup26fan_7.webp",
-        "alt": "detalle"
+        "alt": ""
       }
     ]
   },
@@ -2938,23 +3332,23 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/thrasher1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/thrasher2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/thrasher3.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/thrasher4.webp",
-        "alt": "logo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/thrasher5.webp",
-        "alt": "etiqueta"
+        "alt": ""
       }
     ]
   },
@@ -2974,23 +3368,23 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/remixed1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/remixed2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/remixed3.webp",
-        "alt": "dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/remixed4.webp",
-        "alt": "cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/remixed5.webp",
-        "alt": "etiqueta"
+        "alt": ""
       }
     ]
   },
@@ -3005,19 +3399,19 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_b3.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_b4.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
@@ -3032,19 +3426,19 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_a1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_a2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_a3.webp",
-        "alt": "tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_teamgeist_a4.webp",
-        "alt": "logo teamgeist"
+        "alt": ""
       }
     ]
   },
@@ -3059,17 +3453,17 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_eqt_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_eqt_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-campera-1994-abrigo",
-    "title": "Argentina Campera 1994",
+    "title": "Argentina Campera - 1994",
     "team": "argentina",
     "year": 1994,
     "version": "abrigo",
@@ -3078,21 +3472,21 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera94_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera94_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera94_3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-rompevientos-azul-2026-abrigo",
-    "title": "Argentina Rompevientos Azul 2026",
+    "title": "Argentina Rompevientos Azul - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "abrigo",
@@ -3101,21 +3495,21 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/rompevientos_a1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/rompevientos_a2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/rompevientos_a3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-rompevientos-blanco-2026-abrigo",
-    "title": "Argentina Rompevientos Blanco 2026",
+    "title": "Argentina Rompevientos Blanco - 2026",
     "team": "argentina",
     "year": 2026,
     "version": "abrigo",
@@ -3124,15 +3518,15 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/rompevientos_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/rompevientos_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/rompevientos_b3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
@@ -3147,11 +3541,11 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_prematch1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_prematch2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3166,15 +3560,15 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_originals_a1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_originals_a2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_originals_a3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
@@ -3189,21 +3583,21 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/campera_originals_c1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_originals_c2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/campera_originals_c3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-titular-2022-retro",
-    "title": "Argentina Titular 2022",
+    "title": "Argentina Titular - 2022",
     "team": "argentina",
     "year": 2022,
     "version": "retro",
@@ -3221,25 +3615,25 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/22_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/22_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/22_3.webp",
-        "alt": "dorsal"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/22_4.webp",
-        "alt": "firma"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-2022-retro",
-    "title": "Argentina Suplente 2022",
+    "title": "Argentina Suplente - 2022",
     "team": "argentina",
     "year": 2022,
     "version": "retro",
@@ -3257,25 +3651,25 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup22_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup22_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup22_3.webp",
-        "alt": "pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup22_4.webp",
-        "alt": "dorsal"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-titular-2021-retro",
-    "title": "Argentina Titular 2021",
+    "title": "Argentina Titular - 2021",
     "team": "argentina",
     "year": 2021,
     "version": "retro",
@@ -3293,25 +3687,25 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/21_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/21_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/21_3.webp",
-        "alt": "parches"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/21_4.webp",
-        "alt": "escudo"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-titular-2014-retro",
-    "title": "Argentina Titular 2014",
+    "title": "Argentina Titular - 2014",
     "team": "argentina",
     "year": 2014,
     "version": "retro",
@@ -3329,17 +3723,17 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/14_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/14_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-2014-retro",
-    "title": "Argentina Suplente 2014",
+    "title": "Argentina Suplente - 2014",
     "team": "argentina",
     "year": 2014,
     "version": "retro",
@@ -3357,25 +3751,25 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup14_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup14_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup14_3.webp",
-        "alt": "pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup14_4.webp",
-        "alt": "dorsal"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-titular-2006-retro",
-    "title": "Argentina Titular 2006",
+    "title": "Argentina Titular - 2006",
     "team": "argentina",
     "year": 2006,
     "version": "retro",
@@ -3393,37 +3787,37 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/06_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_3.webp",
-        "alt": "cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_4.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_5.webp",
-        "alt": "etiqueta"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_6.webp",
-        "alt": "logo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/06_7.webp",
-        "alt": "teamgeist"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-2006-retro",
-    "title": "Argentina Suplente 2006",
+    "title": "Argentina Suplente - 2006",
     "team": "argentina",
     "year": 2006,
     "version": "retro",
@@ -3441,25 +3835,25 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup06_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup06_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup06_3.webp",
-        "alt": "pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup06_4.webp",
-        "alt": "parche"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-1994-retro",
-    "title": "Argentina Suplente 1994",
+    "title": "Argentina Suplente - 1994",
     "team": "argentina",
     "year": 1994,
     "version": "retro",
@@ -3473,33 +3867,33 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup94_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup94_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup94_3.webp",
-        "alt": "escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup94_4.webp",
-        "alt": "cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup94_5.webp",
-        "alt": "manga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup94_6.webp",
-        "alt": "etiqueta"
+        "alt": ""
       }
     ]
   },
   {
     "id": "arg-argentina-suplente-1986-retro",
-    "title": "Argentina Suplente 1986",
+    "title": "Argentina Suplente - 1986",
     "team": "argentina",
     "year": 1986,
     "version": "retro",
@@ -3513,11 +3907,11 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup86_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup86_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3530,31 +3924,31 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/arg_50_1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_3.webp",
-        "alt": "Cuello"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_4.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/arg_50_7.webp",
-        "alt": "Dorsal"
+        "alt": ""
       }
     ],
     "details": [
@@ -3578,23 +3972,23 @@
     "images": [
       {
         "src": "catalogo/selecciones/argentina/copa_america_player.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/copa_america_player.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/copa_america_player.3.webp",
-        "alt": "Parche1"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/copa_america_player.4.webp",
-        "alt": "Parche2"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/copa_america_player.5.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -3613,36 +4007,36 @@
     "id": "argentina-hincha-61",
     "team": "argentina",
     "version": "hincha",
-    "title": "Argentina 24/25",
+    "title": "Argentina - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/selecciones/argentina/hincha_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/hincha_24.7.webp",
-        "alt": "Dorsal"
+        "alt": ""
       }
     ],
     "details": [
@@ -3660,36 +4054,36 @@
     "id": "argentina-jugador-62",
     "team": "argentina",
     "version": "jugador",
-    "title": "Argentina Titular 24/25",
+    "title": "Argentina Titular - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/selecciones/argentina/player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.5.webp",
-        "alt": "Parche mundial"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.6.webp",
-        "alt": "Escudo"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/player_24.7.webp",
-        "alt": "Tela interior"
+        "alt": ""
       }
     ],
     "details": [
@@ -3707,40 +4101,40 @@
     "id": "argentina-hincha-63",
     "team": "argentina",
     "version": "hincha",
-    "title": "Argentina Suplente 24/25",
+    "title": "Argentina Suplente - 24/25",
     "basePrice": 55000,
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.5.webp",
-        "alt": "Parche 1"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.6.webp",
-        "alt": "Parche 2"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_24.8.webp",
-        "alt": "Tela interior"
+        "alt": ""
       }
     ],
     "details": [
@@ -3758,36 +4152,36 @@
     "id": "argentina-jugador-64",
     "team": "argentina",
     "version": "jugador",
-    "title": "Argentina Suplente 24/25",
+    "title": "Argentina Suplente - 24/25",
     "basePrice": 60000,
     "images": [
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.2.webp",
-        "alt": "Dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.3.webp",
-        "alt": "Cuello delantero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.4.webp",
-        "alt": "Cuello trasero"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.5.webp",
-        "alt": "Manga"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.6.webp",
-        "alt": "Tela interior"
+        "alt": ""
       },
       {
         "src": "catalogo/selecciones/argentina/sup_player_24.7.webp",
-        "alt": "Pecho"
+        "alt": ""
       }
     ],
     "details": [
@@ -3812,11 +4206,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chomba26_n1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba26_n2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3831,11 +4225,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chombaDNA_n1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chombaDNA_n2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3850,11 +4244,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chomba26_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba26_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3869,11 +4263,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chombaDNA_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chombaDNA_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3888,11 +4282,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chomba26_a1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba26_a2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3907,11 +4301,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/negra26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/negra26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3926,15 +4320,15 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/blanca26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/blanca26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/blanca26_3.webp",
-        "alt": "etiqueta"
+        "alt": ""
       }
     ]
   },
@@ -3949,11 +4343,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/violeta26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/violeta26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3968,11 +4362,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/mecanico1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/mecanico2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -3987,11 +4381,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/y3version1_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/y3version1_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4006,11 +4400,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/y3version2_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/y3version2_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4025,11 +4419,11 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/buzo_n1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/buzo_n2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4044,21 +4438,21 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/campera1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/campera2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/campera3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
   {
     "id": "f1-ferrari-chomba-26",
-    "title": "Ferrari - 2026",
+    "title": "Ferrari Modelo 1 - 2026",
     "team": "ferrari",
     "year": 2026,
     "version": "chomba",
@@ -4067,13 +4461,32 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/chomba26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/chomba26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
+  },
+  {
+    "title": "Ferrari Modelo 2 - 2026",
+    "basePrice": 65000,
+    "team": "ferrari",
+    "version": "chomba",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba26_m2_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba26_m2_2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787471774200",
+    "year": 2026
   },
   {
     "id": "f1-ferrari-chomba-retro-r-26",
@@ -4086,11 +4499,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/chomba_retro_r1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/chomba_retro_r2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4105,11 +4518,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/chomba_retro_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/chomba_retro_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4124,11 +4537,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/chomba_retro_n1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/chomba_retro_n2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4143,11 +4556,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/26_m1_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/26_m1_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4162,13 +4575,32 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/26_m2_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/26_m2_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
+  },
+  {
+    "title": "Ferrari Modelo 3 - 2026",
+    "basePrice": 65000,
+    "team": "ferrari",
+    "version": "camiseta",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/26_m3_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/26_m3_2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787470957431",
+    "year": 2026
   },
   {
     "id": "f1-ferrari-china-26",
@@ -4181,11 +4613,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/china1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/china2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4200,11 +4632,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/yearofthehorse1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/yearofthehorse2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4219,11 +4651,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/retro_r1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/retro_r2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4238,11 +4670,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/retro_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/retro_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4257,11 +4689,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/retro_n1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/retro_n2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4276,19 +4708,19 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/buzo1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/buzo2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/buzo3.webp",
-        "alt": "derecha"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/buzo4.webp",
-        "alt": "izquierda"
+        "alt": ""
       }
     ]
   },
@@ -4303,11 +4735,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/campera1_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera1_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4322,15 +4754,15 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/campera2_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera2_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera2_3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
@@ -4345,15 +4777,15 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/campera3_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera3_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera3_3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
   },
@@ -4368,11 +4800,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/campera4_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/campera4_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4387,68 +4819,11 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/chomba26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba26_2.webp",
-        "alt": "dorso"
-      }
-    ]
-  },
-  {
-    "id": "f1-redbull-26",
-    "title": "Red Bull - 2026",
-    "team": "redbull",
-    "year": 2026,
-    "version": "camiseta",
-    "basePrice": 65000,
-    "details": [],
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/26_1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/26_2.webp",
-        "alt": "dorso"
-      }
-    ]
-  },
-  {
-    "id": "f1-redbull-buzo-26",
-    "title": "Red Bull Buzo - 2026",
-    "team": "redbull",
-    "year": 2026,
-    "version": "Abrigo",
-    "basePrice": 100000,
-    "details": [],
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/buzo1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/buzo2.webp",
-        "alt": "dorso"
-      }
-    ]
-  },
-  {
-    "id": "f1-redbull-campera-26",
-    "title": "Red Bull Campera - 2026",
-    "team": "redbull",
-    "year": 2026,
-    "version": "Abrigo",
-    "basePrice": 100000,
-    "details": [],
-    "images": [
-      {
-        "src": "catalogo/f1/redbull/campera26_1.webp",
-        "alt": "frente"
-      },
-      {
-        "src": "catalogo/f1/redbull/campera26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4463,11 +4838,30 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/chomba_vcarb26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba_vcarb26_2.webp",
-        "alt": "dorso"
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-26",
+    "title": "Red Bull - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "camiseta",
+    "basePrice": 65000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/26_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/26_2.webp",
+        "alt": ""
       }
     ]
   },
@@ -4482,11 +4876,49 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/vcarb26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/vcarb26_2.webp",
-        "alt": "dorso"
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-buzo-26",
+    "title": "Red Bull Buzo - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/buzo1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/buzo2.webp",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "f1-redbull-campera-26",
+    "title": "Red Bull Campera - 2026",
+    "team": "redbull",
+    "year": 2026,
+    "version": "Abrigo",
+    "basePrice": 100000,
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/campera26_1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/campera26_2.webp",
+        "alt": ""
       }
     ]
   },
@@ -4501,11 +4933,11 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/chomba26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/chomba26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4520,11 +4952,11 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4539,11 +4971,11 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/GP1000_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/GP1000_2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4558,11 +4990,11 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/buzo1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/buzo2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4577,11 +5009,11 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/campera1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/campera2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4596,21 +5028,39 @@
     "images": [
       {
         "src": "catalogo/f1/audi/chomba1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/chomba2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/chomba3.webp",
-        "alt": "audi"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/chomba4.webp",
-        "alt": "logo"
+        "alt": ""
       }
     ]
+  },
+  {
+    "title": "Audi Verde - 2026",
+    "basePrice": 65000,
+    "team": "audi",
+    "version": "camiseta",
+    "details": [],
+    "images": [
+      {
+        "src": "catalogo/f1/audi/verde1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/audi/verde2.webp",
+        "alt": ""
+      }
+    ],
+    "id": "1787470433078"
   },
   {
     "id": "f1-audi-camiseta",
@@ -4623,19 +5073,19 @@
     "images": [
       {
         "src": "catalogo/f1/audi/camiseta1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/camiseta2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/camiseta3.webp",
-        "alt": "audi"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/audi/camiseta4.webp",
-        "alt": "logo"
+        "alt": ""
       }
     ]
   },
@@ -4650,15 +5100,15 @@
     "images": [
       {
         "src": "catalogo/f1/astonmartin/chomba26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/chomba26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/chomba26_3.webp",
-        "alt": "Alonso 14"
+        "alt": ""
       }
     ]
   },
@@ -4673,15 +5123,15 @@
     "images": [
       {
         "src": "catalogo/f1/astonmartin/26_1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/26_2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/26_3.webp",
-        "alt": "Alonso 14"
+        "alt": ""
       }
     ]
   },
@@ -4696,122 +5146,17 @@
     "images": [
       {
         "src": "catalogo/f1/astonmartin/campera1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/campera2.webp",
-        "alt": "dorso"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/astonmartin/campera3.webp",
-        "alt": "tela interior"
+        "alt": ""
       }
     ]
-  },
-  {
-    "id": "f1-mercedes-negra",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Negra - 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/negra1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/negra7.webp",
-        "alt": "Detalle 6"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-blanca",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Blanca - 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/blanca1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/mercedes/blanca7.webp",
-        "alt": "Detalle 6"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mercedes-miami",
-    "team": "mercedes",
-    "version": "camiseta",
-    "title": "Mercedes Miami - 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mercedes/miami1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mercedes/miami4.webp",
-        "alt": "Detalle 3"
-      }
-    ],
-    "details": [],
-    "year": 2025
   },
   {
     "id": "f1-mercedes-chomba-blanca",
@@ -4822,19 +5167,19 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chomba_b1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_b2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_b3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_b4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       }
     ],
     "details": [],
@@ -4849,19 +5194,167 @@
     "images": [
       {
         "src": "catalogo/f1/mercedes/chomba_n1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_n2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_n3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mercedes/chomba_n4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-negra",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Negra - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/negra1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra5.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra6.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/negra7.webp",
+        "alt": ""
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-blanca",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Blanca - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/blanca1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca5.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca6.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/blanca7.webp",
+        "alt": ""
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-mercedes-miami",
+    "team": "mercedes",
+    "version": "camiseta",
+    "title": "Mercedes Miami - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/mercedes/miami1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mercedes/miami4.webp",
+        "alt": ""
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-ferrari-chomba",
+    "team": "ferrari",
+    "version": "chomba",
+    "title": "Ferrari - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/ferrari/chomba1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba5.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba6.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba7.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/ferrari/chomba8.webp",
+        "alt": ""
       }
     ],
     "details": [],
@@ -4878,11 +5371,11 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/lasvegas1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/lasvegas2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -4895,27 +5388,27 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/5.webp",
-        "alt": "Detalle 4"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/6.webp",
-        "alt": "Detalle 5"
+        "alt": ""
       }
     ],
     "details": [],
@@ -4930,19 +5423,19 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/blanca1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/blanca2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/blanca3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/blanca4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       }
     ],
     "details": [],
@@ -4959,56 +5452,13 @@
     "images": [
       {
         "src": "catalogo/f1/ferrari/azul1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/ferrari/azul2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
-  },
-  {
-    "id": "f1-ferrari-chomba",
-    "team": "ferrari",
-    "version": "chomba",
-    "title": "Ferrari - 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/ferrari/chomba1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba5.webp",
-        "alt": "Detalle 4"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba6.webp",
-        "alt": "Detalle 5"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba7.webp",
-        "alt": "Detalle 6"
-      },
-      {
-        "src": "catalogo/f1/ferrari/chomba8.webp",
-        "alt": "Detalle 7"
-      }
-    ],
-    "details": [],
-    "year": 2025
   },
   {
     "id": "f1-redbull-chomba-b-25",
@@ -5021,11 +5471,11 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/chomba_b1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba_b2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -5040,11 +5490,11 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/hypebeast1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/hypebeast2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
@@ -5057,19 +5507,46 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/chomba1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/chomba4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
+      }
+    ],
+    "details": [],
+    "year": 2025
+  },
+  {
+    "id": "f1-redbull-rb",
+    "team": "redbull",
+    "version": "chomba",
+    "title": "RB Visa CashApp - 2025",
+    "basePrice": 65000,
+    "images": [
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb1.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb2.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb3.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/redbull/chomba_vcarb4.webp",
+        "alt": ""
       }
     ],
     "details": [],
@@ -5084,19 +5561,19 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       }
     ],
     "details": [],
@@ -5113,36 +5590,44 @@
     "images": [
       {
         "src": "catalogo/f1/redbull/campera1.webp",
-        "alt": "frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/redbull/campera2.webp",
-        "alt": "dorso"
+        "alt": ""
       }
     ]
   },
   {
-    "id": "f1-redbull-rb",
-    "team": "redbull",
+    "id": "f1-mclaren-chomba",
+    "team": "mclaren",
     "version": "chomba",
-    "title": "RB Visa CashApp - 2025",
+    "title": "McLaren - 2025",
     "basePrice": 65000,
     "images": [
       {
-        "src": "catalogo/f1/redbull/chomba_vcarb1.webp",
-        "alt": "Frente"
+        "src": "catalogo/f1/mclaren/chomba1.webp",
+        "alt": ""
       },
       {
-        "src": "catalogo/f1/redbull/chomba_vcarb2.webp",
-        "alt": "Detalle 1"
+        "src": "catalogo/f1/mclaren/chomba2.webp",
+        "alt": ""
       },
       {
-        "src": "catalogo/f1/redbull/chomba_vcarb3.webp",
-        "alt": "Detalle 2"
+        "src": "catalogo/f1/mclaren/chomba3.webp",
+        "alt": ""
       },
       {
-        "src": "catalogo/f1/redbull/chomba_vcarb4.webp",
-        "alt": "Detalle 3"
+        "src": "catalogo/f1/mclaren/chomba4.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_norris.webp",
+        "alt": ""
+      },
+      {
+        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
+        "alt": ""
       }
     ],
     "details": [],
@@ -5157,35 +5642,35 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/5.webp",
-        "alt": "Detalle 4"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/6.webp",
-        "alt": "Detalle 5"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/norris.webp",
-        "alt": "Norris"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/piastri.webp",
-        "alt": "Piastri"
+        "alt": ""
       }
     ],
     "details": [],
@@ -5200,66 +5685,31 @@
     "images": [
       {
         "src": "catalogo/f1/mclaren/azul1.webp",
-        "alt": "Frente"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul2.webp",
-        "alt": "Detalle 1"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul3.webp",
-        "alt": "Detalle 2"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul4.webp",
-        "alt": "Detalle 3"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul5.webp",
-        "alt": "Detalle 4"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul6.webp",
-        "alt": "Detalle 5"
+        "alt": ""
       },
       {
         "src": "catalogo/f1/mclaren/azul_norris.webp",
-        "alt": "Norris"
-      }
-    ],
-    "details": [],
-    "year": 2025
-  },
-  {
-    "id": "f1-mclaren-chomba",
-    "team": "mclaren",
-    "version": "chomba",
-    "title": "McLaren - 2025",
-    "basePrice": 65000,
-    "images": [
-      {
-        "src": "catalogo/f1/mclaren/chomba1.webp",
-        "alt": "Frente"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba2.webp",
-        "alt": "Detalle 1"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba3.webp",
-        "alt": "Detalle 2"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba4.webp",
-        "alt": "Detalle 3"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_norris.webp",
-        "alt": "Norris"
-      },
-      {
-        "src": "catalogo/f1/mclaren/chomba_piastri.webp",
-        "alt": "Piastri"
+        "alt": ""
       }
     ],
     "details": [],

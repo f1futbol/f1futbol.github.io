@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { Catalog } from './components/Catalog';
 import { TallesView } from './components/TallesView';
+import { Admin } from './components/Admin';
 
 function App() {
   const [view, setView] = useState<'catalog' | 'talles'>('catalog');
@@ -39,6 +40,14 @@ function App() {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
+
+  if (window.location.pathname === '/admin') {
+    return (
+      <div className="min-h-screen bg-dark">
+        <Admin />
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-dark">
