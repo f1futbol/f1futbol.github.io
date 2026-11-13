@@ -1,4 +1,5 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
+import { useScrollLock } from '../lib/useScrollLock';
 
 export type SortOption = 'recent' | 'year_desc' | 'price_asc' | 'price_desc';
 
@@ -28,17 +29,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
 
   const activeCount = (selectedTeam ? 1 : 0) + (selectedVersion ? 1 : 0);
 
-  // Lock body scroll when filter sheet is open
-  useEffect(() => {
-    if (isOpen) {
-      document.body.style.overflow = 'hidden';
-    } else {
-      document.body.style.overflow = 'unset';
-    }
-    return () => {
-      document.body.style.overflow = 'unset';
-    };
-  }, [isOpen]);
+  useScrollLock(isOpen);
 
   return (
     <>

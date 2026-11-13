@@ -1,5 +1,9 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { ImageModal } from './ImageModal';
+import { ProductOptionsModal } from './ProductOptionsModal';
+import { InstagramIcon } from './InstagramIcon';
+import { formatPrice } from '../lib/order';
+import { cart } from '../lib/cart';
 import { thumbUrl, fallbackToFull } from '../lib/images';
 
 export interface Product {
@@ -19,6 +23,10 @@ interface ProductCardProps {
 
 export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isOrderOpen, setIsOrderOpen] = useState(false);
+  const closeOrder = useCallback(() => setIsOrderOpen(false), []);
+  // Desde la galería: se cierra la galería y se abre el formulario (nunca los dos a la vez)
+  const openOrder = useCallback(() => { setIsModalOpen(false); setIsOrderOpen(true); }, []);
   const [isVisible, setIsVisible] = useState(false);
   // La foto del dorso solo se descarga cuando el mouse pasa por la tarjeta,
   // y el cruce de imágenes solo se activa cuando ya cargó (evita un flash negro).
@@ -41,14 +49,6 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
     if (cardRef.current) observer.observe(cardRef.current);
     return () => observer.disconnect();
   }, []);
-
-  const formatPrice = (price: number) => {
-    return new Intl.NumberFormat('es-AR', {
-      style: 'currency',
-      currency: 'ARS',
-      maximumFractionDigits: 0
-    }).format(price);
-  };
 
   return (
     <>
@@ -127,7 +127,15 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
                 ))}
               </div>
             )}
-            
+
+            <button
+              type="button"
+              onClick={openOrder}
+              className="mt-auto w-full bg-accent hover:brightness-110 text-white rounded-lg py-2 md:py-2.5 text-xs md:text-sm font-bold flex items-center justify-center gap-1.5 md:gap-2 transition-all shadow-md shadow-accent/20"
+            >
+              <InstagramIcon className="w-4 h-4 md:w-5 md:h-5" />
+              Encargar
+            </button>
           </div>
         </div>
       </div>
@@ -137,7 +145,20 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         onClose={() => setIsModalOpen(false)}
         images={product.images}
         initialIndex={0}
+        onOrder={openOrder}
       />
+
+      {isOrderOpen && (
+        <ProductOptionsModal
+          product={product}
+          submitLabel="Agregar al pedido"
+          onClose={closeOrder}
+          onSubmit={(options) => {
+            cart.add(product.id, options); // agrega y abre el carrito
+            closeOrder();
+          }}
+        />
+      )}
     </>
   );
 };
