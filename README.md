@@ -43,10 +43,18 @@ npm run build
 4. Nombralas de forma simple y secuencial (ej: `madrid-titular-1.jpg`, `madrid-titular-2.jpg`).
 
 ### Paso 2: Optimización de Imágenes
-Abre la terminal en tu editor y ejecuta el siguiente comando para que las fotos crudas se conviertan automáticamente a formato WebP (más rápido y ligero) y se eliminen los originales pesados:
+Abre la terminal en tu editor y ejecuta el siguiente comando:
 ```bash
 npm run optimizar
 ```
+El script:
+- Convierte las fotos `.jpg`/`.png` a WebP (lado mayor máx. 1600px) y borra los originales pesados.
+- Achica cualquier `.webp` que supere los 1600px.
+- Genera para cada foto de producto un **thumb** (`foto.thumb.webp`, ~600px) que es lo que cargan las tarjetas del catálogo. La foto completa solo se descarga al abrir la galería.
+
+Se puede correr todas las veces que quieras: solo procesa lo que falta. **Commiteá también los `.thumb.webp`.** Si te olvidás de generarlos, el sitio funciona igual pero carga la foto completa (más lenta).
+
+> Si cargás productos con el panel admin (`npm run admin`), las fotos ya se guardan optimizadas y con su thumb.
 
 ### Paso 3: Instrucción de Carga
 Abre el chat con el asistente en el entorno de desarrollo y envíale un mensaje con la instrucción de carga. Debe contener:

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { ImageModal } from './ImageModal';
+import { fullUrl } from '../lib/images';
 
 export const TallesView = () => {
   const [selectedImageIdx, setSelectedImageIdx] = useState<number | null>(null);
@@ -27,7 +28,7 @@ export const TallesView = () => {
             className="bg-card rounded-xl overflow-hidden shadow-lg border border-gray-800 p-4 w-full flex justify-center cursor-pointer hover:border-gray-600 transition-colors"
             onClick={() => setSelectedImageIdx(idx)}
           >
-            <img src={`/${img.src}`} alt={img.alt} className="max-w-full h-auto rounded" />
+            <img src={fullUrl(img.src)} alt={img.alt} loading="lazy" decoding="async" className="max-w-full h-auto rounded" />
           </div>
         ))}
       </div>

@@ -3,7 +3,7 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const multer = require('multer');
-const sharp = require('sharp');
+const { writeFull, writeThumb } = require('../scripts/image-utils.cjs');
 
 const app = express();
 app.use(cors());
@@ -36,10 +36,9 @@ app.post('/api/upload', upload.array('images'), async (req, res) => {
       const filename = `${basename}.webp`;
       const fullPath = path.join(dir, filename);
 
-      // Optimizar y convertir a WebP automáticamente
-      await sharp(file.buffer)
-        .webp({ quality: 80 })
-        .toFile(fullPath);
+      // Convertir a WebP (máx. 1600px) y generar el thumb para las tarjetas
+      await writeFull(file.buffer, fullPath);
+      await writeThumb(fullPath);
 
       // Calcular la ruta relativa para guardar en el JSON
       const relPath = `catalogo/${storeMode}/${team}/${filename}`;

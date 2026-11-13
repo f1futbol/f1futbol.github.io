@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { ImageModal } from './ImageModal';
+import { thumbUrl, fallbackToFull } from '../lib/images';
 
 export interface Product {
   id: string;
@@ -19,6 +20,12 @@ interface ProductCardProps {
 export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
+  // La foto del dorso solo se descarga cuando el mouse pasa por la tarjeta,
+  // y el cruce de imágenes solo se activa cuando ya cargó (evita un flash negro).
+  const [wantBack, setWantBack] = useState(false);
+  const [backLoaded, setBackLoaded] = useState(false);
+  const front = product.images[0];
+  const back = product.images[1];
   const cardRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -52,22 +59,37 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         <div 
           className="relative w-full overflow-hidden cursor-pointer group bg-black flex-none"
           onClick={() => setIsModalOpen(true)}
+          onPointerEnter={(e) => { if (e.pointerType === 'mouse' && back) setWantBack(true); }}
         >
           {/* Main Front Image */}
-          <img 
-            src={`${import.meta.env.BASE_URL}${product.images[0]?.src}`} 
-            alt={product.title} 
-            className={`w-full aspect-square object-cover transition-all duration-700 ease-in-out ${
-              product.images.length > 1 ? 'md:group-hover:opacity-0 md:group-hover:scale-110' : 'md:group-hover:scale-105'
-            }`}
-          />
-          
-          {/* Back Image (Hover Reveal - Desktop Only) */}
-          {product.images.length > 1 && (
-            <img 
-              src={`${import.meta.env.BASE_URL}${product.images[1]?.src}`} 
-              alt={`${product.title} dorso`} 
-              className="absolute inset-0 w-full aspect-square object-cover opacity-0 transition-all duration-700 ease-in-out md:group-hover:opacity-100 md:group-hover:scale-105"
+          {front && (
+            <img
+              src={thumbUrl(front.src)}
+              onError={fallbackToFull(front.src)}
+              alt={product.title}
+              width={600}
+              height={600}
+              loading="lazy"
+              decoding="async"
+              className={`w-full aspect-square object-cover transition-all duration-700 ease-in-out ${
+                backLoaded ? 'md:group-hover:opacity-0 md:group-hover:scale-110' : 'md:group-hover:scale-105'
+              }`}
+            />
+          )}
+
+          {/* Back Image (Hover Reveal - Desktop Only, se carga recién en el primer hover) */}
+          {back && wantBack && (
+            <img
+              src={thumbUrl(back.src)}
+              onError={fallbackToFull(back.src)}
+              onLoad={() => setBackLoaded(true)}
+              alt={`${product.title} dorso`}
+              width={600}
+              height={600}
+              decoding="async"
+              className={`absolute inset-0 w-full aspect-square object-cover opacity-0 transition-all duration-700 ease-in-out ${
+                backLoaded ? 'md:group-hover:opacity-100 md:group-hover:scale-105' : ''
+              }`}
             />
           )}
           

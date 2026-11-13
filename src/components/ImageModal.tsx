@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { fullUrl } from '../lib/images';
 
 interface ImageModalProps {
   isOpen: boolean;
@@ -62,7 +63,7 @@ export const ImageModal: React.FC<ImageModalProps> = ({ isOpen, onClose, images,
 
       <div className="relative w-full max-w-4xl h-[85vh] flex flex-col items-center justify-center p-4 pb-20 gap-4">
         <img 
-          src={`${import.meta.env.BASE_URL}${images[currentIndex].src}`} 
+          src={fullUrl(images[currentIndex].src)}
           alt="" 
           className="max-w-full max-h-[calc(100%-3rem)] object-contain rounded-lg shadow-2xl"
           onClick={(e) => e.stopPropagation()} 
