@@ -171,12 +171,42 @@ export const CartDrawer = () => {
                 <span className="text-2xl font-black text-accent">{formatPrice(total)}</span>
               </div>
 
-              {messages.length > 1 && (
-                <p className="text-xs text-gray-400">
-                  Tu pedido es largo y Instagram corta los mensajes, así que se envía en {messages.length} partes:
-                  copiá y pegá cada una en orden.
-                </p>
-              )}
+              {/* Instrucciones de envío: arriba del botón y bien visibles, para leerlas antes de tocar */}
+              <div aria-live="polite">
+                {messages.some((m) => copied[m] === false) ? (
+                  <div className="rounded-xl border border-red-500/50 bg-red-500/10 px-4 py-3 text-sm md:text-base text-red-300 font-semibold">
+                    No se pudo copiar automáticamente. Abrí “Ver mensaje” más abajo y copialo a mano.
+                  </div>
+                ) : anyCopied ? (
+                  <div className="rounded-xl border border-green-500/50 bg-green-500/10 px-4 py-3 text-sm md:text-base text-green-300">
+                    <p className="font-black text-base md:text-lg">✓ ¡Pedido copiado!</p>
+                    <p className="mt-1">
+                      Ahora pegalo en el chat con <span className="font-bold text-white">@{INSTAGRAM_USER}</span> y envialo.
+                      {messages.length > 1 && ' Después volvé y enviá la parte que sigue.'}
+                    </p>
+                  </div>
+                ) : (
+                  <div className="rounded-xl border border-white/15 bg-white/5 px-4 py-3 text-sm md:text-base text-gray-100">
+                    <p className="font-black text-white mb-1.5">📋 Cómo enviar tu pedido</p>
+                    <ol className="space-y-1 list-decimal list-inside marker:font-bold marker:text-accent">
+                      <li>
+                        Tocá el botón: <span className="font-semibold text-white">tu pedido se copia</span> y se abre
+                        Instagram.
+                      </li>
+                      <li>
+                        En el chat con <span className="font-semibold text-white">@{INSTAGRAM_USER}</span>,{' '}
+                        <span className="font-semibold text-white">pegalo y envialo</span>.
+                      </li>
+                    </ol>
+                    {messages.length > 1 && (
+                      <p className="mt-2 text-gray-300">
+                        Tu pedido es largo y Instagram corta los mensajes: se envía en{' '}
+                        <span className="font-semibold text-white">{messages.length} partes</span>, una por botón, en orden.
+                      </p>
+                    )}
+                  </div>
+                )}
+              </div>
 
               {messages.map((message, i) => (
                 <a
@@ -193,15 +223,6 @@ export const CartDrawer = () => {
                 </a>
               ))}
 
-              <p className="text-xs text-center text-gray-400" aria-live="polite">
-                {messages.some((m) => copied[m] === false) ? (
-                  <span className="text-red-400">No se pudo copiar automáticamente: abrí “Ver mensaje” y copialo a mano.</span>
-                ) : anyCopied ? (
-                  <span className="text-green-400 font-semibold">✓ Copiado. Pegalo en el chat con @{INSTAGRAM_USER} y envialo.</span>
-                ) : (
-                  `Se copia tu pedido y se abre el chat con @${INSTAGRAM_USER}: solo tenés que pegarlo y enviarlo.`
-                )}
-              </p>
 
               <details className="text-sm">
                 <summary className="cursor-pointer text-gray-400 hover:text-white select-none">Ver mensaje</summary>
