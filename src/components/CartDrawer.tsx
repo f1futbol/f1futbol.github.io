@@ -19,11 +19,25 @@ import {
 
 type Line = OrderLine & { item: CartItem };
 
+const PencilIcon = ({ className = 'w-4 h-4' }: { className?: string }) => (
+  <svg className={className} fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24" aria-hidden="true">
+    <path strokeLinecap="round" strokeLinejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125" />
+  </svg>
+);
+
+const TrashIcon = ({ className = 'w-4 h-4' }: { className?: string }) => (
+  <svg className={className} fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24" aria-hidden="true">
+    <path strokeLinecap="round" strokeLinejoin="round" d="M14.74 9l-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 01-2.244 2.077H8.084a2.25 2.25 0 01-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 00-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 013.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 00-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 00-7.5 0" />
+  </svg>
+);
+
 export const CartDrawer = () => {
   const { items, isOpen, sent } = useCart();
   const [editingKey, setEditingKey] = useState<string | null>(null);
   // Mensajes ya copiados (por texto: si el pedido cambia, se "desmarcan" solos)
   const [copied, setCopied] = useState<Record<string, boolean>>({});
+  // "Vaciar" del encabezado pide confirmación para no borrar todo por un toque sin querer
+  const [confirmClear, setConfirmClear] = useState(false);
 
   const lines: Line[] = useMemo(
     () =>
@@ -39,7 +53,10 @@ export const CartDrawer = () => {
   const anyCopied = messages.some((m) => copied[m] === true);
   const editing = lines.find((l) => l.item.key === editingKey);
 
-  const close = useCallback(() => cart.close(), []);
+  const close = useCallback(() => {
+    setConfirmClear(false);
+    cart.close();
+  }, []);
   const stopEditing = useCallback(() => setEditingKey(null), []);
   useScrollLock(isOpen);
   useEscape(isOpen && !editing, close);
@@ -55,7 +72,7 @@ export const CartDrawer = () => {
   const clearCart = () => {
     cart.clear();
     setCopied({});
-    cart.close();
+    close();
   };
 
   return (
@@ -74,13 +91,47 @@ export const CartDrawer = () => {
         className={`fixed top-0 right-0 h-full w-full sm:w-[440px] bg-card border-l border-gray-800 z-[110] flex flex-col shadow-2xl transition-transform duration-300 ${isOpen ? 'translate-x-0' : 'translate-x-full'}`}
       >
         {/* Encabezado */}
-        <div className="flex items-center justify-between p-5 border-b border-gray-800">
-          <h2 className="text-xl font-black text-white italic">
-            Tu pedido {units > 0 && <span className="text-accent">({units})</span>}
-          </h2>
-          <button onClick={close} aria-label="Cerrar carrito" className="text-gray-400 hover:text-white text-3xl leading-none">
-            &times;
-          </button>
+        <div className="flex items-center justify-between gap-3 p-5 border-b border-gray-800 min-h-[76px]">
+          {confirmClear && lines.length > 0 ? (
+            <>
+              <p className="text-base font-bold text-white whitespace-nowrap">¿Vaciar todo?</p>
+              <div className="flex items-center gap-1.5">
+                <button
+                  onClick={clearCart}
+                  className="inline-flex items-center gap-1.5 whitespace-nowrap rounded-lg bg-red-600 hover:bg-red-500 text-white text-sm font-bold px-2.5 py-2 transition-colors"
+                >
+                  <TrashIcon />
+                  Sí, vaciar
+                </button>
+                <button
+                  onClick={() => setConfirmClear(false)}
+                  className="whitespace-nowrap rounded-lg text-gray-300 hover:text-white hover:bg-white/5 text-sm font-semibold px-2.5 py-2 transition-colors"
+                >
+                  Cancelar
+                </button>
+              </div>
+            </>
+          ) : (
+            <>
+              <h2 className="text-xl font-black text-white italic">
+                Tu pedido {units > 0 && <span className="text-accent">({units})</span>}
+              </h2>
+              <div className="flex items-center gap-1">
+                {lines.length > 0 && (
+                  <button
+                    onClick={() => setConfirmClear(true)}
+                    className="inline-flex items-center gap-1.5 rounded-lg text-gray-300 hover:text-red-400 hover:bg-red-500/10 text-sm font-semibold px-2.5 py-2 transition-colors"
+                  >
+                    <TrashIcon />
+                    Vaciar
+                  </button>
+                )}
+                <button onClick={close} aria-label="Cerrar carrito" className="text-gray-400 hover:text-white text-3xl leading-none px-1">
+                  &times;
+                </button>
+              </div>
+            </>
+          )}
         </div>
 
         {/* Aviso por encargo */}
@@ -150,11 +201,19 @@ export const CartDrawer = () => {
                         <span className="font-black text-accent">{formatPrice(lineTotal(line))}</span>
                       </div>
 
-                      <div className="flex gap-4 mt-2 text-xs font-semibold">
-                        <button onClick={() => setEditingKey(item.key)} className="text-gray-400 hover:text-white">
+                      <div className="flex gap-2 mt-2 -ml-2 text-sm font-semibold">
+                        <button
+                          onClick={() => setEditingKey(item.key)}
+                          className="inline-flex items-center gap-1.5 px-2 py-1.5 rounded-md text-gray-300 hover:text-white hover:bg-white/5 transition-colors"
+                        >
+                          <PencilIcon />
                           Editar
                         </button>
-                        <button onClick={() => cart.remove(item.key)} className="text-gray-400 hover:text-red-400">
+                        <button
+                          onClick={() => cart.remove(item.key)}
+                          className="inline-flex items-center gap-1.5 px-2 py-1.5 rounded-md text-gray-300 hover:text-red-400 hover:bg-red-500/10 transition-colors"
+                        >
+                          <TrashIcon />
                           Quitar
                         </button>
                       </div>
